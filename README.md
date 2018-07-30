@@ -1,2 +1,1 @@
-# indexed
-Indexed files 
+This repo contains all of the indexed files for the Strategy document.
