@@ -1,5 +1,7 @@
+[//]: # (Fork from main document, 07-30-2018, raw_translation 0.1)
+
 ---
-title: "Foundations for Open Scholarship Strategy Development"
+title: "Lineamientos estratégicos para implementación de una Academia Abierta"
 ---
 
 <meta charset="utf-8">
@@ -14,118 +16,118 @@ title: "Foundations for Open Scholarship Strategy Development"
 
 ### Table of Contents
 
-* [Purpose of this Document](#Purpose)
-* [Strategy](#Strategy)
-  * [Short-term strategy, <2 years](#Short)
-  * [Mid-term strategy, 2-5 years](#Middle)
-  * [Long-term strategy, >5 years](#Long)
-* [What is Open Scholarship?](#What_is)
-* [State of the Movement](#State)
-* [Top Strategic Priorities for Open Scholarship](#Priorities)
-  * [Democratization](#Democratization)
-  * [Pragmatism and transparency](#Pragmatism)
-  * [Infrastructure](#Infrastructure)
-  * [Public good](#Public)
-  * [Measurement](#Measurement)
-  * [Community and inclusion](#Community)
-* [Movement Strengths](#Strengths)
-* [Movement Challenges](#Challenges)
-  * [External conditions](#External)
-  * [Internal conditions](#Internal)
-* [Opportunities](#Opportunities)
-* [Threats](#Threats)
+* [Propósitos del documento](#Propósitos)
+* [Estrategias](#Estrategias)
+  * [Corto plazo, <2 años](#Corto)
+  * [Mediano plazo, 2-5 años](#Mediano)
+  * [Largo plazo, >5 años](#Largo)
+* [¿Qué es la Academia Abierta?](#What_is)
+* [Estado del Movimiento](#State)
+* [Estrategias prioritarias para una Academia Abierta](#Prioridades)
+  * [Democratización](#Democratización)
+  * [Pragmatismo y Transparencia](#Pragmatismo)
+  * [Infraestructura](#Infraestructura)
+  * [Bien público](#Publico)
+  * [Mediciones](#Mediciones)
+  * [Comunidad e inclusión](#Comunidad)
+* [Fortalezas del movimiento](#Fortalezas)
+* [Desafíos del movimiento](#Desafíos)
+  * [Condiciones externas](#Externalidades)
+  * [Condiciones internas](#Internalidades)
+* [Oportunidades](#Oportunidades)
+* [Amenazas](#Amenazas)
 
-**Important Note** The second draft of project is currently in development and available for contributions on [GitHub](https://github.com/Open-Scholarship-Strategy/site). Please see the [README](https://github.com/Open-Scholarship-Strategy/site/blob/master/README.md) file for more detail, and the main content file is [here](https://github.com/Open-Scholarship-Strategy/site/blob/master/index.Rmd).
+**Nota 1** El segundo borrador del proyecto se encuentra actualmente en desarrollo y disponible para contribuciones en [GitHub](https://github.com/Open-Scholarship-Strategy/site). Por favor mira el [LEEME](https://github.com/Open-Scholarship-Strategy/site/blob/master/README.md) archivo para más detalles, y el archivo de contenido principal está [aquí](https://github.com/Open-Scholarship-Strategy/site/blob/master/index.Rmd).
 
-*Note 2: Each version will be available as this website, a PDF (archived in Zenodo), raw markdown format, and iPython notebook.*
+**Nota 2**: Cada versión estará disponible como este sitio web, un PDF (archivado en Zenodo), formateado en markdown, y en un notebook de iPython.*
 
-**Drafting Committee**:
+**Comité de Redacción**:
 
 [Jonathan Tennant](https://orcid.org/0000-0001-7794-0218), [Jonathan Dugan](https://orcid.org/0000-0001-8525-6221), [Rachel Harding](https://orcid.org/0000-0002-1134-391X), [Tony Ross-Hellauer](https://orcid.org/0000-0003-4470-7027), [Kshitiz Khanal](https://orcid.org/0000-0002-4765-4832), [Thomas Pasquier](https://orcid.org/0000-0001-6876-1306), [Jeroen Bosman](https://orcid.org/0000-0001-5796-2727), [Asura Enkhbayar](https://orcid.org/0000-0002-3934-026X), [Gail Clement](https://orcid.org/0000-0001-5494-4806), [David Eccles](https://orcid.org/0000-0003-4634-4995), [Fiona Bradley](https://orcid.org/0000-0002-3622-2794), [Bjoern Brembs](https://orcid.org/0000-0001-7824-7650), [Pawel Szczesny](https://orcid.org/0000-0001-8442-0157), [Lisa Matthias](https://orcid.org/0000-0002-2612-2132), [Jesper Norgaard Kjaer](https://orcid.org/0000-0001-9183-9861), [Daniel S. Katz](https://orcid.org/0000-0001-5934-7525), [Tom Crick](https://orcid.org/0000-0001-5196-9389), [Christopher R. Madan](https://orcid.org/0000-0003-3228-6501), [Paul Macklin](https://orcid.org/0000-0002-9925-0151), [Johanna Havemann](https://orcid.org/0000-0002-6157-1494), [Jennifer E. Beamer](https://orcid.org/0000-0001-6887-6568), [Michael Schulte-Mecklenbeck](https://orcid.org/0000-0002-0406-8809), [Dan Sholler](https://scholar.google.com/citations?user=fHVPc94AAAAJ&hl=en), [Paola Masuzzo](https://orcid.org/0000-0003-3699-1195), [Tobias Steiner](https://orcid.org/0000-0002-3158-3136), [Tim Koder](https://orcid.org/0000-0001-6152-7365), [David Nichols](https://orcid.org/0000-0003-0321-7267), [Daniel Graziotin](https://orcid.org/0000-0002-9107-7681), [Alastair Dunning](https://orcid.org/0000-0002-8344-4883), [Andy Turner](https://orcid.org/0000-0002-6098-6313), [Neo Christopher Chung](https://orcid.org/0000-0001-6798-8867), [Katja Mayer](https://orcid.org/0000-0003-1184-595X).
 
-[**Contact**](mailto:jon.tennant.2@gmail.com)
+[**Contacto**](mailto:jon.tennant.2@gmail.com)
 
 
-# 1. Purpose of this Document <a name="Purpose"></a>
+# 1. Propósito de este documento <a name="Propósitos"></a>
 
-**This document aims to agree on a broad, international strategy for the implementation of open scholarship that meets the needs of different national and regional communities but works globally.**
+**Este documento tiene como objetivo acordar una estrategia amplia e internacional para la implementación de una academia abierta que satisfaga las necesidades de diferentes comunidades nacionales y regionales, pero que funcione globalmente.**
 
-Scholarly research can be an inspirational process for advancing our collective knowledge to the benefit of all humankind. However, current research practices often struggle with a range of tensions and conflicts as it adapts to a largely digital system. What is broadly termed as *Open Scholarship* is an attempt to realign modern research practices with this ideal. We do not propose a definition of Open Scholarship, but recognise that it is a holistic term that encompasses many disciplines, practices, and principles, sometimes also referred to as Open Science or Open Research. We choose the term Open Scholarship to be more inclusive of these other terms.
+La investigación académica puede ser un proceso inspirador para avanzar nuestro conocimiento colectivo en beneficio de toda la humanidad. Sin embargo, las prácticas de investigación actuales a menudo luchan con un rango de tensiones y conflictos a medida que se adapta a un sistema mayormente digital. Lo que se denomina ampliamente como *Academia Abierta* es un intento de realinear las prácticas de investigación modernas con este ideal. No proponemos una definición de Open Scholarship, pero reconocemos que es un término holístico que abarca muchas disciplinas, prácticas y principios, a veces también conocidos como Ciencia Abierta o Investigación Abierta. Elegimos el término Academia Abierta para incluir estos otros términos.
 
-The purpose of this document is to provide a concise analysis of where the global Open Scholarship movement currently stands: what the common threads and strengths are, where the greatest opportunities and challenges lie, and how we can more effectively work together as a global community to recognise the top strategic priorities. This document was inspired by the [Foundations for OER Strategy Development](http://www.oerstrategy.org/home/read-the-doc/) and work in the [FORCE11 Scholarly Commons Working Group](https://www.force11.org/group/scholarly-commons-working-group), and developed by an open contribution working group.
+El propósito de este documento es proporcionar un análisis conciso de dónde se encuentra actualmente el movimiento global de Becas Abiertas: cuáles son los hilos y fortalezas comunes, dónde se encuentran las mayores oportunidades y desafíos, y cómo podemos trabajar más efectivamente juntos como una comunidad global para reconocer las principales prioridades estratégicas. Este documento fue inspirado por el [Foundations for OER Strategy Development](http://www.oerstrategy.org/home/read-the-doc/) y el trabajo en [FORCE11 Scholarly Commons Working Group](https://www.force11.org/group/scholarly-commons-working-group) desarrollado por una contribución abierta del grupo de trabajo.
 
-Our hope is that this document will serve as a foundational resource for continuing discussions and initiatives about implementing effective strategies to help streamline the integration of Open Scholarship practices into a modern, digital research culture. Through this, we hope to extend the reach and impact of Open Scholarship into a global context, making sure that it is truly *open for all*. We also hope that this document will evolve as the conversations around Open Scholarship progress, and help to provide useful insight for both global co-ordination and local action. We believe this is a step forward in making Open Scholarship the norm.
+Esperamos que este documento sirva como un recurso fundamental para continuar las discusiones e iniciativas sobre la implementación de estrategias efectivas para ayudar a simplificar la integración de las prácticas de Open Scholarship en una cultura de investigación moderna y digital. A través de esto, esperamos extender el alcance y el impacto de Open Scholarship en un contexto global, asegurándonos de que sea verdaderamente *abierto para todos*. También esperamos que este documento evolucione a medida que avancen las conversaciones sobre el progreso de Open Scholarship, y ayude a proporcionar información útil tanto para la coordinación global como para la acción local. Creemos que esto es un paso adelante para hacer de la Academia Abierta la norma.
 
-Ultimately, we expect the impact of widespread adoption of Open Scholarship to be diverse. We expect novel research practices to increase the pace of innovation, and therefore stimulate critical industries around the world. We could also expect to see an increase in public trust of science, as transparency becomes more normative. As such, we expect interest in Open Scholarship to increase at multiple levels, due to its inherent influence on society and global economics.
-
-
-# 2. Strategy <a name="Strategy"></a>
-
-"*[Strategy](https://en.wikipedia.org/wiki/Strategy) generally involves setting goals, determining actions to achieve the goals, and mobilizing resources to execute the actions. A strategy describes how the ends (goals) will be achieved by the means (resources).*"
-
-In order to overcome the challenges and achieve our priorities, we need to build on our strengths. We have identified three main temporal components (short-, mid-, and long-term) of our overall strategy to be used as direct suggestions for action on the individual, group, institutional or national (or higher) level. We notice that this hierarchy does not fully represent the connectivity of different levels of the academic system (e.g., at the discipline level). There is clearly a need for different fields to discuss what is culturally appropriate for themselves; however, this strategy can provide a foundation for guiding those discussions.
-
-With this, one of the principle goals for this strategy is to create communities that reciprocally support each other through learning and training. These communities will have the best insight into real life barriers, and how to overcome them, and be able to identify new realities at the different hierarchical levels, which can then be incorporated into decision making processes.
-
-We note that, due to the diversity of actors and stakeholders and their views and practices, this strategy is not a consensus document. How the different aspects are prioritised is a matter of debate based on varying perspectives. Its effectiveness will be realised when individuals and communities can implement different parts of it as cultural norms develop and shift towards a more open state. Indeed, many view the progress of Open Scholarship in the last 2-3 decades as painfully insubstantive, a factor which might reflect its general lack of strategic thinking and implementation.
-
-We also note that this strategy can only be based on information which we as a collective have, and it remains highly likely that there are many initiatives, policies and programs that we have inadvertently missed. As such, it is probable that there are strategies that we have missed or not even considered. Nonetheless, we have attempted to justify our strategy where possible using evidence and reasoning, the discussion of which can be found below the strategy in Section 5.
+Finalmente, esperamos que el impacto de la adopción generalizada de Open Scholarship sea diverso. Esperamos que se generen nuevas prácticas en la investigación, aumentando el ritmo de la innovación y, por lo tanto, estimular el desarrollo de industrias críticas en todo el mundo. También esperamos ver un aumento en la confianza pública en la ciencia, ya que la transparencia se vuelve normativa. Por todo ello, esperamos que el interés en la Academia abierta aumente en múltiples niveles, debido a su influencia inherente en la sociedad y la economía global.
 
 
-## 2.1 Short-term strategy (>2 years) <a name="Short"></a>
+# 2. Estrategia <a name="Estrategia"></a>
 
-**Individual Level**
+"*[Estrategia](https://es.wikipedia.org/wiki/Estrategia) generalmente implica establecer objetivos, determinar acciones para alcanzar los objetivos y movilizar recursos para ejecutar las acciones. Una estrategia describe cómo los fines (metas) se lograrán por los medios (recursos).*"
 
-* Advocate for funding organisations, governments and research institutions to adopt policies and mandates related to Open Scholarship practices beyond Open Access (OA) and data sharing; for example, on open peer review, use of persistent identifiers (PIDs), open research evaluation, and preprints. Further to that, advocate for open education with corresponding practices in order to help spread approaches to open among peers and the next generation of scientists.
+Para superar los desafíos y alcanzar nuestras prioridades, debemos construir sobre nuestras fortalezas. Hemos identificado tres componentes temporales principales (a corto, mediano y largo plazo) de nuestra estrategia general para utilizarlos como sugerencias directas de acción a nivel individual, grupal, institucional o nacional (o superior). Observamos que esta jerarquía no representa completamente la conectividad de los diferentes niveles del sistema académico (por ejemplo, a nivel de disciplina). Es evidente la necesidad de diferentes campos para discutir qué es culturalmente apropiado para ellos mismos; Sin embargo, esta estrategia puede proporcionar una base para guiar esas discusiones.
 
-* Make contributions of an individual to openness visible in public (e.g., on a CV, open platform, or personal website/blog).
+Con esto, uno de los principales objetivos de esta estrategia es crear comunidades que se apoyen recíprocamente a través del aprendizaje y la capacitación. Estas comunidades tendrán la mejor visión de las barreras de la vida real, y cómo superarlas, y ser capaces de identificar nuevas realidades en los diferentes niveles jerárquicos, que luego pueden ser incorporadas en los procesos de toma de decisiones.
 
-  * Use this as the basis to develop best practice stories around role models.
+Observamos que, debido a la diversidad de actores y partes interesadas y sus puntos de vista y prácticas, esta estrategia no es un documento de consenso. La forma en que se priorizan los diferentes aspectos es una cuestión de debate basada en perspectivas diferentes. Su efectividad se realizará cuando los individuos y las comunidades puedan implementar diferentes partes de ella a medida que las normas culturales se desarrollen y se muevan hacia un estado más abierto. De hecho, muchos ven el progreso de Open Scholarship en las últimas 2-3 décadas como penosamente insustancial, un factor que podría reflejar su falta general de pensamiento estratégico e implementación.
 
-* Adopt a broad-scale approach to the variety of open scholarly research and education practices. See the [FOSTER Open Science taxonomy](https://www.fosteropenscience.eu/resources) for guidance.
-   * Most importantly, begin with [making your own work available open access](https://cyber.harvard.edu/hoap/How_to_make_your_own_work_open_access).
+También observamos que esta estrategia solo puede basarse en la información que nosotros, como colectivo, tenemos, y sigue siendo muy probable que haya muchas iniciativas, políticas y programas que hemos pasado inadvertidamente. Como tal, es probable que haya estrategias que hemos perdido o que ni siquiera hemos considerado. No obstante, hemos intentado justificar nuestra estrategia siempre que ha sido posible utilizando evidencia y razonamiento, cuya discusión se puede encontrar debajo de la estrategia en la Sección 5.
 
-* Adopt the use of open source and free software for the conduct of research and analysis so that the computational processing can be audited by the community, and so that the tools used are available to everyone to increase productivity and collaboration. For the distinction between open, free, gratis and libre, see. e.g. [OpenSource.com](https://opensource.com/article/17/11/open-source-or-free-software).
 
-* Commit to a variety of personal Open Scholarship practices, such as sharing research data and materials in free, openly-licensed formats so that methods and results can be freely examined and built upon by the wider community.
+## 2.1 Estrategia a corto plazo (>2 años) <a name="Corto"></a>
 
-* Commit to sharing preprints for the open and rapid dissemination of your work.
+**Nivel Individual**
 
-* Establish and foster practices of re-use and remix to help create a thriving open scholarship culture, by, among other things:
+* Abogar por que las organizaciones de financiamiento, los gobiernos y las instituciones de investigación adopten políticas y mandatos relacionados con las prácticas de Open Scholarship más allá del Acceso Abierto (OA) y el intercambio de datos; por ejemplo, en la revisión por pares abierta, uso de identificadores persistentes (IDs), evaluación de investigación abierta y preimpresiones. Además de eso, abogar por la educación abierta con las prácticas correspondientes con el fin de ayudar a difundir los enfoques para abrir entre los compañeros y la próxima generación de científicos.
 
-   * Searching for existing data you can reuse instead of creating your own data;
+* Hacer las contribuciones de un individuo a la apertura visible en público (por ejemplo, en un CV, una plataforma abierta o un sitio web / blog personal).
 
-   * Leaving **constructive** comments/annotations on preprints/code etc. with open tools such as [hypothes.is](https://web.hypothes.is/);
+  * Use esto como la base para desarrollar historias de mejores prácticas en torno a modelos a seguir.
 
-   * Helping answer questions in [Ask Open Science](https://ask-open-science.org/), [Stack Overflow](https://stackoverflow.com/) and on Twitter; and
+* Adoptar un enfoque a gran escala para la variedad de investigaciones académicas abiertas y prácticas educativas. Ver la [Taxonomía de Ciencia Abierta de FOSTER](https://www.fosteropenscience.eu/resources) como guía.
+   * Lo más importante es comenzar con [disponibilizar tu trabajo en acceso abierto](https://cyber.harvard.edu/hoap/How_to_make_your_own_work_open_access).
 
-   * Reacting positively to requests for open peer review.
+* Adoptar el uso de software libre y de código abierto para llevar a cabo investigaciones y análisis, de modo que el procesamiento computacional pueda ser auditado por la comunidad, y que las herramientas utilizadas estén disponibles para todos, aumentando la productividad y la colaboración. Para la distinción entre abierto, gratis, gratis y libre, vea. p.ej. [OpenSource.com](https://opensource.com/article/17/11/open-source-or-free-software).
 
-* Establish support structures (e.g., openLabs, walk-in labs and support structures, makerspaces in the wider sense) that help to guide other individuals along the path towards Open Scholarship. This can include questions of how to publish, teach, learn and do research in the open, and what tools are available to use for these (see Figures 1 and 2, and *Group Level* section).
+* Comprométerse con una variedad de prácticas personales de la Academia Abierta, tales como el intercambio de datos y materiales de investigación en formatos libres y con licencia abierta, para que los métodos y resultados puedan ser examinados y construidos libremente por la comunidad en general.
 
-![Figure_1: Rainbow of open science practices](images/image_0.png)\
+* Comprométase a compartir las preimpresiones para la difusión abierta y rápida de su trabajo.
+
+* Establecer y fomentar prácticas de reutilización y remezclas para ayudar a crear una cultura de becas abierta próspera, entre otras cosas:
+
+   * Buscando datos existentes que puede volver a utilizar en lugar de crear sus propios datos;
+
+   * Dejando comentarios/anotaciones **constructivas** en preprints/códigos, entre otros, a través de herramientas abiertas como lo es [hypothes.is](https://web.hypothes.is/);
+
+   * Ayudando a responder preguntas en plataformas como [Ask Open Science](https://ask-open-science.org/), [Stack Overflow](https://stackoverflow.com/) y en Twitter u otros, y...
+
+   * Reaccionando positivamente a las solicitudes de revisión por pares abierta.
+
+* Establezca estructuras de soporte (por ejemplo, openLabs, laboratorios sin cita previa y estructuras de soporte, espacios para desarrolladores en el sentido más amplio) que ayuden a guiar a otras personas a lo largo del camino hacia Open Scholarship. Esto puede incluir preguntas sobre cómo publicar, enseñar, aprender y hacer investigación abiertamente, y qué herramientas están disponibles para usar para esto (ver las figuras 1 y 2, y la sección * Nivel de grupo *).
+
+![Figure_1: Arcoiris de prácticas en ciencia abierta](images/image_0.png)\
 
 [Kramer, Bianca, & Bosman, Jeroen (2018, January). Rainbow of open science practices. Zenodo](https://doi.org/10.5281/zenodo.1147024). (CCBY)
 
-![Figure_2: Open Educational Practice (OEP): collection of scenarios](images/image_1.png)\
+![Figure_2: Prácticas educativas abiertas (PAE): escenarios](images/image_1.png)\
 
 [Steiner, Tobias (2018, February). Open Educational Practice (OEP): collection of scenarios. Zenodo](https://zenodo.org/record/1183805). (CC0)
 
-* Form better relationships with other stakeholders involved in Open Scholarship developments (e.g., librarians, policymakers, publishers and other service providers, Open Access advocates, and those actively teaching, plus ICT and other support positions for science & education).
+* Fortalecer las relaciones con otras partes interesadas involucradas en desarrollos para la Academia Abierta (por ejemplo, bibliotecarios, diseñadores de políticas, editores y otros proveedores de servicios, defensores de acceso abierto y aquellos activamente docentes, además de TIC y otros puestos de apoyo para la ciencia y la educación).
 
-* Work for, and collaborate with, researchers who practice various aspects of Open Scholarship, ranging from developing Open Source software and tools to posting preprints and citizen science, and sharing experiences made with approaches to open education.
+* Trabajar y colaborar con investigadores que practiquen diversos aspectos de Open Scholarship, desde el desarrollo de software y herramientas de código abierto hasta la publicación de preprints y ciencias ciudadanas, y el intercambio de experiencias con enfoques de educación abierta..
 
-* Encourage the wider adoption of an open mindset that emphasises the importance of the research process over the outcome.
+* Alentar la adopción más amplia de una mentalidad abierta que enfatice la importancia del proceso de investigación sobre el resultado.
 
-* Sign the San Francisco Declaration on Research Assessment [(DORA)](https://sfdora.org/) as a commitment to improving how research is assessed. Make sure to adhere to the principles too in practice.
+* Firmar la Declaración de San Francisco sobre Evaluación de Investigación [(DORA)](https://sfdora.org/) como un compromiso para mejorar la forma en que se evalúa la investigación. Asegúrese de cumplir con los principios también en la práctica.
 
-  * As an alternative, adopt the [Leiden Manifesto](http://www.leidenmanifesto.org/).
+  * Como alternativa, adoptar el [Manifiesto de Leiden](http://www.leidenmanifesto.org/).
 
-* For education, sign the [Cape Town Open Education Declaration](http://www.capetowndeclaration.org/sign-the-declaration) to commit to the pursuit of the Declaration's three strategies as a part of one's teaching, learning and/or work life.
+* Para educación, firme la [Declaración de Cape Town sobre Educación Abierta](http://www.capetowndeclaration.org/sign-the-declaration) comprometerse con la búsqueda de las tres estrategias de la Declaración como parte de la enseñanza, el aprendizaje y / o la vida laboral.
 
-  * For those interested in doing more, makes sure to heed the [Ten Directions to Move Open Education Forward](http://www.capetowndeclaration.org/cpt10/).
+  * Para aquellos interesados en hacer más, asegúrese de prestar atención a [10 elementos para avanzar en la Educación Abierta](http://www.capetowndeclaration.org/cpt10/).
 
-* Refuse to sign copyright transfer agreements, unless you are allowed to retain copyright of your work under a [Creative Commons](https://creativecommons.org/licenses) license of your own choosing.
+* Negarse a firmar acuerdos de transferencia de derechos de autor, a menos que se le permita conservar los derechos de autor de su trabajo bajo una [Creative Commons](https://creativecommons.org/licenses) license of your own choosing.
 
 
 **Group Level (e.g., labs, departments)**
