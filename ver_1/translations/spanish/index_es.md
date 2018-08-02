@@ -127,157 +127,156 @@ También observamos que esta estrategia solo puede basarse en la información qu
 
   * Para aquellos interesados en hacer más, asegúrese de prestar atención a [10 elementos para avanzar en la Educación Abierta](http://www.capetowndeclaration.org/cpt10/).
 
-* Negarse a firmar acuerdos de transferencia de derechos de autor, a menos que se le permita conservar los derechos de autor de su trabajo bajo una [Creative Commons](https://creativecommons.org/licenses) license of your own choosing.
+* Negarse a firmar acuerdos de transferencia de derechos de autor, a menos que se le permita conservar los derechos de autor de su trabajo bajo una licencia [Creative Commons](https://creativecommons.org/licenses) de tu propia elección.
 
 
-**Group Level (e.g., labs, departments)**
+**Nivel de grupos (e.g., laboratorios, departmentos)**
 
-* Locate Open Scholarship hotspots (i.e., venues or groups for regular exchange and discussion about community building) and find a way to link them together to help community cohesion and expansion.
+* Ubique los puntos de acceso de Open Scholarship (es decir, lugares o grupos para intercambios y discusiones regulares sobre el desarrollo de la comunidad) y encuentre una forma de vincularlos para ayudar a la cohesión y la expansión de la comunidad. 
 
-  * If a local Open Scholarship hotspot does not yet exist, establish it (e.g., using the [Meetup](https://www.meetup.com/) platform).
+  * Si aún no existe un punto de acceso público asociado a la Academia Abierta, establézcalo (por ejemplo, utilizando la plataforma (e.g., usando por ejemplo [Meetup](https://www.meetup.com/) platform).
   
-  * Use these national/international/regional communities to support lower-level learning and knowledge sharing of Open Scholarship practices, especially in varying cultural settings.
+  * Utilice estas comunidades nacionales / internacionales / regionales para apoyar el aprendizaje de bajo nivel y el intercambio de conocimientos de las prácticas de Open Scholarship, especialmente en diferentes entornos culturales.
 
-  * Start discussions towards an implicit or explicit (shared) open science pledge or code of conduct for your department, lab, or research group. This can be based on existing ones, such as the [Contributor Covenant](https://www.contributor-covenant.org/).
+  * Comience las discusiones hacia un compromiso de ciencia abierta implícito o explícito (compartido) o código de conducta para su departamento, laboratorio o grupo de investigación. Esto puede basarse en los existentes, como el [Contributor Covenant](https://www.contributor-covenant.org/).
 
-* Establish rights experts who might help with questions regarding copyright issues and the effective use of Creative Commons licenses.
+* Establezca expertos en derechos que puedan ayudarlo con las preguntas relacionadas con los derechos de autor y el uso efectivo de las licencias de Creative Commons. 
 
-* Highlight best practice showcases in order to demonstrate what is actually possible with Open Scholarship, and what the wider advantages can be.
+* Resalte las mejores prácticas para demostrar lo que es realmente posible con Open Scholarship, y cuáles son las ventajas más amplias.
 
-* Engage communication departments and research assessment officials. Organize sessions to tell them about open science and scholarship, and be sensitive to the fact that it may imply they change their entire view of what is important in science and what their role could be.
+* Involucrar a los departamentos de comunicación y los funcionarios de evaluación de la investigación. Organice sesiones para contarles sobre la ciencia abierta y la erudición, y sea sensible al hecho de que puede implicar que cambien su visión completa de lo que es importante en la ciencia y cuál podría ser su función. 
 
-* Adopt best practices for Open Scholarship, including shared data as a research output, addressing publication bias, and "questionable research practices" with bias-reducing workflows.
+* Adopte las mejores prácticas para Open Scholarship, incluidos los datos compartidos como producto de investigación, abordando el sesgo de publicación y las "prácticas de investigación cuestionables" con flujos de trabajo de reducción de sesgos.
 
-* Advocate to decision makers at scholarly journals, publishers, funders, and higher education and research institutions to recognize and reward a variety of Open Scholarship activities, particularly regarding research evaluation and open education policies.
+* Abogar ante los encargados de la toma de decisiones de las publicaciones académicas, los editores, los financiadores y las instituciones de educación superior e investigación para reconocer y recompensar una variedad de actividades de Open Scholarship, en particular en relación con la evaluación de la investigación y las políticas de educación abierta.
 
-* Start discussions with University Ranking Providers (e.g., QS, Times Higher Education) to include an openness element to their indicators.
+* Comience las discusiones con los Proveedores de Clasificación Universitaria (por ejemplo, QS, Times Higher Education) para incluir un elemento de apertura a sus indicadores. 
 
-* Initiate debates on meaningful standards and practices at a disciplinary level for publishing data (e.g., the [FAIR principles](https://www.go-fair.org/fair-principles/)).
+* Iniciar debates sobre normas y prácticas significativas a nivel disciplinario para publicar datos (por ejemplo, the [FAIR principles](https://www.go-fair.org/fair-principles/)).
 
-* Improve engagement between faculty advisory boards, researchers, students and librarians regarding Open Scholarship practices (see Fig. 1 and 2) and principles.
+* Mejorar el compromiso entre los consejos asesores de la facultad, los investigadores, los estudiantes y los bibliotecarios con respecto a las prácticas de Open Scholarship (ver Fig. 1 y 2) y los principios. 
 
-* Refuse to engage with publishers who have restrictive preprint, Open Access, and copyright policies.
+* Rehúse interactuar con los editores que tienen preimpresión restrictiva, Open Access y políticas de derechos de autor. 
 
 
-**Institute Level (including research and funding bodies)**
+**Nivel Institucional (incluidos los organismos de investigación y financiación)**
 
-* Research libraries should collect information about how the sector as a whole interacts with the research literature. Such information could be used to help with publisher negotiations, break up big deal contracts, and cancel subscriptions by providing evidence into the cross-sectorial value of services, and includes:
+* Las bibliotecas de investigación deberían recopilar información sobre cómo el sector en su conjunto interactúa con la literatura de investigación. Dicha información podría ser utilizada para ayudar con las negociaciones de los editores, romper contratos de gran envergadura y cancelar suscripciones al proporcionar evidencia sobre el valor intersectorial de los servicios, e incluye: 
 
-  * Which venues researchers are publishing in;
+  * En qué lugares están publicando los investigadores;
 
-  * Who is doing the editorial and peer review work;
+  * Quién está haciendo el trabajo editorial y de revisión por pares;
 
-  * How much is being spent on serial subscriptions;
+  * Cuánto se gasta en suscripciones en serie; 
 
-  * How much is being spent on Article Processing Charges (APCs) and Book Processing Charges (BPCs) for Open Access; and
+  * Cuánto se gasta en los Cargos de procesamiento de artículos (APC) y los Cargos de procesamiento de libros (BPC) para Acceso abierto; y
 
-  * Which articles are being downloaded and cited.
+  * Qué artículos se están descargando y citando. 
 
-* Map and coordinate when current subscription and big deal licenses will run out across research institutes, and let it happen. Where cancellations or terminations occur, ensure that there is adequate post-subscription access and support using existing sustainable and legal mechanisms (e.g., Inter-Library Loan). Explore routes for reinvesting money saved for library budgets.
+* Haga un mapa y coordine cuándo se agotarán las licencias actuales de suscripción y de gran envergadura en los institutos de investigación, y dejar que suceda. En los casos en que se produzcan cancelaciones o cancelaciones, asegúrese de que exista un acceso y apoyo adecuados posteriores a la suscripción utilizando los mecanismos legales y sostenibles existentes (por ejemplo, préstamo interbibliotecario). Explore las rutas para reinvertir el dinero ahorrado para los presupuestos de la biblioteca.
 
-* Purchase back any legacy documents and incorporate them into the scholarly body of work. Also improve the open sharing and archiving of legacy articles on which copyright has expired.
+* Vuelva a comprar los documentos heredados e incorpórelos al cuerpo de trabajo académico. También mejore el intercambio abierto y el archivo de artículos heredados en los que ha expirado el derecho de autor. 
 
-* Help to inform researchers more about the [Author Alliance termination of transfer](https://www.authorsalliance.org/resources/termination-of-transfer/) tool to help them retain their rights as authors.
+* Ayuda a informar más a los investigadores sobre la herramienta [Author Alliance termination of transfer](https://www.authorsalliance.org/resources/termination-of-transfer/) para ayudarlos a conservar sus derechos como autores.
 
-* Research funders can define the limits of what is an acceptable standard of publication. They therefore have the power to mandate publication in journals with a cap on APCs and BPCs, or in OA-only venues (with specific licenses), or in those with short or zero-length embargoes on self-archiving (e.g., Emerald, The Royal Society).
+* Los financiadores de investigación pueden definir los límites de lo que es un estándar de publicación aceptable. Por lo tanto, tienen el poder de exigir la publicación en revistas con un tope en APC y BPC, o en lugares solo para OA (con licencias específicas), o en aquellos con embargos de autoarchivo cortos o de longitud cero (por ejemplo, Emerald, The Sociedad de la realeza). 
 
-* Refuse to engage with publishers that [double dip](http://www.rluk.ac.uk/about-us/blog/the-costs-of-double-dipping/) on payments, and demand transparency and data in cases where there is a suspicion that this is occurring (for an overview, see e.g. [Buranyi, 2017](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science)).
+* Negarse a involucrarse con los editores que usan [double dip](http://www.rluk.ac.uk/about-us/blog/the-costs-of-double-dipping/) en pagos,  y exigir transparencia y datos en los casos donde existe la sospecha de que esto está ocurriendo (para una visión general, ver, por ejemplo [Buranyi, 2017](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science)).
 
-* Refuse to engage with publishers in which there is no transparency around pricing for either subscriptions or Open Access. This includes with publishers who insist on using non-disclosure agreements as part of licensing contract terms.
+* Rehúse interactuar con los editores en los que no haya transparencia en cuanto a los precios de suscripciones o acceso abierto. Esto incluye a los editores que insisten en utilizar acuerdos de confidencialidad como parte de los términos del contrato de licencia.
 
-* Engage publishers on being more transparent about the financial aspects of their publishing workflows, similar to those such as [Ubiquity Press](https://www.ubiquitypress.com/site/publish/).
+* Involucrar a los editores en ser más transparentes sobre los aspectos financieros de sus flujos de trabajo de publicación, similares a los de [Ubiquity Press](https://www.ubiquitypress.com/site/publish/).
 
-* Insist that publishers make all bibliographic records, usage metrics, and citation data freely available and accessible in both a human- and machine-readable format.
+* Insistir en que los editores hagan que todos los registros bibliográficos, las métricas de uso y los datos de citas estén disponibles y sean accesibles de forma gratuita, tanto en formato legible para las personas como para las máquinas. 
 
-* Develop rights retention policies for scholarly research at research institutes that currently lack them.
+* Desarrollar políticas de retención de derechos para investigación académica en institutos de investigación que actualmente carecen de ellas. 
 
-* Adopt the [CASRAI CRediT](http://docs.casrai.org/CRediT) (Contributor Rules Taxonomy) guidelines to help identify author contributions more clearly.
+* Adaptar las [CASRAI CRediT](http://docs.casrai.org/CRediT) (taxonomía de reglas de contribuyentes) para ayudar a identificar las contribuciones de los autores con mayor claridad. 
 
-* Refuse to engage with publishers who have restrictive preprint, Open Access, and copyright policies.
+* Rehúse interactuar con los editores que tienen preimpresión restrictiva, Open Access y políticas de derechos de autor. 
 
-* Encourage further adoption by publishers of the [Initiative for Open Citations](https://i4oc.org/) (I4OC) in conjunction with the wider uptake of open standards.
+* Alentar a los editores a que adopten la  [Initiative for Open Citations](https://i4oc.org/) (I4OC) (I4OC) en conjunto con la adopción más amplia de estándares abiertos.
 
-* For research institutes that currently lack them, either launch and maintain an Open Access repository or find an existing resource to use, and adopt an [Open Access policy](https://cyber.harvard.edu/hoap/Good_practices_for_university_open-access_policies). Make these easily discoverable and accessible on the institutional website, and any relevant indexing services.
+* Para los institutos de investigación que actualmente carecen de ellos, inicie y mantenga un repositorio de acceso abierto o encuentre un recurso existente para usar, y adopte una [Open Access policy](https://cyber.harvard.edu/hoap/Good_practices_for_university_open-access_policies). Haga que estos sean fácilmente detectables y accesibles en el sitio web institucional, y cualquier servicio de indexación relevante. 
 
-   * Examples of Open Access policies can be found e.g. via the [ROARMAP](https://roarmap.eprints.org/cgi/search/advanced)
-   * Examples of Open Education / OER policies are listed in e.g. the [Creative Commons OER policy registry](https://wiki.creativecommons.org/wiki/OER_Policy_Registry), or the European Union's [Policy approaches to Open Education, 2017](https://doi.org/10.2760/283135).
+   * Se pueden encontrar ejemplos de políticas de acceso abierto, por ejemplo, a través de [ROARMAP](https://roarmap.eprints.org/cgi/search/advanced)
+   * Ejemplos de políticas de Educación Abierta / REA se enumeran, por ejemplo, en el [Creative Commons OER policy registry](https://wiki.creativecommons.org/wiki/OER_Policy_Registry), o en el de la Unión Europea [Policy approaches to Open Education, 2017](https://doi.org/10.2760/283135).
 
-* Promote and compensate time and effort spent on training and advocacy for the various aspects of Open Scholarship, including Open Source, Open Access, and Open Education.
+* Promuever y compense el tiempo y el esfuerzo dedicados a la capacitación y defensa de los diversos aspectos de Open Scholarship, incluidos Open Source, Open Access y Open Education. 
 
-* Enable and foster local support structures such as openlabs and open publication and research learning, guidance and advice offers. 
+* Permitir y fomente estructuras locales de soporte tales como openlabs y abra ofertas de publicación, búsqueda de investigación, orientación y asesoramiento. 
 
-* Engage with research communities to develop and advertise quantifiable incentives for sharing preprints, open data, reproducible analyses, and OA in hiring, promotion, and tenure decisions. Define new ways of describing these wider contributions to scientific communities.
+* Comprometerse con las comunidades de investigación para desarrollar y publicitar incentivos cuantificables para compartir preimpresiones, datos abiertos, análisis reproducibles y OA en las decisiones de contratación, promoción y tenencia. Definir nuevas formas de describir estas contribuciones más amplias a las comunidades científicas. 
 
-* Encourage and adopt the principles for fairer research assessment outlined in DORA. Make sure that those in charge of research assessment, including hiring, tenure, and grant-awarding committees adhere to these.
+* Fomentar y adoptar los principios para una evaluación de investigación más justa descrita en DORA. Asegúrese de que los encargados de la evaluación de la investigación, incluidos los comités de contratación, tenencia y otorgamiento de subvenciones se adhieran a estos. 
 
-* Explore substituting proprietary software with open source alternatives.
+* Explore la sustitución de software patentado por alternativas de código abierto.
 
-* Require researchers to work with open standards and file formats (either exclusively or in addition to proprietary standards and file formats).
+* Exigir que los investigadores trabajen con estándares abiertos y formatos de archivo (ya sea de forma exclusiva o adicional a los estándares de propiedad y formatos de archivo). 
 
-**National Level (or higher)**
+**Nivel nacional (o mayor)**
 
-* Create new or support/contact existing international library consortia/collaborations (e.g., the [International Coalition of Library Consortia](http://icolc.net/)) to co-operate on infrastructure developments (e.g., [LIBER](https://libereurope.eu/), [EIFL](http://www.eifl.net/), [ARL](http://www.arl.org/), and [SPARC](https://sparcopen.org/)).
+*  Crear nuevos o apoyar / contactar consorcios / colaboraciones de bibliotecas internacionales existentes (por ejemplo (the [International Coalition of Library Consortia](http://icolc.net/)) para cooperar en desarrollos de infraestructura (por ejemplo, [LIBER](https://libereurope.eu/), [EIFL](http://www.eifl.net/), [ARL](http://www.arl.org/), and [SPARC](https://sparcopen.org/)).
 
-* Sign on to the Global Sustainability Coalition for Open Science Services [(SCOSS)](http://scoss.org/), and investigate coalitions with the [Open Research Funders Group](http://www.orfg.org).
+* Inicie sesión en la Coalición Global de Sostenibilidad para Open Science Services [(SCOSS)](http://scoss.org/), e investigar con coaliciones como [Open Research Funders Group](http://www.orfg.org).
 
-     * Consortia like the German [Projekt DEAL](https://www.projekt-deal.de/) could provide examples of how to take the first step towards this at a national level. Gaining support from SPARC for any such developments would also be useful.
+     * Consorcios como el alemán [Projekt DEAL](https://www.projekt-deal.de/) podrían proporcionar ejemplos de cómo dar el primer paso hacia esto a nivel nacional. Obtener apoyo de SPARC para cualquier desarrollo de este tipo también sería útil.
 
-* Build on faculty and funder support for Open Access and related quality assurance initiatives (e.g., peer review) that are decoupled from journals. Agree on, and develop, a governance structure for a world-wide scholarly infrastructure (e.g., [W3C](https://www.w3.org/)).
+* Aproveche el respaldo de los docentes y los financiadores para el acceso abierto y las iniciativas de garantía de calidad relacionadas (por ejemplo, revisión por pares) que están desacopladas de las revistas. Acordar y desarrollar una estructura de gobierno para una infraestructura académica mundial (por ejemplo [W3C](https://www.w3.org/)).
 
-* Create scholarly standards to implement an alternative non-profit and community-owned scholarly publishing platform/environment (using the funds freed from subscriptions, building on existing repositories/environments and infrastructure).
+* Crear estándares académicos para implementar una plataforma / entorno de publicación académica alternativa sin fines de lucro y propiedad de la comunidad (utilizando los fondos liberados de las suscripciones, construyendo repositorios / entornos existentes e infraestructura). 
 
-* Support collaborations such as [Metadata 2020](http://www.metadata2020.org/), [NISO](https://www.niso.org/)/[NIST](https://www.nist.gov/), and [eLife](https://elifesciences.org/), to help build a richer connectivity between scholarly communication systems and communities.
+* Apoyar colaboraciones tales como [Metadata 2020](http://www.metadata2020.org/), [NISO](https://www.niso.org/)/[NIST](https://www.nist.gov/), e [eLife](https://elifesciences.org/), para ayudar a crear una comunidad mas prolifera  entre el sistema de  scholarly communication systems y las comunidades.
 
-* Take action against the privatisation of scholarly works and processes in order to achieve transformation of the publishing industry into one comprised of fair licensing, fair market competition, and under the ownership of the scholarly community.
+* Tomar medidas contra la privatización de obras y procesos académicos con el fin de lograr la transformación de la industria editorial en una que comprenda licencias justas, competencia justa en el mercado y bajo la propiedad de la comunidad académica. 
 
-* Create a cost-effectiveness analysis of Open Scholarship (e.g., true cost of article publishing) to be used as the basis for an argument about how much taxpayer money it costs every year to delay decisions in the above areas.
+* Cree un análisis de costo-efectividad de Open Scholarship (por ejemplo, el costo real de la publicación de artículos) que se utilizará como base para un argumento sobre cuánto dinero de los contribuyentes cuesta cada año demorar las decisiones en las áreas mencionadas. 
 
-* Implement currently available sort, filter and search/discovery technology across scholarship outputs.
+* Implementar la tecnología de clasificación, filtrado y búsqueda / descubrimiento actualmente disponible en los resultados de las becas. 
 
-* Enable unrestricted text and data mining over this content.
+* Habilite la extracción de datos y texto sin restricciones sobre este contenido. 
 
-* Research funders and libraries hold most of the purse strings, and further engagement on this front is essential, especially in defining their relative roles in developing or funding scholarly infrastructure. Simply channelling more money into the existing system, with perverse incentives and skewed power dynamics, is clearly no longer sustainable for research.
+* Los financiadores de investigación y las bibliotecas tienen la mayor parte de los fondos, y un mayor compromiso en este frente es esencial, especialmente en la definición de sus roles relativos en el desarrollo o la financiación de la infraestructura académica. Simplemente canalizar más dinero en el sistema existente, con incentivos perversos y dinámicas de poder sesgadas, claramente ya no es sostenible para la investigación. 
 
-* Develop sustainable, regional and national roadmaps for Open Scholarship.
+* Desarrolle hojas de ruta sostenibles, regionales y nacionales para Open Scholarship. 
 
-* Encourage research funders to diversify the portfolio of what is considered as a research output for assessment purposes.
+* Alientar a los financiadores de la investigación a diversificar la cartera de lo que se considera un resultado de investigación para fines de evaluación. 
 
-    * Wider adoption of preprint and Open Access policies similar to those at the NIH (USA) and Wellcome Trust (UK).
+    * Adoptar más amplia de las políticas de preprint y acceso abierto similares a las de los NIH (EE. UU.) Y Wellcome Trust (Reino Unido). 
 
-* Encourage research funders to develop calls to support evidence- and theory-based interventions to promote Open Scholarship.
+* Alientar a los financiadores de investigación a desarrollar llamadas para apoyar las intervenciones basadas en evidencia y teoría para promover Open Scholarship. 
 
-    * Fund determinant studies that use behavior change theory to map the determinants of engaging in different Open Scholarship practices (e.g., why do some researchers routinely publish preprints while others do not? Are the arguments produced by researchers opposed to data sharing indeed the reasons why those who do not share data, do not?)
+    * Los estudios determinantes del fondo que usan la teoría del cambio de comportamiento para mapear los determinantes de participar en diferentes prácticas Open Scholarship (por ejemplo, ¿por qué algunos investigadores publican rutinariamente preimpresiones mientras que otros no?) ¿Son los argumentos producidos por los investigadores opuestos al intercambio de datos las razones por las cuales no compartir datos, ¿no?) 
     
-    * Fund studies that use stakeholder theory to explore ways to achieve more Open Scholarship policies at research and education institutions.
+    * Estudios de fondos que utilizan la teoría de los interesados para explorar formas de lograr más políticas de Open Becas en instituciones de investigación y educación
 
-* A reduction of article-processing charges (APCs) in hybrid titles to match the market average for OA-only journals.
+* Una reducción de los cargos por procesamiento de artículos (APCs) en los títulos híbridos para que coincida con el promedio del mercado para las revistas de solo OA. 
 
-* A reduction of article-processing charges (APCs) and book-processing charges (BPCs) in hybrid titles to match the market average for OA-only journals and presses.
+* Una reducción de los cargos por procesamiento de artículos (APCs) y los cargos por procesamiento de libros (BPC) en títulos híbridos para que coincida con el promedio del mercado de las revistas y prensas OA-only. 
 
-    * The scholarly publishing market might require a detailed government-level investigation in order to stabilise this.
+    * El mercado editorial erudito podría requerir una investigación detallada a nivel de gobierno para estabilizar esto. 
 
-* Mandate [ORCID](https://orcid.org/) for researchers across all research outputs to help assist in the persistent identification of authors across the entire research literature, and easier research discoverability.
+* Encargar el uso de [ORCID](https://orcid.org/) a los investigadores a través de todos los resultados de la investigación para ayudar a ayudar a la identificación persistente de los autores en toda la literatura de investigación y facilitar la detección de la investigación.
 
-* Where subscriptions have not yet expired, mandate offsetting agreements for hybrid journal titles in order to reduce double-dipping.
+* Cuando las suscripciones aún no hayan expirado, establezca acuerdos de compensación para títulos de revistas híbridas a fin de reducir la doble inmersión. 
 
-* Where offsetting deals are in place, these can be streamlined and standardised across sectors to reduce administrative burden.
+* Cuando existen acuerdos de compensación, estos pueden simplificarse y estandarizarse en todos los sectores para reducir la carga administrativa. 
 
-* For scholarly publishers to engage with the new [UK Scholarly Communications License](http://ukscl.ac.uk/) that enables authors to retain more of their rights. This would reduce the time spent on embargo processing, the cost spent on hybrid APCs and BPCs, and for researchers in the UK, help them to comply with the [UKRI Open Access policy](https://www.ukri.org/funding/information-for-award-holders/open-access/open-access-policy/).
+* Para que los editores académicos se comprometan con la nueva [UK Scholarly Communications License](http://ukscl.ac.uk/) que permite a los autores conservar más sus derechos. Esto reduciría el tiempo dedicado al procesamiento de embargos, el gasto en APC híbridos y BPC, y para los investigadores en el Reino Unido, les ayudaría a cumplir con la [UKRI Open Access policy](https://www.ukri.org/funding/information-for-award-holders/open-access/open-access-policy/).
 
-    * For those outside of the UK to consider extending the UK SCL (or relevant variations of it) towards other regional funding and licensing strategies.
+    *  Para quienes están fuera del Reino Unido, consideren extender el SCL del Reino Unido (o variaciones relevantes del mismo) hacia otras estrategias regionales de financiamiento y licencias.
 
-* Sector-wide adoption of no-questions-asked fee waiver policies for researchers from lower- to middle-income countries, or those with a demonstrable financial need.
+* Adopción en todo el sector de políticas de exención de tasas sin preguntas para investigadores de países de ingresos bajos a medianos, o aquellos con una necesidad financiera demostrable. 
 
-* To [transform](https://nrs.harvard.edu/urn-3:HUL.InstRepos:27803834) (or flip) the majority of scholarly journals from subscription to Open Access publishing in accordance with community-specific publication preferences.
+* [Transformar](https://nrs.harvard.edu/urn-3:HUL.InstRepos:27803834) (o dar vuelta) la mayoría de las publicaciones académicas de la suscripción a la publicación de acceso abierto de acuerdo con las preferencias de publicación específicas de la comunidad
 
-* To invite all [relevant stakeholders](https://doi.org/10.3233/ISU-170839), including universities, research institutions, learned societies, funders, libraries, and publishers, to collaborate on a transition to open research practices for the benefit of scholarship and society at large.
+* Invitar a todas las partes [relevantes interesadas](https://doi.org/10.3233/ISU-170839), incluidas universidades, instituciones de investigación, sociedades científicas, financiadores, bibliotecas y editoriales, a colaborar en la transición a prácticas de investigación abiertas en beneficio de las becas y la sociedad en general. 
 
-* Create showcases/highlights/good practices of Open Scholarship practices on national websites or portals, together with relevant information and resources.
+* Cree escaparates / destacados / buenas prácticas de las prácticas de Open Scholarship en sitios web o portales nacionales, junto con información y recursos relevantes.
 
-* Encourage the formalisation of Open Science Training Courses, such as that offered by [FOSTER](https://www.fosteropenscience.eu/toolkit), in graduate school training programs (and further).
+* Fomentar la formalización de los cursos de formación de Open Science, como el ofrecido por [FOSTER](https://www.fosteropenscience.eu/toolkit), en los programas de formación de posgrado (y más). 
 
-* Encourage and adopt the principles for fairer research assessment outlined in DORA. Make sure that those in charge of research assessment, including hiring, tenure, and grant-awarding committees adhere to these.
-
+* Fomentar y adoptar los principios para una evaluación de investigación más justa descrita en DORA. Asegúrese de que los encargados de la evaluación de la investigación, incluidos los comités de contratación, tenencia y otorgamiento de subvenciones se adhieran a estos.
 
 ## 2.2 Mid-term strategy (2-5 years) <a name="Middle"></a>
 
