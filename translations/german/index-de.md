@@ -1,75 +1,78 @@
-Open ScholarshipGrundlagen für die Entwicklung einer Open Scholarshipstrategie
+---
+title: "Grundlagen für die Entwicklung einer Open Scholarship-Strategie"
+---
+
+<meta charset="utf-8">
 
 #### Versionshistorie
 
 -   Version 1.0 -- 16. Oktober 2017 - Erste Version des Dokuments.
-
 -   Version 1.1 -- 06. Juni 2018 - Website erstellt.
-
--   Version 1.2 -- IN PREP - Erster Entwurf abgeschlossen (Ziel: 30. Juli 2018)
+-   Version 1.2 -- Vervollständigter erster Entwurf (30. Juli 2018)
 
 ### Inhaltsverzeichnis
 
--   [Zweck dieses Dokuments](#Purpose)
--   [Strategie](#Strategy)
--   [Kurzfristige Strategie, \>2 Jahre](#Short)
--   [Mittelfristige Strategie, 2-5 Jahre](#Middle)
--   [Langfristige Strategie, 5+ Jahre](#Long)
--   [Was ist Open Scholarship?](#What_is)
--   [Stand der Bewegung](#State)
--   [Wichtigste strategische Prioritäten zur Etablierung von Open Scholarship](#Priorities)
--   [Demokratisierung](#Democratization)
--   [Pragmatismus und Transparenz](#Pragmatism)
--   [Infrastruktur](#Infrastucture)
--   [Öffentliches Gut](#Public)
--   [Messung](#Measurement)
--   [Gemeinschaft und Integration](#Community)
--   [Stärken der Open Scholarship-Bewegung](#Strengths)
--   [Herausforderungen der Open Scholarship-Bewegung](#Challenges)
--   [Externe Bedingungen](#External)
--   [Interne Bedingungen](#Internal)
--   [Chancen](#Opportunities)
--   [Bedrohungen](#Threats)
+* [Zweck dieses Dokuments](#Purpose)
+* [Strategie](#Strategy)
+  * [Kurzfristige Strategie, \>2 Jahre](#Short)
+  * [Mittelfristige Strategie, 2-5 Jahre](#Middle)
+  * [Langfristige Strategie, 5+ Jahre](#Long)
+* [Was ist Open Scholarship?](#What_is)
+* [Stand der Bewegung](#State)
+* [Wichtigste strategische Prioritäten zur Etablierung von Open Scholarship](#Priorities)
+  * [Demokratisierung](#Democratization)
+  * [Pragmatismus und Transparenz](#Pragmatism)
+  * [Infrastruktur](#Infrastucture)
+  * [Öffentliches Gut](#Public)
+  * [Messung](#Measurement)
+  * [Gemeinschaft und Integration](#Community)
+* [Stärken der Open Scholarship-Bewegung](#Strengths)
+* [Herausforderungen der Open Scholarship-Bewegung](#Challenges)
+  * [Externe Bedingungen](#External)
+  * [Interne Bedingungen](#Internal)
+* [Chancen](#Opportunities)
+* [Bedrohungen](#Threats)
 
-**Wichtiger Hinweis:** Dieses Projekt befindet sich derzeit in der Entwicklung und steht für offene Mitarbeit in [GitHub](https://github.com/Open Scholarship-Strategy/site) zur Verfügung. Bitte lesen Sie die [README-Datei](https://github.com/Open Scholarship-Strategy/site/blob/master/README.md) für weitere Details.
+**Wichtiger Hinweis:** Dieses Projekt befindet sich derzeit in Entwicklung und steht für offene Mitarbeit in [GitHub](https://github.com/Open Scholarship-Strategy/site) zur Verfügung. Bitte lesen Sie die [README-Datei](https://github.com/Open Scholarship-Strategy/site/blob/master/README.md) für weitere Details.
 Die Hauptinhaltsdatei findet sich [hier](https://github.com/Open Scholarship-Strategy/site/blob/master/index.Rmd).
 
 *Anmerkung 2: Die finale Version dieses Dokuments wird als PDF (archiviert in Zenodo), als Rohdatenformat und als iPython-Notebook verfügbar sein.*
 
 **Redaktion:**
 
-[Jonathan Tennant](https://orcid.org/0000-0001-7794-0218) * , Jonathan Dugan, Rachel Harding, Tony Ross-Hellauer, [Kshitiz Khanal](https://orcid.org/0000-0002-4765-4832), [Thomas Pasquier](https://orcid.org/0000-0001-6876-1306), [Jeroen Bosman](https://orcid.org/0000-0001-5796-2727), [Asura Enkhbayar](https://orcid.org/0000-0002-3934-026X), Gail Clement, [David Eccles](https://orcid.org/0000-0003-4634-4995), [Fiona Bradley](https://orcid.org/0000-0002-3622-2794), [(Bjoern Brembs)](https://orcid.org/0000-0001-7824-7650), (Pawel Szczesny), [Lisa Matthias](https://orcid.org/0000-0002-2612-2132), [Jesper Norgaard Kjaer](https://orcid.org/0000-0001-9183-9861), [Daniel S. Katz](https://orcid.org/0000-0001-5934-7525), [Tom Crick](https://orcid.org/0000-0001-5196-9389), [Christopher R. Madan](https://orcid.org/0000-0003-3228-6501), [Paul Macklin](https://orcid.org/0000-0002-9925-0151), [Johanna Havemann,](https://orcid.org/0000-0002-6157-1494), [Jennifer E. Beamer](https://orcid.org/0000-0001-6887-6568), [Michael Schulte-Mecklenbeck](https://orcid.org/0000-0002-0406-8809), Dan Sholler, Paola Masuzzo, [Tobias Steiner](https://orcid.org/0000-0002-3158-3136), [Tim Koder,](https://orcid.org/0000-0001-6152-7365), [David Nichols](https://orcid.org/0000-0003-0321-7267), [Daniel Graziotin](https://orcid.org/0000-0002-9107-7681), Alastair Dunning, [Andy Turner](https://orcid.org/0000-0002-6098-6313), [Neo Christopher Chung](https://orcid.org/0000-0001-6798-8867)
+[Jonathan Tennant](https://orcid.org/0000-0001-7794-0218)/* , Jonathan Dugan, Rachel Harding, Tony Ross-Hellauer, [Kshitiz Khanal](https://orcid.org/0000-0002-4765-4832), [Thomas Pasquier](https://orcid.org/0000-0001-6876-1306), [Jeroen Bosman](https://orcid.org/0000-0001-5796-2727), [Asura Enkhbayar](https://orcid.org/0000-0002-3934-026X), Gail Clement, [David Eccles](https://orcid.org/0000-0003-4634-4995), [Fiona Bradley](https://orcid.org/0000-0002-3622-2794), [(Bjoern Brembs)](https://orcid.org/0000-0001-7824-7650), (Pawel Szczesny), [Lisa Matthias](https://orcid.org/0000-0002-2612-2132), [Jesper Norgaard Kjaer](https://orcid.org/0000-0001-9183-9861), [Daniel S. Katz](https://orcid.org/0000-0001-5934-7525), [Tom Crick](https://orcid.org/0000-0001-5196-9389), [Christopher R. Madan](https://orcid.org/0000-0003-3228-6501), [Paul Macklin](https://orcid.org/0000-0002-9925-0151), [Johanna Havemann,](https://orcid.org/0000-0002-6157-1494), [Jennifer E. Beamer](https://orcid.org/0000-0001-6887-6568), [Michael Schulte-Mecklenbeck](https://orcid.org/0000-0002-0406-8809), Dan Sholler, Paola Masuzzo, [Tobias Steiner](https://orcid.org/0000-0002-3158-3136), [Tim Koder,](https://orcid.org/0000-0001-6152-7365), [David Nichols](https://orcid.org/0000-0003-0321-7267), [Daniel Graziotin](https://orcid.org/0000-0002-9107-7681), Alastair Dunning, [Andy Turner](https://orcid.org/0000-0002-6098-6313), [Neo Christopher Chung](https://orcid.org/0000-0001-6798-8867)
 
--   * [Kontakt](mailto:jon.tennant.2@gmail.com)
--   Translation/Übersetzung ENG-GER: [Tobias Steiner](https://orcid.org/0000-0002-3158-3136)
+- /* [Kontakt](mailto:jon.tennant.2@gmail.com)
+- Translation/Übersetzung ENG-GER: [Tobias Steiner](https://orcid.org/0000-0002-3158-3136)
 
-## 1. Zweck dieses Dokuments
+## 1. Zweck dieses Dokuments <a name="Purpose"></a>
 ==========================
 
-**Dieses Dokument möchte einen möglichst breiten Konsens für eine internationale Strategie zur Implementierung von Open Scholarship finden, die sowohl den Ansprüchen verschiedener nationaler und regionaler Communities gerecht werden kann, aber auch global funktioniert.**
+**Dieses Dokument möchte einen möglichst breiten Konsens zur Findung einer internationalen Strategie zur Implementierung von Open Scholarship finden, die sowohl den Ansprüchen verschiedener nationaler und regionaler Communities gerecht werden kann, aber auch global funktioniert.**
 
 Forschung kann ein inspirierender Prozess sein, um unser kollektives Wissen zum Nutzen der gesamten Menschheit weiterzuentwickeln. Die aktuelle Forschungspraxis sieht sich jedoch im aktuellen Prozess der Adaption an die digitale Welt noch mit einer Reihe von Spannungen und Konflikten konfrontiert.
 Das, was zumeist als *Open Scholarship* bezeichnet wird, ist hier als Ansatz gedacht, moderne Forschungs- und Lehr-/Lernpraktiken auf diese digitale Welt auszurichten.
 Wir schlagen keine normative Definition von Open Scholarship vor, sondern wollen anerkennen, dass es sich dabei um einen holistischen Begriff handelt, der das ganze  Spektrum wissenschaftlicher Disziplinen und damit einhergehender, sich unterscheidender Prinzipien und Praktiken umfasst, die in anderen Kontexten u.a. auch als Open Science, Open Research oder Digital Humanities bezeichnet werden (mehr dazu in [Punkt 3](#What_is)). Wir wählen den Begriff "Open Scholarship", um diese anderen Begriffe in einem universellen und konstruktiven Sinne inklusiv einzubinden.
 
 Zweck dieses Dokuments ist es, eine präzise Analyse des aktuellen Standes der weltweiten Open Scholarship-Bewegung bereitzustellen: dies wird eine Auseinandersetzung mit Fragen nach gemeinsamen Gedankenstränge, nach Stärken der Bewegung und nach Potential und beinhalten. Abschließend wird dargestellt, wie wir als global vernetzte Gemeinschaft effizienter zusammenarbeiten können, um die wichtigsten strategischen Prioritäten zu erkennen und gemeinsam voranzubringen.
-Dieses Dokument wurde von den [Foundations for OER Strategy Development a](http://www.oerstrategy.org/home/read-the-doc/) und der Arbeit in der [FORCE11 Scholarly Commons Working Group](https://www.force11.org/group/scholarly-commons-working-group) inspiriert und durch eine offene Arbeitsgruppe gemeinsam kollaborativ entwickelt.
+Dieses Dokument wurde von den [Foundations for OER Strategy Development](http://www.oerstrategy.org/home/read-the-doc/) und der Arbeit der [FORCE11 Scholarly Commons Working Group](https://www.force11.org/group/scholarly-commons-working-group) inspiriert und durch eine offene Arbeitsgruppe gemeinsam kollaborativ entwickelt.
 
 Wir hoffen, dass dieses Dokument als eine Grundlage für weiteren Austausch, Diskussionen und sich daraus entwickelnden Initiativen zur Umsetzung wirksamer Strategien dienen kann, um die Integration von Open Scholarship-Praktiken in eine sich entwickelnde, moderne, digitale Forschungskultur gemeinsam voranzubringen. Dadurch erhoffen wir uns, die Reichweite und Wirkung von Open Scholarship in einem globalen Kontext ausweiten und verstärken zu können, um damit sicherzustellen, dass es wirklich *offen für alle* ist. Wir hoffen auch, dass sich dieses Dokument im Laufe der zahlreichen Diskussionen über Open Scholarship weiterentwickeln und dazu beitragen wird, nützliche Erkenntnisse sowohl für die globale Koordination der Sache, als auch für direktes Handeln vor Ort zu liefern. Wir glauben, dass dies ein wichtiger Schritt vorwärts ist, um Open Scholarship zur Norm werden lassen zu können.
 
 Letztendlich erwarten wir, dass sich die Auswirkungen einer weit verbreiteten Übernahme von Open Scholarship vielfältig äußern werden. Wir erhoffen uns, dass neuartige Forschungspraktiken das Innovationstempo erhöhen und damit wichtige Industriezweige weltweit stimulieren können. Durch Open Scholarship wäre auch eine Zunahme des Vertrauens der Öffentlichkeit in die Wissenschaft möglich, da Transparenz im Wissenschaftsprozess damit normativer wird. Daher erwarten wir, dass das Interesse an Open Scholarship aufgrund seines inhärenten Einflusses sowohl auf die Zivilgesellschaft als auch die Weltwirtschaft in Zukunft deutlich zunehmen wird.
 
-## 2. Strategie
+## 2. Strategie <a name="Strategy"></a>
 =============
 
 ["Strategie](https://en.wikipedia.org/wiki/Strategy) *beinhaltet in der Regel die Festlegung von Zielen, die Definition von Maßnahmen zur Erreichung dieser Ziele, und die Mobilisierung von Ressourcen, welche zur Durchführung dieser Maßnahmen nötig sind. Eine Strategie beschreibt, wie die Ziele mit entsprechenden Mitteln (Ressourcen) erreicht werden können.*" (Übersetzung: T.S.)
 
-Um die Herausforderungen zu meistern und unsere Prioritäten zu erreichen, müssen wir uns auf unsere Stärken besinnen. Im Folgenden haben wir drei zeitliche Hauptkomponenten (kurz-, mittel- und langfristig) unserer Gesamtstrategie identifiziert, die als direkte Handlungsvorschläge auf individueller, Gruppen-, institutioneller oder nationaler (oder höherer) Ebene genutzt werden können.
+Um die Herausforderungen zu meistern und unsere Prioritäten zu erreichen sollten wir uns auf unsere Stärken besinnen. Im Folgenden haben wir drei zeitliche Hauptkomponenten (kurz-, mittel- und langfristig) einer Gesamtstrategie identifiziert, die als direkte Handlungsvorschläge auf individueller, Gruppen- und institutioneller sowie nationaler (oder höherer) Ebene genutzt werden können.
 
 Wir stellen fest, dass diese Strategie aufgrund der Vielfalt der Akteure und Stakeholder sowie unterschiedlicher Perspektiven, Praktiken und Interessen kein Grundkonsensdokument sein kann. Daher wird die Priorisierung der verschiedenen Aspekte aus unterschiedlichen Perspektiven diskutiert. Eine Wirksamkeit wird sich dann einstellen, sobald Einzelpersonen und Communities verschiedene Teile dieser Strategie in ihren jeweiligen Kontexten entlang der Veränderung kultureller Normen hin zu offeneren Gegebenheiten realisieren können. In der Tat sehen viele den Fortschritt der Open Scholarship-Bewegung in den vergangenen zwei bis Jahrzehnten als fast schon schmerzhaft substanzlos an; ein Faktor, der sicherlich auch mit einem Mangel an strategischer Planung und entsprechend gesteuerter Umsetzung zu tun haben könnte.
+
 Wir stellen ebenso fest, dass diese Strategie nur auf Informationen basieren kann, die wir als Kollektiv zum aktuellen Zeitpunkt beitragen können, und es ist sehr wahrscheinlich, dass es noch zahlreiche Initiativen, Policies und Programme, Tools und Plattformen gibt, die wir ungewollt übersehen haben. Ebenso kann es auch gut sein, dass wir schon bestehende Strategien hier nicht in Betracht gezogen haben. Nichtsdestotrotz wollen wir mit diesem Dokument versuchen, unseren Strategieanansatz nach bestem Wissen und Gewissen mit Fakten und Argumenten zu untermauern; die entsprechenden Diskussionen dazu sind unter dem Strategie-Abschnitt in Sektion 5 zu finden.
 
-### 2.1 Kurzfristige Strategie (>2 Jahre)
+### 2.1 Kurzfristige Strategie (>2 Jahre) <a name="Short"></a>
 ---------------------------------------
 
 **Individuelle Ebene**
@@ -94,11 +97,11 @@ Wir stellen ebenso fest, dass diese Strategie nur auf Informationen basieren kan
 
    -   das Schreiben/Hinterlassen von **konstruktiven** Kommentaren & Hinweisen zu Preprints/Code etc. mit offenen Werkzeugen wie [hypothes.is](https://web.hypothes.is/),
 
-   -   das Anbieten von Hilfe bei der Beantwortung von Fragen in offenen Foren wie [Ask Open Science,](https://ask-Open science.org/), [Stack    Overflow](https://stackoverflow.com/) und auf Twitter,
+   -   das Anbieten von Hilfe bei der Beantwortung von Fragen in offenen Foren wie [Ask Open Science,](https://ask-Open science.org/), [Stack Overflow](https://stackoverflow.com/) und auf Twitter,
 
    -   eine positive Reaktion auf Anfragen zu open peer reviews.
 
--   Unterstütze den Aufbau von Support-Strukturen (z.B. openLabs, walk-in Labs und andere Supportangebote, auch makerspaces im weiteren Sinne)(für einen aktuellen Überblick siehe  [Fachmagazin Synergie](https://uhh.de/rtzse)), die andere Personen auf dem Weg zu Open Scholarship begleiten. Dazu kann Unterstützung bei Fragen nach offenem Publizieren, Offener Lehre, Offenem Lernen und Offenem Forschen genauso gehören wie die Frage, welche Werkzeuge/Tools/Programme dafür zur Verfügung stehen und wie diese genutzt werden können (siehe Abbildungen 1 und 2 und Abschnitt *Gruppenebene*).
+-   Unterstütze den Aufbau von Support-Strukturen (z.B. openLabs, walk-in Labs und andere Supportangebote, auch makerspaces im weiteren Sinne)(für einen aktuellen Überblick im deutschen Kontext, siehe [Fachmagazin Synergie](https://uhh.de/rtzse)), die andere Personen auf dem Weg zu Open Scholarship begleiten. Dazu kann Unterstützung bei Fragen nach offenem Publizieren, Offener Lehre, Offenem Lernen und Offenem Forschen genauso gehören wie die Frage, welche Werkzeuge/Tools/Programme dafür zur Verfügung stehen und wie diese genutzt werden können (siehe Abbildungen 1 und 2 und Abschnitt *Gruppenebene*).
 
 ![Abbildung_1: Rainbow of open science practices](images/image_0.png)\
 
@@ -109,25 +112,17 @@ Wir stellen ebenso fest, dass diese Strategie nur auf Informationen basieren kan
 
 [Steiner, Tobias (2018, Februar). Offene Bildungspraxis: Mögliche Szenarien. Zenodo](https://doi.org/10.5281/zenodo.1181884). (CC0)
 
--   Baue Beziehungen zu anderen Akteuren, die an der Entwicklung von Open
-    Scholarships beteiligt sind (z.B. Bibliothekare, politische
-    Entscheidungsträger, Verlage und andere Dienstleister,
-    Open Access-Befürworter und aktive Lehrkräfte sowie IKT- und andere
-    Unterstützungspositionen für Wissenschaft und Bildung) auf bzw. vertiefe bestehende Beziehungen.
+-   Baue Beziehungen zu anderen Akteuren, die an der Entwicklung von Open Scholarships beteiligt sind (z.B. Bibliothekare, politische Entscheidungsträger, Verlage und andere Dienstleister, Open Access-Befürworter und aktive Lehrkräfte sowie IKT- und andere Unterstützungspositionen für Wissenschaft und Bildung) auf bzw. vertiefe bestehende Beziehungen.
 
--   Kooperiere und arbeite mit Forschern zusammen, die verschiedene Aspekte von
-    Open Scholarship praktizieren; diese können von der Entwicklung von Open Source-Software und -Werkzeugen bis hin zur Veröffentlichung von Preprints und
-    der Förderung von Citizen Science und dem Austausch von Erfahrungen mit Ansätzen zur
-    offenen Bildung reichen.
+-   Kooperiere und arbeite mit Forschern zusammen, die verschiedene Aspekte von Open Scholarship praktizieren; diese können von der Entwicklung von Open Source-Software und -Werkzeugen bis hin zur Veröffentlichung von Preprints und der Förderung von Citizen Science und dem Austausch von Erfahrungen mit Ansätzen zu offener Bildung reichen.
 
--   Entwickle und fördere eine offenen, konstruktive Denkweise ("open mindset"), die die Bedeutung des Forschungs**prozesses** in den Fokus rückt und eine offene Fehlerkultur zulässt.
+-   Entwickle und fördere eine offene, konstruktive Denkweise ("open mindset"), die die Bedeutung des Forschungs**prozesses** in den Fokus rückt und eine offene Fehlerkultur zulässt.
 
 -   Unterzeichne die San Francisco Declaration on Research Assessment [(DORA)](https://sfdora.org/), um deutlich zu machen, dass Du dich der Verbesserung der Bewertung/des Assessment von Forschung verschreibst. Achte auch in der persönlichen Praxis auf die Einhaltung der DORA-Grundsätze.
 
--   Als Alternative kann das [Leiden Manifesto](http://www.leidenmanifesto.org/) dienen.
+  -   Als Alternative kann das [Leiden Manifesto](http://www.leidenmanifesto.org/) dienen.
 
--   Als im Bildungskontext tätige Person: Unterzeichne die [Cape Town Open Education     Declaration](http://www.capetowndeclaration.org/sign-the-declaration), um
-dich der Einhaltung der drei Strategien der Erklärung als Teil des Lehr-, Lern- und/oder Arbeitslebens zu verpflichten.
+-   Als im Bildungskontext tätige Person: Unterzeichne die [Cape Town Open Education Declaration](http://www.capetowndeclaration.org/sign-the-declaration), um dich der Einhaltung der drei Strategien der Erklärung als Teil des Lehr-, Lern- und/oder Arbeitslebens zu verpflichten.
 
    -   Falls Du noch mehr tun möchtest: Beachte die [Zehn Richtungen, um Open Education voran zu bringen](http://www.capetowndeclaration.org/cpt10/de/).
 
@@ -135,290 +130,158 @@ dich der Einhaltung der drei Strategien der Erklärung als Teil des Lehr-, Lern-
 
 **Gruppenebene (z.B. Labore, Abteilungen)**
 
--   Mache Open Scholarship-Hotspots (d.h. Orte, Events oder Gruppen für einen  regelmäßigen Austausch und die Diskussion über Community Building) ausfindig und finde einen Weg, diese miteinander in Kontakt und Austausch zu bringen, um Zusammenhalt und Expansion der Community zu fördern.
+-   Mache Open Scholarship-Hotspots (d.h. Orte, Events oder Gruppen für einen regelmäßigen Austausch und die Diskussion über Community Building) ausfindig und finde einen Weg, diese miteinander in Kontakt und Austausch zu bringen, um Zusammenhalt und Expansion der Community zu fördern.
 
--   Richte einen lokalen Open Scholarship-Hotspot (z.B. über die [Meetup-Plattform](https://www.meetup.com/)) ein, sollte dieser noch nicht existierten.
+-   Sollte ein solcher in Deiner Nähe noch nicht existierten: Richte einen lokalen Open Scholarship-Hotspot (z.B. über die [Meetup-Plattform](https://www.meetup.com/)) ein.
 
--   Starte Diskussionen zu einem impliziten oder expliziten (gemeinsamen)
-    Open Science-Verhaltenskodex oder einer entsprechenden Satzung für Ihre Abteilung,
-    Ihren Fachbereich, etc.
+-   Nutze diese nationalen/internationalen/regionalen Gemeinschaften, um das Lernen und den Wissensaustausch über Open Scholarship-Praktiken auf niedrigschwelliger Ebene, insbesondere in unterschiedlichen kulturellen Umgebungen, zu unterstützen.
 
--   Stelle sicher, dass Rechteexpertinnen und Rechtsexperten zum Thema Open Scholarship zur Verfügung stehen, die bei Fragen zu Urheberrecht und der richtigen Nutzung von Creative-Commons-Lizenzen behilflich sein können. Im deutschsprachigen Kontext kann hier bspw. das Portal [irights.info](https://irights.info) eine erste Anlaufstelle sein.
+-   Starte Diskussionen zu einem impliziten oder expliziten (gemeinsamen) Open Science/Open Scholarship-Verhaltenskodex oder einer entsprechenden Satzung für Ihre Abteilung, Ihren Fachbereich, etc. Als Inspiration können schon bestehende Kodizes wie bspw. der [Contributor Covenant](https://www.contributor-covenant.org/de/version/1/4/code-of-conduct) dienen.
 
--   Mache Best-Practice-Beispiele als showcases sichtbar, um zu zeigen, was mit Open
-    Scholarship tatsächlich möglich ist und was die weiteren Vorteile sein
-    können.
+-   Stelle sicher, dass Rechteexpertinnen und Rechtsexperten zum Thema Open Scholarship zur Verfügung stehen, die bei Fragen zu Urheberrecht und der richtigen Nutzung von Creative-Commons-Lizenzen behilflich sein können. Im deutschsprachigen Kontext kann zur Rechtsfragen und -Beispielfällen bspw. das Portal [irights.info](https://irights.info) eine erste Anlaufstelle sein.
+
+-   Mache Best-Practice-Beispiele als showcases sichtbar, um zu zeigen, was mit Open Scholarship tatsächlich möglich ist und was die weiteren Vorteile sein können.
 
 -   Binde Kommunikationsabteilungen und Forschungs-Assessment-Beauftragte enger mit ein. Organisiere Sitzungen, um diese Stakeholder über Open Science und Open Scholarship zu informieren. Sei dabei der Tatsache bewusst, dass es bedeuten kann, dass diese Stakeholder ihre gesamte Sichtweise dessen, was in der Wissenschaft wichtig ist und was ihre Rolle im Wissenschaftssystem betrifft, ändern.
 
 -   Adaptiere Best Practices für Open Scholarship, einschließlich gemeinsamer Daten als Forschungsergebnisse, die sich mit den Themen des "publication bias" sowie "fragwürdigen Forschungspraktiken" auseinandersetzen und bias-reduzierende Workflows als Alternative begreifen.
 
--   Halte Fürsprache bei Entscheidungsträgern von wissenschaftlichen Zeitschriften,
-    Verlagen, Förderern, Hochschulen und Forschungseinrichtungen, um eine
-    Vielzahl von Open Scholarship-Aktivitäten anzuerkennen und zu belohnen,
-    insbesondere im Hinblick auf Forschungsevaluation und Open Education Policies.
+-   Halte Fürsprache bei Entscheidungsträgern von wissenschaftlichen Zeitschriften, Verlagen, Förderern, Hochschulen und Forschungseinrichtungen, um eine Vielzahl von Open Scholarship-Aktivitäten anzuerkennen und zu belohnen, insbesondere im Hinblick auf Forschungsevaluation und Open Education Policies.
 
 -   Nimm Gespräche mit Anbietern von Hochschulranking-Diensten (z.B. QS, Times Higher Education (im Kontext UK), CHE (im Kontext DE)) auf, um ein Offenheitselement in die zugrundeliegenden Indikatoren zu integrieren.
 
--   Stoße Debatten über sinnvolle Standards und Praktiken auf fachlicher Ebene
-    für die Veröffentlichung von Daten in Deiner Institution und darüber hinaus an (z.B. die Einhaltung der [FAIR-Prinzipien)](https://www.go-fair.org/fair-principles/). Achte bei der Er- und Bereitstellung von OER auf die Gewährleistung der ["Fünf V-Freiheiten"](https://www.hoou.uni-hamburg.de/information/was-ist-oer.html#Die%205%20V-Freiheiten).
+-   Stoße Debatten über sinnvolle Standards und Praktiken auf fachlicher Ebene für die Veröffentlichung von Daten in Deiner Institution und darüber hinaus an (z.B. die Einhaltung der [FAIR-Prinzipien)](https://www.go-fair.org/fair-principles/). Achte bei der Er- und Bereitstellung von OER auf die Gewährleistung der ["Fünf V-Freiheiten"](https://www.hoou.uni-hamburg.de/information/was-ist-oer.html#Die%205%20V-Freiheiten).
 
--   Verbessere den Austausch zwischen Fakultätsbeiräten, Forscherinnen und Forschern, Studierenden und Bibliotheksmitarbeitenden in Bezug auf Open Scholarship-Praktiken (siehe Abb. 1 und 2) und die zugrundeliegenden Prinzipien.
+-   Verbessere den Austausch zwischen Fakultätsbeiräten, Forscherinnen und Forschern, Studierenden und Bibliotheksmitarbeitenden in Bezug auf Open Scholarship-Praktiken (siehe Abb. 1 und 2) und deren zugrundeliegenden Prinzipien.
 
--   Verweigere dich einer Zusammenarbeit mit Verlagen, die an restriktive Preprint-, Open Access- und Copyright-Richtlinien festhalten.
-
----
-
-//// **Bis hierher wurde übersetzt, ab hier handelt es sich um maschinell übersetzten Text, der so noch nicht veröffentlichungsreif ist. Fortsetzung folgt.** \\\\
-
----
+-   Verweigere dich einer Zusammenarbeit mit Verlagen, die an restriktiven Preprint-, Open Access- und Copyright-Richtlinien festhalten.
 
 
 **Institutsebene (einschließlich Forschungs- und Fördereinrichtungen)**
 
--   Forschungsbibliotheken sollten Informationen darüber sammeln, wie der Sektor
-    als Ganzes mit der Forschungsliteratur interagiert. Solche Informationen
-    könnten verwendet werden, um bei Verlagsverhandlungen zu helfen, große
-    Verträge aufzulösen und Abonnements zu kündigen, indem sie den
-    branchenübergreifenden Wert von Diensten belegen:
+-   Forschungsbibliotheken sollten Informationen darüber sammeln, wie der Forschungssektor als Ganzes mit Forschungsliteratur interagiert. Folgende Informationen könnten sich als hilfreich bei Verhandlungen mit Verlagen erweisen und Argumentationshilfen für das Aufbrechen von Sammelverträgen und Groß-Abonnements liefern, indem sie den branchenübergreifenden Wert von Diensten belegen:
 
--   An welchen Orten die Forscher publizieren;
+  - Welche Journals und Verlage Forschende für ihre Publikationen wählen;
 
--   Wer macht die Redaktions- und Peer-Review-Arbeit;
+  - Wer tatsächlich redaktionelle und Peer-Review-Arbeit leistet;
 
--   Wie viel wird für Serienabonnements ausgegeben;
+  - Welche Summen für Serienabonnements ausgegeben wird;
 
--   wie viel für Artikelbearbeitungsgebühren (APCs) und Buchbearbeitungsgebühren
-    (BPCs) für Open Access ausgegeben wird; und
+  - Welche Summen für Artikelbearbeitungsgebühren/article processing charges (APCs) und Buchbearbeitungsgebühren/book processing charges (BPCs) für Open Access ausgegeben werden; und
 
--   Welche Artikel werden heruntergeladen und zitiert.
+  - Welche Artikel tatsächlich heruntergeladen und zitiert werden.
 
--   Planen und koordinieren Sie, wann aktuelle Abonnement- und Big-Deal-Lizenzen
-    über Forschungsinstitute hinweg auslaufen und lassen Sie es geschehen. Bei
-    Kündigungen oder Kündigungen ist sicherzustellen, dass ein angemessener
-    Zugang und Support nach dem Abonnement unter Nutzung bestehender
-    nachhaltiger und rechtlicher Mechanismen (z.B. Fernleihe) gewährleistet ist.
-    Erkunden Sie Wege zur Reinvestition von eingespartem Geld für
-    Bibliotheksbudgets.
+-   Verschaffe Dir einen aktuellen, koordinierten Überblick darüber, zu welchem Zeitpunkt welche Abonnements und Lizenzvereinbarungen über Forschungsinstitutsgrenzen hinweg auslaufen, und lasse dies geschehen. Wo immer Stornierungen oder Kündigungen von Abonnements auftreten, ist sicherzustellen, dass ein angemessener Zugang und Support nach Auslauf des Abonnement unter Nutzung bestehender legaler Mechanismen (z.B. Fernleihe) gewährleistet wird. Erkunden Sie Wege zur Reinvestition von eingesparten Mitteln in nachhaltige Bibliotheksbudgets.
 
--   Kaufen Sie Altdokumente zurück und binden Sie sie in das wissenschaftliche
-    Werk ein. Verbessern Sie auch die offene Freigabe und Archivierung von
-    Altartikeln, bei denen das Urheberrecht abgelaufen ist.
+-   Kaufe Altdokumente von Verlagen zurück und binde sie in den offenen wissenschaftlichen Gesamtkreislauf ein. Verbessere zudem die offene Verfügbarmachung und Archivierung von Werken, deren Urheberrecht abgelaufen ist.
 
--   Helfen Sie den Forschern, mehr über die
-    [Beendigung](https://www.authorsalliance.org/resources/termination-of-transfer/)
-    des
-    [Transfer-Tools](https://www.authorsalliance.org/resources/termination-of-transfer/)
-    der
-    [Autorenallianz](https://www.authorsalliance.org/resources/termination-of-transfer/)
-    zu erfahren, damit sie ihre Rechte als Autoren behalten können.
+-   Hilf Forschenden, sich über Möglichkeiten einer ["Termination of Transfer" der Authors' Alliance ](https://www.authorsalliance.org/resources/termination-of-transfer/)
+ zu informieren, um ihnen Wege aufzuzeigen, ihre Rechte als Autoren behalten zu können. Hier sei insbesondere auch auf das [Termination of Transfer Tool](https://rightsback.org/) hingewiesen.
 
--   Forschungsförderer können die Grenzen eines akzeptablen
-    Publikationsstandards festlegen. Sie haben daher die Befugnis, die
-    Veröffentlichung in Zeitschriften mit einer Obergrenze für APCs und BPCs
-    oder in reinen Open Access-Zentren (mit spezifischen Lizenzen) oder in
-    solchen mit kurzen oder Null-Embargos für die Selbstarchivierung (z.B.
-    Emerald, The Royal Society) zu verlangen.
+-   Forschungsförderinstitutionen können Grenzen eines akzeptablen Publikationsstandards festlegen. Sie können daher auch darauf hinwirken, Veröffentlichungen in wiss. Journals mit einer Obergrenze für APCs und BPCs zu belegen, oder Veröffentlichungen bei reinen Open Access-Verlagen (mit OA-spezifischen Lizenzen) oder in solchen mit vergleichsweise kurzen Embargofristen (bis hin zum Null-Embargo) zur Selbstarchivierung (grünes OA, z.B. Emerald, The Royal Society) zu verlangen.
 
--   Weigern Sie sich, mit Verlagen zusammenzuarbeiten, die die Zahlungen
-    [verdoppeln](http://www.rluk.ac.uk/about-us/blog/the-costs-of-double-dipping/),
-    und fordern Sie Transparenz und Daten, wenn der Verdacht besteht, dass dies
-    der Fall ist (für einen Überblick siehe z.B. [Buranyi,
-    2017)](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science).
+-   Weigere dich, mit Verlagen zusammenzuarbeiten, die sog. "[Double Dipping](http://www.rluk.ac.uk/about-us/blog/the-costs-of-double-dipping/)" praktizieren, und fordere Transparenz und die Bereitstellung entsprechender Daten, falls der Verdacht besteht, dass dies der Fall ist (für einen Überblick siehe z.B. [Buranyi, 2017)](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science).
 
--   Weigern Sie sich, mit Verlagen zusammenzuarbeiten, bei denen es keine
-    Transparenz über die Preise für Abonnements oder Open Access gibt. Dies gilt
-    auch für Verlage, die darauf bestehen, Vertraulichkeitsvereinbarungen als
-    Teil der Lizenzvertragsbedingungen zu verwenden.
+-   Weigere dich, mit Verlagen zusammenzuarbeiten, bei denen es keine Transparenz über das Preismodell für Abonnements oder Open Access gibt. Dies gilt auch für Verlage, die auf Vertraulichkeitsvereinbarungen als Teil der Lizenzvertragsbedingungen bestehen.
 
--   Verlage zu mehr Transparenz in Bezug auf die finanziellen Aspekte ihrer
-    Publishing-Workflows anregen, ähnlich denen von [Ubiquity
-    Press](https://www.ubiquitypress.com/site/publish/).
+-   Wirke im Dialog mit Verlagen darauf hin, mehr Transparenz in Bezug auf die finanziellen Aspekte ihrer Publishing-Workflows zu etablieren. Als Positiv-Beispiel kann hier [Ubiquity  Press](https://www.ubiquitypress.com/site/publish/) dienen.
 
--   Bestehen Sie darauf, dass die Verlage alle bibliographischen Daten,
-    Nutzungsmetriken und Zitierdaten sowohl in einem menschen- als auch in einem
-    maschinenlesbaren Format frei verfügbar und zugänglich machen.
+-   Bestehe darauf, dass Verlage alle bibliographischen Daten, Nutzungsmetriken und Zitationsdaten sowohl in für Menschen lesbaren als auch in einem maschinenlesbaren Format frei verfügbar und zugänglich machen.
 
--   Entwicklung von Richtlinien zur Wahrung von Rechten für die
-    wissenschaftliche Forschung an Forschungsinstituten, denen diese derzeit
-    fehlen.
+-   Wirke auf eine Entwicklung von Richtlinien zur Wahrung von Rechten für Forschung an Forschungsinstituten hin, an denen diese derzeit noch fehlen.
 
--   Übernehmen Sie die [CASRAI CRediT](http://docs.casrai.org/CRediT)
-    (Contributor Rules Taxonomy) Richtlinien, um Autorenbeiträge klarer zu
-    identifizieren.
+-   Erwäge eine Adaption der [CASRAI CRediT](http://docs.casrai.org/CRediT)(Contributor Rules Taxonomy)-Richtlinien, um Beiträge der Autorinnen und Autoren klarer zu identifizieren.
 
--   Weigern Sie sich, mit Verlagen zusammenzuarbeiten, die über restriktive
-    Preprint-, Open Access- und Copyright-Richtlinien verfügen.
+-   Weigere dich, mit Verlagen zusammenzuarbeiten, die über restriktive Preprint-, Open Access- und Copyright-Richtlinien verfügen.
 
--   Förderung der weiteren Annahme der [Initiative für offene
-    Zitate](https://i4oc.org/) (I4OC) durch die Herausgeber in Verbindung mit
-    der breiteren Akzeptanz offener Standards.
+-   Fördere die Verbreitung der [Initiative for Open Citations](https://i4oc.org/) (I4OC) bei Verlagen im Kontext der Förderung breiterer Akzeptanz offener Standards.
 
--   Für Forschungsinstitute, denen sie derzeit fehlen, entweder ein
-    Open Access-Repository einrichten und pflegen oder eine vorhandene Ressource
-    zur Nutzung finden und eine
-    [Open Access-Policy](https://cyber.harvard.edu/hoap/Good_practices_for_university_Open access_policies)
-    einführen. Machen Sie diese leicht auffindbar und zugänglich auf der
-    institutionellen Website und allen relevanten Indexierungsdiensten.
+-   Für Forschungsinstitutionen, an denen sie derzeit fehlen: rege die Einrichtung und nachhaltige Pflege eines Open Access-Repository an oder identifiziere schon vorhandene Ressourcen, die für diesen Zweck genutzt werden können. Führe zudem eine [Open Access-Policy](https://cyber.harvard.edu/hoap/Good_practices_for_university_Open access_policies) ein und mache diese auf der institutionellen Website und allen relevanten Indexierungsdiensten leicht auffindbar und zugänglich.
 
--   Beispiele für Open Access-Policies finden Sie z.B. über die
+  - Beispiele für Open Access-Policies finden sich z.B. über die
     [ROARMAP](https://roarmap.eprints.org/cgi/search/advanced)
+  - Beispiele für Open Education / OER-Policies sind z.B. im [Creative Commons OER Policy Registry](https://wiki.creativecommons.org/wiki/OER_Policy_Registry) oder in den [Policy approaches to Open Education, 2017](https://doi.org/10.2760/283135) der Europäischen Union aufgeführt.
 
--   Beispiele für Open Education / OER-Politik sind z.B. im [Creative Commons
-    OER-Politikregister](https://wiki.creativecommons.org/wiki/OER_Policy_Registry)
-    oder in den [Politikansätzen](https://doi.org/10.2760/283135) der
-    Europäischen Union [zu Open Education,
-    2017,](https://doi.org/10.2760/283135) aufgeführt.
+-   Unterstütze die Förderung von - und leiste entsprechende Kompensation von investierter Zeit und Arbeit für Training- und Interessensvertretungstätigkeiten der verschiedenen Aspekte von Open Scholarship, einschließlich Open Source, Open Access und Open Education.
 
--   Förderung und Kompensation von Zeit und Aufwand für die Ausbildung und
-    Fürsprache der verschiedenen Aspekte von Open Scholarship, einschließlich
-    Open Source, Open Access und Open Education.
+-   Ermögliche und fördere lokale Supportstrukturen wie Openlabs, Makerspaces und Lern-, Orientierungs- und Beratungsangebote für Open Publication, Open Science und Open Education.
 
--   Ermöglichen und fördern Sie lokale Unterstützungsstrukturen wie Openlabs und
-    offene Lern-, Orientierungs- und Beratungsangebote für Publikationen und
-    Forschung.
+-   Arbeite mit Forschungs-Communities zusammen, um quantifizierbare Anreize für den Austausch von Preprints, Open Data, reproduzierbaren Analysedaten und Open Access generell bei Einstellungs-, Beförderungs- und Berufungsverfahren zu entwickeln und zu bewerben. Definiere neue Wege, um die Vorteile dieser Anreize der breiteren Wissenschaftcommunity verständlich zu machen.
 
--   Zusammenarbeit mit Forschungseinrichtungen, um quantifizierbare Anreize für
-    den Austausch von Preprints, offenen Daten, reproduzierbaren Analysen und OA
-    bei Einstellungs-, Beförderungs- und Besitzverhältnissen zu entwickeln und
-    zu bewerben. Definieren Sie neue Wege, um diese breiteren Beiträge für die
-    Wissenschaft zu beschreiben.
+-   Adaptiere und fördere die in DORA festgelegten Prinzipien für ein gerechteres Assessment von Forschung. Stelle sicher, dass die für diese Art von Assessment Verantwortlichen, einschließlich Einstellungs-, Berufungs- und Förderausschüsse, sich an diese halten.
 
--   Förderung und Annahme der in DORA dargelegten Grundsätze für eine gerechtere
-    Forschungsbewertung. Stellen Sie sicher, dass die Verantwortlichen für die
-    Bewertung der Forschung, einschließlich der Einstellungsausschüsse, der
-    Amtszeit und der Vergabekomitees, sich an diese halten.
+-   Überlege, closed source-Software mit Open Source-Alternativen zu ersetzen.
+
+-   Setze sowohl in persönlicher Forschungsarbeit als auch im Austausch mit anderen Forschenden auf offene Standards und Dateiformate bei der Bereitstellung von Dokumenten und Daten (entweder ausschließlich oder mindestens zusätzlich zur Bereitstellung von geschlossenen Standards und Dateiformaten).
 
 **Nationale Ebene (oder höher)**
 
--   Schaffung neuer oder Unterstützung bestehender internationaler
-    Bibliothekskonsortien/Kooperationen (z.B. die [International Coalition of
-    Library Consortia)](http://icolc.net/) zur Zusammenarbeit bei
-    Infrastrukturentwicklungen (z.B. [LIBER,](https://libereurope.eu/)
-    [EIFL,](http://www.eifl.net/) [ARL](http://www.arl.org/) und
-    [SPARC)](https://sparcopen.org/).
+-   Schaffe neue oder trete in Kontakt mit bzw. unterstütze bestehende internationale Bibliothekskonsortien/-Kooperationen (z.B. die [International Coalition of Library Consortia)](http://icolc.net/)), um bei der Infrastrukturentwicklung zusammenzuarbeiten (z.B. [LIBER,](https://libereurope.eu/), [EIFL,](http://www.eifl.net/), [ARL](http://www.arl.org/) und [SPARC)](https://sparcopen.org/).
 
--   Melden Sie sich bei der Global Sustainability Coalition for Open Science
-    Services [(SCOSS)](http://scoss.org/) an und untersuchen Sie Koalitionen mit
-    der [Open Research Funders Group](http://www.orfg.org).
+-   Werde Mitglied bei der Global Sustainability Coalition for Open Science Services [(SCOSS)](http://scoss.org/), und erörtere eine mögliche Koalition mit der [Open Research Funders Group](http://www.orfg.org).
 
-    -   Konsortien wie das deutsche [Projekt DEAL](https://www.projekt-deal.de/)
-        könnten Beispiele dafür liefern, wie man auf nationaler Ebene den ersten
-        Schritt in diese Richtung tun kann. Die Unterstützung von SPARC für
-        solche Entwicklungen wäre ebenfalls nützlich.
+    -   Konsortien wie das deutsche [Projekt DEAL](https://www.projekt-deal.de/) können als Beispiel dafür gelten, wie auf nationaler Ebene ein erster Schritt in diese Richtung gegangen werden kann. Hier die Unterstützung von SPARC einzuholen, wäre sicherlich ebenfalls nützlich.
 
--   Bauen Sie auf die Unterstützung von Dozenten und Geldgebern für Open Access
-    und damit verbundene Qualitätssicherungsinitiativen (z.B. Peer Review), die
-    von Zeitschriften entkoppelt sind. Vereinbarung und Entwicklung einer
-    Governance-Struktur für eine weltweite wissenschaftliche Infrastruktur (z.B.
-    [W3C)](https://www.w3.org/).
+-   Baue auf die Unterstützung von Mitarbeitenden und Geldgebern für Open Access und damit verbundene Qualitätssicherungsinitiativen (z.B. Peer Review), die vom Verlags- und Journal-Kreislauf entkoppelt sind. Vereinbare eine Governance-Struktur, die weltweite Infrastrukturen (z.B. [W3C)](https://www.w3.org/)) mit einbezieht, und entwickle diese kontinuierlich weiter.
 
--   Erstellung wissenschaftlicher Standards zur Implementierung einer
-    alternativen, gemeinnützigen und gemeindeeigenen wissenschaftlichen
-    Publikationsplattform/-umgebung (unter Verwendung der von Abonnements
-    befreiten Mittel, aufbauend auf bestehenden Repositorien/Umgebungen und
-    Infrastrukturen).
+-   Schaffe wissenschaftliche Standards zur Implementierung einer gemeinnützigen non-profit Publikationsplattform/-umgebung (unter Einsatz der durch ausgelaufene Abonnements freigewordenen Mittel, und aufbauend auf bestehenden Repositorien/Umgebungen und digitaler Forschungsinfrastruktur).
 
--   Unterstützen Sie Kooperationen wie [Metadata
-    2020,](http://www.metadata2020.org/) [NISO/NIST](https://www.niso.org/) und
-    [eLife,](https://elifesciences.org/) um eine umfassendere Verbindung
-    zwischen wissenschaftlichen Kommunikationssystemen und Communities
-    aufzubauen.
+-   Unterstütze Kooperationen wie [Metadata 2020,](http://www.metadata2020.org/), [NISO/NIST](https://www.niso.org/) und [eLife,](https://elifesciences.org/), um wissenschaftlichen Kommunikationssystemen und Communities besser miteinander zu vernetzen.
 
--   Maßnahmen gegen die Privatisierung wissenschaftlicher Werke und Prozesse zu
-    ergreifen, um die Umwandlung der Verlagsbranche in eine Verlagsbranche zu
-    erreichen, die aus fairer Lizenzierung, fairem Marktwettbewerb und unter dem
-    Eigentum der wissenschaftlichen Gemeinschaft besteht.
+-   Initiiere Maßnahmen gegen die Privatisierung wissenschaftlicher Publikationen und Prozesse, um eine Veränderung der Verlagsbranche hin zu einem Verlagssystem zu erreichen, das auf faire Lizenzierung, fairen Wettbewerb und der Einhaltung der Eigentumsrechte der wissenschaftlichen Gemeinschaft setzt.
 
--   Erstellen Sie eine Kosten-Nutzen-Analyse von Open Scholarship (z.B. wahre
-    Kosten für die Veröffentlichung von Artikeln), die als Grundlage für ein
-    Argument dient, wie viel Steuergelder es jedes Jahr kostet, Entscheidungen
-    in den oben genannten Bereichen zu verzögern.
+-   Erstelle eine Kosten-Nutzen-Analyse zu Open Scholarship (z.B. Übersicht der tatsächlich anfallende Kosten der Veröffentlichung von Artikeln), die als Grundlage für die Auseinandersetzung mit der Frage dienen kann, welche Summe an Steuergeldern jedes Jahr dadurch ausgegeben werden, wenn zu treffende Entscheidungen in den oben genannten Bereichen weiter verzögert werden.
 
--   Implementierung der derzeit verfügbaren Sortier-, Filter- und
-    Such-/Entdeckungstechnologie für alle Stipendienausgaben.
+-   Führe moderne Sortier-, Filter- und Suchtechnologien (semantic web) für alle bereitzustellenden Wissenschafts-Output ein.
 
--   Aktivieren Sie uneingeschränktes Text- und Data-Mining über diesen Inhalt.
+-   Ermögliche uneingeschränktes Text- und Data-Mining für diese Inhalte.
 
--   Forschungsförderer und Bibliotheken halten den größten Teil der Mittel, und
-    ein weiteres Engagement in diesem Bereich ist unerlässlich, insbesondere bei
-    der Definition ihrer relativen Rolle bei der Entwicklung oder Finanzierung
-    wissenschaftlicher Infrastruktur. Einfach mehr Geld in das bestehende System
-    zu leiten, mit perversen Anreizen und verzerrter Machtdynamik, ist für die
-    Forschung eindeutig nicht mehr tragbar.
+-   Forschungsförderungs-Institutionen und Bibliotheken halten zumeist den größten Teil der verfügbaren Mittel unter ihrer Kontrolle. Daher ist weitergehendes Engagement dieser Stakeholder unerlässlich, insbesondere bei der Definition ihres diesbezüglichen Rollenverständnisses bei der Entwicklung und Finanzierung von Wissenschafts-Infrastruktur. Ein "Einfach weiter so", mit dem wie bisher Geld in das bestehende System mit kontraindizierten Anreizen und verzerrter Machtdynamik geleitet wird, ist für die Forschung insgesamt eindeutig nicht mehr tragbar.
 
--   Entwicklung nachhaltiger, regionaler und nationaler Roadmaps für Open
-    Scholarships.
+-   Wirke an der Entwicklung nachhaltiger, regionaler und nationaler Roadmaps für Open Scholarship mit.
 
--   Ermutigung von Forschungsförderern zur Diversifizierung des Portfolios, das
-    für Bewertungszwecke als Forschungsergebnis angesehen wird.
+-   Ermutige an der Forschungsförderung Beteiligte zur Diversifizierung des Portfolios dessen, was für Assessment-Zwecke als Forschungsergebnis angesehen wird.
 
-    -   Größere Verbreitung von Preprint- und Open Access-Richtlinien, ähnlich
-        denen der NIH (USA) und des Wellcome Trust (UK).
+    -   Dies beinhaltet die weitergehende Adoption von Preprint- und Open Access-Policies ähnlich denen der NIH (USA) und des Wellcome Trust (UK).
 
--   Reduzierung der Artikelbearbeitungsgebühren (APCs) und
-    Buchbearbeitungsgebühren (BPCs) bei Hybridtiteln, um dem Marktdurchschnitt
-    für reine Open Access-Zeitschriften und Druckmaschinen zu entsprechen.
+-   Ermutige Forschungsförderer bei der Entwicklung von Aufrufen zur Unterstützung von evidenz- und theoriebasierten Interventionen zur Förderung von Open Scholarship.
 
-    -   Der wissenschaftliche Verlagsmarkt könnte eine detaillierte Untersuchung
-        auf Regierungsebene erfordern, um dies zu stabilisieren.
+-   Erwirke eine Reduzierung der Artikelbearbeitungsgebühren/article processing charges (APCs) und Buchbearbeitungsgebühren/book processing charges (BPCs) bei Hybrid-Titeln, um dem Marktdurchschnitt für reine Open Access-Zeitschriften und Verlage zu entsprechen.
 
--   Mandat [ORCID](https://orcid.org/) für Forscher über alle
-    Forschungsergebnisse hinweg, um die dauerhafte Identifizierung von Autoren
-    in der gesamten Forschungsliteratur zu unterstützen und die Auffindbarkeit
-    der Forschung zu erleichtern.
+    -   Der wissenschaftliche Publikationsmarkt könnte eine detaillierte Untersuchung auf Regierungsebene erfordern, um dies nachhaltig zu stabilisieren.
 
--   Wenn die Abonnements noch nicht abgelaufen sind,
-    Mandatsausgleichsvereinbarungen für hybride Zeitschriftentitel, um das
-    Double-Diping zu reduzieren.
+-   Wirke auf die Verwendung von [ORCID](https://orcid.org/)-Identifiern für Forschende im gesamten Forschungsoutput hin, um eine persistente Identifizierung von Autorinnen und Autoren in der gesamten Forschungsliteratur zu unterstützen und die Auffindbarkeit von Forschungsergebnissen zu erleichtern.
 
--   Wo Kompensationsgeschäfte bestehen, können diese gestrafft und
-    sektorübergreifend standardisiert werden, um den Verwaltungsaufwand zu
-    reduzieren.
+-   Wenn Journal-Abonnements noch nicht abgelaufen sind, erwirke Ausgleichsvereinbarungen für Hybrid-Journals (OA/non-OA), um Double-Dipping seitens der Verlage zu reduzieren.
 
--   Für wissenschaftliche Verlage, sich mit der neuen [UK Scholarly
-    Communications License](http://ukscl.ac.uk/) zu beschäftigen, die es den
-    Autoren ermöglicht, mehr Rechte zu behalten. Dies würde den Zeitaufwand für
-    die Embargoverarbeitung, die Kosten für hybride APCs und BPCs sowie für
-    Forscher im Vereinigten Königreich verringern und ihnen helfen, die [UKRI
-    Open Access-Politik](https://www.ukri.org/funding/information-for-award-holders/Open access/Open access-policy/)
-    einzuhalten.
+-   Wo Ausgleichs- und/oder Kompensationsvereinbarungen bestehen, können diese gestrafft und sektorübergreifend standardisiert werden, um den anfallenden Verwaltungsaufwand zu reduzieren.
 
-    -   Für diejenigen außerhalb des Vereinigten Königreichs, die eine
-        Ausweitung des UK SCL (oder relevanter Variationen davon) auf andere
-        regionale Finanzierungs- und Lizenzstrategien in Erwägung ziehen.
+-   Arbeite darauf hin, dass Wissenschaftsverlage sich mit der neuen [UK Scholarly Communications License](http://ukscl.ac.uk/) auseinandersetzen, die es Autorinnen und Autoren ermöglicht, weitergehende Rechte an ihren publizierten Werken zu behalten. Dies würde den Zeitaufwand für Embargofristen und deren Verwaltung, die Kosten für hybride APCs und BPCs reduzieren. Forschende im Vereinigten Königreich/UK können zudem dabei unterstützt werden, die [UKRI Open Access policy](https://www.ukri.org/funding/information-for-award-holders/Open access/Open access-policy/) zu beachten und einzuhalten.
 
--   Sektorweite Einführung von fraglosen Gebührenbefreiungen für Forscher aus
-    Ländern mit niedrigem bis mittlerem Einkommen oder mit nachweisbarem
-    finanziellem Bedarf.
+    -   Forschende, die nicht im Vereinigten Königreich ansässig sind, können darauf hinwirken, eine auf die Förderungs- und Lizenzierungsanforderungen anderer Regionen erweiterte Adaption des [UKSCL](http://ukscl.ac.uk/) (oder relevanter Variationen davon) zu erarbeiten und einzuführen.
 
--   Die Mehrzahl der wissenschaftlichen Zeitschriften vom Abonnement in
-    Open Access-Publikationen
-    [umzuwandeln](https://nrs.harvard.edu/urn-3:HUL.InstRepos:27803834) (oder zu
-    spiegeln), entsprechend den gemeinschaftsspezifischen
-    Publikationspräferenzen.
+-   Führe sektorübergreifend eine bedingungslose Gebührenbefreiung für Forschende aus Ländern mit niedrigem bis mittlerem Einkommen oder mit nachweisbarem finanziellem Bedarf ein.
 
--   Alle [relevanten Akteure,](https://doi.org/10.3233/ISU-170839)
-    einschließlich Universitäten, Forschungseinrichtungen, Fachgesellschaften,
-    Geldgeber, Bibliotheken und Verlage, einzuladen, an einem Übergang zu
-    offenen Forschungspraktiken zum Nutzen der Wissenschaft und der Gesellschaft
-    insgesamt mitzuwirken.
+-  [Wandle](https://nrs.harvard.edu/urn-3:HUL.InstRepos:27803834) (oder flippe) die Mehrheit der verfügbaren wissenschaftlichen Journals vom Bezahl-/Abonnement-Modell hin zu Open Access entsprechend den Befürfnissen der entsprechenden Wissenschaftscommunities.
 
--   Erstellen Sie Showcases/Highlights/Good Practices von Open
-    Scholarship-Praktiken auf nationalen Websites oder Portalen, zusammen mit
-    relevanten Informationen und Ressourcen.
 
--   Förderung der Formalisierung offener wissenschaftlicher Ausbildungskurse,
-    wie sie von [FOSTER](https://www.fosteropenscience.eu/toolkit) angeboten
-    werden, in Graduiertenschulprogrammen (und darüber hinaus).
+-   Lade alle [relevanten Akteure,](https://doi.org/10.3233/ISU-170839) einschließlich Universitäten, Forschungseinrichtungen, Fachgesellschaften, Geldgeber, Bibliotheken und Verlagen dazu ein, konstruktiv an einem Übergang zu offenen Forschungs- und Bildungsspraktiken zum Nutzen der Wissenschaft und der Gesellschaft insgesamt mitzuwirken.
 
--   Förderung und Annahme der in DORA dargelegten Grundsätze für eine gerechtere
-    Forschungsbewertung. Stellen Sie sicher, dass die Verantwortlichen für die
-    Bewertung der Forschung, einschließlich der Einstellungsausschüsse, der
-    Amtszeit und der Vergabekomitees, sich an diese halten.
+-   Erstelle Showcases und Good Practice-Beispiele von Open Scholarship-Praktiken auf nationalen Websites oder Portalen, zusammen mit relevanten Informationen und Ressourcen.
 
-2.2 Mittelfriststrategie (2-5 Jahre)
+-   Fördere die Erstellung und Bereitstellung von Open Science-Trainingskursen in Graduiertenschulprogrammen (und darüber hinaus). Als Beispiel kann das Open Science-Toolkit von [FOSTER](https://www.fosteropenscience.eu/toolkit) dienen.
+
+-   Fördere die in DORA dargelegten Grundsätze für ein gerechteres
+Assessment von Forschungsleistungen, und adaptiere diese an Dein eigenes Umfeld. Stelle sicher, dass die für Forschungs-Assessment Verantwortlichen, einschließlich der Einstellungs- und Berufungsausschüsse sowie für die Vergabe von Grants und Forschungszuschüssen verantwortlichen Komitees, sich an diese halten.
+
+## 2.2 Mittelfristige Strategie (2-5 Jahre) <a name="Middle"></a>
 -------------------------------------
+
+-----
+
+// ** Bis hierhin wurde manuell übersetzt und geprooft, ab Zeile 281 folgt maschinell vorübersetzter Text, der noch nicht weiter redigiert wurde und daher nicht zur finalen Veröffentlichung freigeben wird. ** //
+
+-----
 
 Zu diesem Zeitpunkt wird erwartet, dass bestimmte Teile der kurzfristigen
 Strategie auf der Grundlage der Bedürfnisse der jeweiligen Gruppen eingeleitet
