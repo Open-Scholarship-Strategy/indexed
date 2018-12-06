@@ -5,7 +5,7 @@ The whole document is openly licensed so that anyone (or group) can [translate](
 ## Current translations
 
 * [Spanish](https://github.com/Open-Scholarship-Strategy/indexed/blob/master/translations/spanish/index_es.md)
-* [German](https://github.com/Open-Scholarship-Strategy/indexed/blob/master/translations/german/index_de.md)
+* [German](https://github.com/Open-Scholarship-Strategy/indexed/blob/master/translations/german/index-de.md)
 
 ## Current adaptations
 
