@@ -43,7 +43,7 @@ Die Hauptinhaltsdatei findet sich [hier](https://github.com/Open Scholarship-Str
 [Jonathan Tennant](https://orcid.org/0000-0001-7794-0218)/* , Jonathan Dugan, Rachel Harding, Tony Ross-Hellauer, [Kshitiz Khanal](https://orcid.org/0000-0002-4765-4832), [Thomas Pasquier](https://orcid.org/0000-0001-6876-1306), [Jeroen Bosman](https://orcid.org/0000-0001-5796-2727), [Asura Enkhbayar](https://orcid.org/0000-0002-3934-026X), Gail Clement, [David Eccles](https://orcid.org/0000-0003-4634-4995), [Fiona Bradley](https://orcid.org/0000-0002-3622-2794), [(Bjoern Brembs)](https://orcid.org/0000-0001-7824-7650), (Pawel Szczesny), [Lisa Matthias](https://orcid.org/0000-0002-2612-2132), [Jesper Norgaard Kjaer](https://orcid.org/0000-0001-9183-9861), [Daniel S. Katz](https://orcid.org/0000-0001-5934-7525), [Tom Crick](https://orcid.org/0000-0001-5196-9389), [Christopher R. Madan](https://orcid.org/0000-0003-3228-6501), [Paul Macklin](https://orcid.org/0000-0002-9925-0151), [Johanna Havemann,](https://orcid.org/0000-0002-6157-1494), [Jennifer E. Beamer](https://orcid.org/0000-0001-6887-6568), [Michael Schulte-Mecklenbeck](https://orcid.org/0000-0002-0406-8809), Dan Sholler, Paola Masuzzo, [Tobias Steiner](https://orcid.org/0000-0002-3158-3136), [Tim Koder,](https://orcid.org/0000-0001-6152-7365), [David Nichols](https://orcid.org/0000-0003-0321-7267), [Daniel Graziotin](https://orcid.org/0000-0002-9107-7681), Alastair Dunning, [Andy Turner](https://orcid.org/0000-0002-6098-6313), [Neo Christopher Chung](https://orcid.org/0000-0001-6798-8867)
 
 - /* [Kontakt](mailto:jon.tennant.2@gmail.com)
-- Translation/Übersetzung ENG-GER: [Tobias Steiner](https://orcid.org/0000-0002-3158-3136)
+- Translation/Übersetzung ENG->GER: [Tobias Steiner](https://orcid.org/0000-0002-3158-3136)
 
 ## 1. Zweck dieses Dokuments <a name="Purpose"></a>
 ==========================
@@ -283,72 +283,42 @@ Assessment von Forschungsleistungen, und adaptiere diese an Dein eigenes Umfeld.
 
 -----
 
-Zu diesem Zeitpunkt wird erwartet, dass bestimmte Teile der kurzfristigen
-Strategie auf der Grundlage der Bedürfnisse der jeweiligen Gruppen eingeleitet
-wurden und sich entweder in der Umsetzung oder in der Entwicklung befinden.
-Häufig handelt es sich um laufende Prozesse, die sich daher mit der
-mittelfristigen Strategie überschneiden können und es nicht wert sind, hier
-wiederholt zu werden. Alle in der [Kurzfriststrategie](#Short) genannten Punkte
-sind jedoch je nach Entwicklungstempo noch relevant.
+Zu gegenwärtigen Zeitpunkt wird davon ausgegangen, dass Teile der kurzfristigen Strategie auf der Grundlage der Bedürfnisse der jeweiligen Gruppen bereits eingeleitet wurden und sich entweder in der Umsetzung oder in der vorbereitenden Entwicklung befinden. Häufig handelt es sich um fluide und kontinuierliche Prozesse, die sich mit der mittelfristigen Strategie überschneiden können und daher an dieser stelle nicht explizit wiederholt werden. Alle in der [Kurzfriststrategie](#Short) genannten Punkte sind daher je nach Entwicklungstempo genauso relevant.
 
 **Individuelle Ebene**
 
--   Fortsetzung der Unterweisung neuer Forscher in Best Practices zum Thema Open
-    Scholarship.
+-   Arbeite weiterhin an der Einführung neuer Forscher/innen in Best Practices zum Thema Open Scholarship.
 
-    -   In Gebieten, in denen dies nicht der Fall sein könnte, sollten
-        strategische Netzwerke aufgebaut werden, um die Lobbyarbeit zu
-        verstärken.
+    -   In Gebieten, in denen dies bisher noch nicht der Fall ist, könnte der Aufbau strategischer Netzwerke zur Lobbyarbeit für Openness verstärkt werden.
 
--   Stellen Sie sicher, dass alle Ihre Forschungsprozesse und -ergebnisse,
-    einschließlich der historischen, offen lizenziert und für die
-    Wiederverwendung an geeigneten Orten verfügbar sind.
+-   Stelle sicher, dass alle Forschungsprozesse und -ergebnisse im persönlichen Umfeld, einschließlich früherer Publikationen und Forschungsdaten, offen lizenziert und für die Wiederverwendung an geeigneten Orten verfügbar sind.
 
--   Entwickeln Sie Workflows, die die Vorteile von Open Scholarship-Praktiken
-    nutzen, um ihre höhere Effektivität im Vergleich zu herkömmlichen,
-    geschlosseneren Workflows zu demonstrieren.
+-   Entwickle Workflows, die auf die Vorteile von Open Scholarship-Praktiken setzen, um die vergleichsweise höhere Effizienz im Vergleich zu herkömmlichen Workflows in proprietären Systemen zu veranschaulichen.
 
--   Weitere Innovationen in neuen Forschungsprozessen und Arbeitsabläufen, wenn
-    neue Dienstleistungen, Absatzmöglichkeiten und Technologien verfügbar
-    werden.
+-   Fördere weiterhin Innovationen in neuen Forschungsprozessen und Arbeitsabläufen, wenn neue Dienstleistungen, Absatzmöglichkeiten und Technologien verfügbar werden.
 
--   Nutzen Sie semantische Web-Technologien, um bereits existierende und neu
-    entwickelte Forschungsergebnisse zu verbreiten; dies kann Tagging (siehe
-    z.B. Ansätze wie [OATP](https://tagteam.harvard.edu/hubs/oatp/items) und das
-    wissenschaftliche Artikel-Netzwerk *Offenheit und Bildung* von [DeVries,
-    Rolfe, Jordan und Weller, 2017)](http://www.katyjordan.com/go_gn/network/)
-    oder die Kommentierung bestehender Inhalte beinhalten.
+-   Nutze semantische Web-Technologien, um bereits existierende und neu entwickelte Forschungsergebnisse zu verbreiten; dies kann bspw. Tagging (siehe z.B. Ansätze wie [OATP](https://tagteam.harvard.edu/hubs/oatp/items), Netzwerk-Visualisierungen wie das Publikations-Netzwerk zum Themenbereich *Offenheit und Bildung* von [DeVries, Rolfe, Jordan und Weller, 2017)](http://www.katyjordan.com/go_gn/network/), oder die Kommentierung/Annotation bestehender Inhalte bspw. mit [Hypothes.is](https://hypothes.is) beinhalten.
 
--   Weiterentwicklung der Aspekte der Kurzfriststrategie (Abschnitt 2.1).
+-   Entwickle die in der Kurzfriststrategie (Abschnitt 2.1) genannten Aspekte weiter.
 
 **Gruppenebene**
 
--   Schaffung eines umfassenden Satzes von Mechanismen, die eine vollständige
-    Öffnung der Forschungsprozesse für die Öffentlichkeit ermöglichen (kein
-    Huckepack, keine "menschlichen Verarbeitungseinheiten" mehr usw.).
+-   Wirke an der Schaffung eines umfassenden Satzes von Mechanismen mit, die eine vollständige Öffnung der Forschungsprozesse für die Öffentlichkeit ermöglichen (keine "menschlichen Verarbeitungseinheiten" mehr usw.).
 
--   Entwicklung offener Stipendien-Workflows für alle Gruppenmitglieder, um die
-    Vorteile einer immer besser entwickelten offenen wissenschaftlichen
-    Infrastruktur und Tools zu nutzen.
+-   Entwickle Open Scholarship-Workflows für alle Gruppenmitglieder, die auf die Vorteile einer sich stetig weiterentwickelten Open Science-Infrastruktur und darin enthaltene Tools bauen.
 
-    -   Stellen Sie sicher, dass die Gruppenmitglieder in einer Vielzahl von
-        relevanten Fertigkeiten geschult werden, darunter öffentliches
-        Engagement, Politikentwicklung, Datenanalyse, Webentwicklung,
-        Bürgerwissenschaft und wissenschaftliche Kommunikation.
+    -   Stelle sicher, dass alle Gruppenmitglieder in einer Vielzahl von relevanten Fähigkeiten und Fertigkeiten geschult werden; dazu kann öffentliches Engagement und die Entwicklung von Policies und Richtlinien genauso beinhalten wie die Durchführung von Datenanalysen, Webentwicklung oder die Förderung von Citizen Science und Wissenschaftskommunikation.
 
--   Präsentieren Sie Entwicklungen und Erfolgsgeschichten aus der Praxis der
-    Open Scholarshipien.
+-   Ermögliche Einblicke sowohl in lokale als auch andere Entwicklungen und Erfolgsgeschichten aus der Praxis des Open Scholarship.
 
--   Fortsetzung des Aufbaus und der Stärkung der lokalen
-    Open Scholarship-Communities, einschließlich neuerer Forscher und Studenten.
+-   Setze den Aufbau und die Stärkung der lokalen Open Scholarship-Communities gewissenhaft fort und binde Nachwuchswissenschaftlerinnen und -wissenschaftler sowie Studierende mit ein.
 
--   Weiterentwicklung der Aspekte der Kurzfriststrategie (Abschnitt 2.1).
+-   Entwickle die in der Kurzfriststrategie (Abschnitt 2.1) genannten Aspekte weiter.
 
 **Institutsebene**
 
--   Implementierung der Opt-Out-Automatisierung der Manuskriptbearbeitung /
-    Ein-Klick-Übermittlung an ein lokales oder entferntes offenes Repository
-    unter standardmäßigen offenen Lizenzen.
+-   Implementiere eine Automatisierung von Opt-Out sowie der One-Click-Übermittlung zu lokalen oder anderen Repositorien-Ansatzes in Manuskriptbearbeitungsprozessen und One-Click-Übermittlung an ein lokales oder entferntes offenes Repository
+    .
 
     -   Implementierung einer Opt-Out-Automatisierung der Datenablage unter
         standardmäßigen offenen Lizenzen.

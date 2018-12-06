@@ -133,7 +133,7 @@ We also note that this strategy can only be based on information which we as a c
 * Locate Open Scholarship hotspots (i.e., venues or groups for regular exchange and discussion about community building) and find a way to link them together to help community cohesion and expansion.
 
   * If a local Open Scholarship hotspot does not yet exist, establish it (e.g., using the [Meetup](https://www.meetup.com/) platform).
-  
+
   * Use these national/international/regional communities to support lower-level learning and knowledge sharing of Open Scholarship practices, especially in varying cultural settings.
 
   * Start discussions towards an implicit or explicit (shared) open science pledge or code of conduct for your department, lab, or research group. This can be based on existing ones, such as the [Contributor Covenant](https://www.contributor-covenant.org/).
@@ -202,7 +202,7 @@ We also note that this strategy can only be based on information which we as a c
 
 * Promote and compensate time and effort spent on training and advocacy for the various aspects of Open Scholarship, including Open Source, Open Access, and Open Education.
 
-* Enable and foster local support structures such as openlabs and open publication and research learning, guidance and advice offers. 
+* Enable and foster local support structures such as openlabs and open publication and research learning, guidance and advice offers.
 
 * Engage with research communities to develop and advertise quantifiable incentives for sharing preprints, open data, reproducible analyses, and OA in hiring, promotion, and tenure decisions. Define new ways of describing these wider contributions to scientific communities.
 
@@ -245,10 +245,8 @@ We also note that this strategy can only be based on information which we as a c
 * Encourage research funders to develop calls to support evidence- and theory-based interventions to promote Open Scholarship.
 
     * Fund determinant studies that use behavior change theory to map the determinants of engaging in different Open Scholarship practices (e.g., why do some researchers routinely publish preprints while others do not? Are the arguments produced by researchers opposed to data sharing indeed the reasons why those who do not share data, do not?)
-    
-    * Fund studies that use stakeholder theory to explore ways to achieve more Open Scholarship policies at research and education institutions.
 
-* A reduction of article-processing charges (APCs) in hybrid titles to match the market average for OA-only journals.
+    * Fund studies that use stakeholder theory to explore ways to achieve more Open Scholarship policies at research and education institutions.
 
 * A reduction of article-processing charges (APCs) and book-processing charges (BPCs) in hybrid titles to match the market average for OA-only journals and presses.
 
@@ -879,7 +877,7 @@ These policies span countries, scientific disciplines, and components of the Ope
   * For France, the focus here was on benefits to research, education, the economy and innovation, and society. In the Netherlands, the focus appears to be more on opening up research to collaborate on social and technological issues. In Estonia, [Open Science](http://www.etag.ee/wp-content/uploads/2017/03/Open-Science-in-Estonia-Principles-and-Recommendations-final.pdf) appears to be more based on public access rights, improving the quality of research and collaboration, and increased social and economic impact.
 
   * EU Horizon 2020 is one of the most notable government initiatives involving Open Scholarship policies. For example, the Responsible Research and Innovation (RRI) component of the Work Programme "Science with and for Society" makes open education, research, and access explicit targets of EU policy.
-  
+
   * The FASTR Act, Open Government Data Act, [Federal Source Code Policy](https://sourcecode.cio.gov/); Affordable College Textbook Act; U.S. National Cancer Moonshot Initiative; Dept of Education Open Licensing Rule; Executive Directive on Public Access; California Taxpayer Access to Publicly Funded Research Act; and Illinois Open Access to Articles Act are all examples of policy changes in the USA that fall under the umbrella of Open Scholarship'.
 
 From these examples, it is clear that there is a general lack of synthesized and consistent strategy on the political motivations for Open Scholarship. Deeper coordination is needed in this field to strategically identify which aspects of Open Scholarship match with each intended political outcome.
@@ -953,7 +951,7 @@ From these examples, it is clear that there is a general lack of synthesized and
   * Seeing how diverse initiatives working at different speeds in different communities can still reinforce each other in working towards the same broad goals.
 
   * Researchers do not necessarily need to be open activists. However, they should be aware of the functions of the wider scholarly communication system, and the diverse range of processes and norms that are involved in this.
-  
+
 *  **Not being open to the limitations of openness**
 
   * Enthusiasm for openness carries the danger of not being receptive to critique or not acknowledging that there are situations where the standard open practices can have dangers. This may relate to privacy issues, but also to data that being open could be captured by governments for surveillance or by companies for corporate interests (think data on rare or indigenous plants/animals, or data showing how local groups or environmental groups work). It also relates to being open to critique regarding the dangers of platform-based economies and unequal relation in research co-operations.
@@ -1008,7 +1006,7 @@ From these examples, it is clear that there is a general lack of synthesized and
   * Continuing perceptions of lack of prestige for many OA journals; and
 
   * A lack of appropriate offsetting deals around OA deals and hybrid journals.
-  
+
   * A general lack of high profile role models for practices in all research disciplines, strengthening cultural inertia through a lack of awareness.
 
 
