@@ -87,7 +87,7 @@ We also note that this strategy can only be based on information which we as a c
 
 * Adopt the use of open source and free software for the conduct of research and analysis so that the computational processing can be audited by the community, and so that the tools used are available to everyone to increase productivity and collaboration. For the distinction between open, free, gratis and libre, see. e.g. [OpenSource.com](https://opensource.com/article/17/11/open-source-or-free-software).
 
-* Commit to a variety of personal Open Scholarship practices, such as sharing research data and materials in free, openly-licensed formats so that methods and results can be freely examined and built upon by the wider community.
+* Commit to a variety of personal Open Scholarship practices, such as sharing research data as well as research and educational materials in free, openly-licensed formats so that methods and results for research and education can be freely examined and built upon by the wider community.
 
 * Commit to sharing preprints for the open and rapid dissemination of your work.
 
@@ -101,9 +101,9 @@ We also note that this strategy can only be based on information which we as a c
 
    * Reacting positively to requests for open peer review.
 
-* Establish support structures (e.g., openLabs, walk-in labs and support structures, makerspaces in the wider sense) that help to guide other individuals along the path towards Open Scholarship. This can include questions of how to publish, teach, learn and do research in the open, and what tools are available to use for these (see Figures 1 and 2, and *Group Level* section).
+* Establish support structures (e.g., open workshops, openLabs, walk-in labs and support structures, makerspaces in the wider sense) that help to guide other individuals along the path towards Open Scholarship. This can include questions of how to publish, teach, learn and do research in the open, and what tools are available to use for these (see Figures 1 and 2, and *Group Level* section).
 
-![Figure_1: Rainbow of open science practices](images/image_0.png)\
+![Figure_1: Rainbow of open science practices](images/image_0.png)
 
 [Kramer, Bianca, & Bosman, Jeroen (2018, January). Rainbow of open science practices. Zenodo](https://doi.org/10.5281/zenodo.1147024). (CCBY)
 
@@ -113,7 +113,7 @@ We also note that this strategy can only be based on information which we as a c
 
 * Form better relationships with other stakeholders involved in Open Scholarship developments (e.g., librarians, policymakers, publishers and other service providers, Open Access advocates, and those actively teaching, plus ICT and other support positions for science & education).
 
-* Work for, and collaborate with, researchers who practice various aspects of Open Scholarship, ranging from developing Open Source software and tools to posting preprints and citizen science, and sharing experiences made with approaches to open education.
+* Work with, and collaborate with, researchers who practice various aspects of Open Scholarship, ranging from developing Open Source software and tools to posting preprints and citizen science, and sharing experiences made with approaches to open education.
 
 * Encourage the wider adoption of an open mindset that emphasises the importance of the research process over the outcome.
 
@@ -136,7 +136,7 @@ We also note that this strategy can only be based on information which we as a c
 
   * Use these national/international/regional communities to support lower-level learning and knowledge sharing of Open Scholarship practices, especially in varying cultural settings.
 
-  * Start discussions towards an implicit or explicit (shared) open science pledge or code of conduct for your department, lab, or research group. This can be based on existing ones, such as the [Contributor Covenant](https://www.contributor-covenant.org/).
+  * Start discussions towards an implicit or explicit (shared) open science pledge or code of conduct for your department, lab, or research group. This can be based on existing ones, such as the [Contributor Covenant](https://www.contributor-covenant.org/de/version/1/4/code-of-conduct).
 
 * Establish rights experts who might help with questions regarding copyright issues and the effective use of Creative Commons licenses.
 
@@ -175,7 +175,7 @@ We also note that this strategy can only be based on information which we as a c
 
 * Purchase back any legacy documents and incorporate them into the scholarly body of work. Also improve the open sharing and archiving of legacy articles on which copyright has expired.
 
-* Help to inform researchers more about the [Author Alliance termination of transfer](https://www.authorsalliance.org/resources/termination-of-transfer/) tool to help them retain their rights as authors.
+* Help to inform researchers more about the [Author Alliance termination of transfer](https://www.authorsalliance.org/resources/termination-of-transfer/) tool to help them retain their rights as authors. In that context, consider making use of the [Termination of Transfer Tool](https://rightsback.org/).
 
 * Research funders can define the limits of what is an acceptable standard of publication. They therefore have the power to mandate publication in journals with a cap on APCs and BPCs, or in OA-only venues (with specific licenses), or in those with short or zero-length embargoes on self-archiving (e.g., Emerald, The Royal Society).
 
@@ -220,6 +220,8 @@ We also note that this strategy can only be based on information which we as a c
 
      * Consortia like the German [Projekt DEAL](https://www.projekt-deal.de/) could provide examples of how to take the first step towards this at a national level. Gaining support from SPARC for any such developments would also be useful.
 
+     * Consider the ramifications of [Plan S](https://www.coalition-s.org/about/), which aims for full and immediate Open Access to publications from publicly funded research, for your national and local context, and see what can be done to [implement Plan S](https://www.coalition-s.org/wp-content/uploads/271118_cOAlitionS_Guidance.pdf) for your context. Further reading: [Kramer & Bosman, 2018](https://101innovations.wordpress.com/2018/11/30/nine-routes-towards-plan-s-compliance/)
+
 * Build on faculty and funder support for Open Access and related quality assurance initiatives (e.g., peer review) that are decoupled from journals. Agree on, and develop, a governance structure for a world-wide scholarly infrastructure (e.g., [W3C](https://www.w3.org/)).
 
 * Create scholarly standards to implement an alternative non-profit and community-owned scholarly publishing platform/environment (using the funds freed from subscriptions, building on existing repositories/environments and infrastructure).
@@ -240,7 +242,7 @@ We also note that this strategy can only be based on information which we as a c
 
 * Encourage research funders to diversify the portfolio of what is considered as a research output for assessment purposes.
 
-    * Wider adoption of preprint and Open Access policies similar to those at the NIH (USA) and Wellcome Trust (UK).
+    * Wider adoption of preprint and Open Access policies similar to those at the [NIH (USA)](https://publicaccess.nih.gov/policy.htm) and [Wellcome Trust (UK)](https://wellcome.ac.uk/funding/guidance/open-access-policy).
 
 * Encourage research funders to develop calls to support evidence- and theory-based interventions to promote Open Scholarship.
 
@@ -270,9 +272,9 @@ We also note that this strategy can only be based on information which we as a c
 
 * Create showcases/highlights/good practices of Open Scholarship practices on national websites or portals, together with relevant information and resources.
 
-* Encourage the formalisation of Open Science Training Courses, such as that offered by [FOSTER](https://www.fosteropenscience.eu/toolkit), in graduate school training programs (and further).
+* Encourage the formalisation of Open Science Training Courses, such as that offered by [FOSTER](https://www.fosteropenscience.eu/toolkit) or as part of [OpenScienceMOOC](https://opensciencemooc.eu/), in graduate school training programs (and further).
 
-* Encourage and adopt the principles for fairer research assessment outlined in DORA. Make sure that those in charge of research assessment, including hiring, tenure, and grant-awarding committees adhere to these.
+* Encourage and adopt the principles for fairer research assessment outlined in [DORA](https://sfdora.org/read/). Make sure that those in charge of research assessment, including hiring, tenure, and grant-awarding committees adhere to these.
 
 
 ## 2.2 Mid-term strategy (2-5 years) <a name="Middle"></a>
@@ -291,7 +293,7 @@ The expectation at this point is that specific parts of the short-term strategy 
 
 * Continue to innovate in new research processes and workflows as new services, outlets, and technologies become available.
 
-* Make use of semantic web technologies in order to spread already-existing and newly-developing research output; this may include tagging (see e.g. approaches such as [OATP](https://tagteam.harvard.edu/hubs/oatp/items) and the *Openness and Education* scholarly article network by [DeVries, Rolfe, Jordan and Weller, 2017](http://www.katyjordan.com/go_gn/network/)), or annotating existing content.
+* Make use of semantic web technologies in order to spread already-existing and newly-developing research output; this may include tagging (see e.g. approaches such as [OATP](https://tagteam.harvard.edu/hubs/oatp/items) and the *Openness and Education* scholarly article network by [DeVries, Rolfe, Jordan and Weller, 2017](http://www.katyjordan.com/go_gn/network/)), or annotating existing content e.g. with [Hypothes.is](https://hypothes.is).
 
 * Continue to develop the aspects of the Short-term strategy (Section 2.1).
 
