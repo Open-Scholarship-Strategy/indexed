@@ -250,6 +250,8 @@ We also note that this strategy can only be based on information which we as a c
 
     * Fund studies that use stakeholder theory to explore ways to achieve more Open Scholarship policies at research and education institutions.
 
+* A reduction of article-processing charges (APCs) in hybrid titles to match the market average for OA-only journals.
+
 * A reduction of article-processing charges (APCs) and book-processing charges (BPCs) in hybrid titles to match the market average for OA-only journals and presses.
 
     * The scholarly publishing market might require a detailed government-level investigation in order to stabilise this.
@@ -321,6 +323,10 @@ The expectation at this point is that specific parts of the short-term strategy 
 
     * Implement opt-out automatization of code accessibility and version control under default open licenses.
 
+    * Implement single-click submission in the repository (cf. [HAL](https://www.ccsd.cnrs.fr/en/2018/06/new-interface-for-submitting-in-hal-a-first-assessment/)) or adopt an existing tool (cf. [Dissemin](https://dissem.in/)).
+
+    * Backfill the open repositories with full text for all works which are in the public domain, permissively licensed or otherwise permitted by copyright exceptions and other policies, and help authors do the same for the remaining works.
+
 * Convert saved resources currently spent on closed-journal subscriptions into funds supporting sustainable Open Access business models, scholarly infrastructure, and other relevant support services.
 
 * Develop and teach courses on the various practices of Open Scholarship (e.g., as required seminars/workshops for graduate school programs).
@@ -340,8 +346,6 @@ The expectation at this point is that specific parts of the short-term strategy 
 
 * Start implementing semantic technology across all scholarship outputs, including for the purposes of enabling unrestricted text and data mining.
 
-
-* Formulation of recommended career metrics that incentivize Open Data publication, Open Materials, Open Source software release, and research support.
 
 * Formulate recommended career metrics that incentivize Open Data publication, Open Source software release, and open research support.
 
@@ -1044,7 +1048,7 @@ From these examples, it is clear that there is a general lack of synthesized and
 
   * This would ultimately lead to new inefficiencies, vendor lock-in, and the same price bloat we see associated with 'big deal' licensing contracts.
 
-  * Regarding preprints, there is an increasing colonisation of the landscape by commercial interests (e.g., Elsevier acquisition of SSRN). This leads to wider commercial control, irrespective of the final venue of publication.
+  * Regarding preprints, there is an increasing colonisation of the landscape by commercial interests (e.g., Elsevier acquisition of SSRN and scientific publication workflow solutions company [Aries Systems](https://www.elsevier.com/about/press-releases/corporate/elsevier-to-acquire-aries-systems-a-best-in-class-publication-workflow-solutions-provider)). This leads to wider commercial control, irrespective of the final venue of publication.
 
 * **Resistance to change**:
 

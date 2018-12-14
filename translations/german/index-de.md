@@ -298,82 +298,64 @@ Zu gegenwärtigen Zeitpunkt wird davon ausgegangen, dass Teile der kurzfristigen
 -   Entwickle die in der kurzfristigen Strategie (Abschnitt 2.1) genannten Aspekte weiter.
 
 
+
+
 **Gruppenebene**
 
--   Wirke an der Schaffung einer umfassenden Mechanismen-Sammlung mit, die eine vollständige Öffnung der Forschungsprozesse für die Öffentlichkeit ermöglichen (keine "menschlichen Verarbeitungseinheiten" mehr usw.).
+-   Wirke an der Schaffung einer umfassenden Mechanismen-Sammlung mit, die eine vollständige Öffnung der Forschungsprozesse für die Öffentlichkeit ermöglichen (bspw. kein Mitziehen von inhaltlich unbeteiligten Autor*innen, keine "menschlichen Verarbeitungseinheiten" mehr usw.).
 
--   Binde alle Gruppenmitglieder in die Entwicklung von Open Scholarship-Workflows ein, die die Vorteile einer sich stetig weiterentwickelten Open Science-Infrastruktur und darin enthaltene Tools nutzten.
+-   Binde alle Gruppenmitglieder in die Entwicklung von Open Scholarship-Workflows ein, die die Vorteile einer sich stetig weiterentwickelten Wissenschafts-Infrastruktur und darin enthaltener Tools nutzten.
 
-    -   Stelle sicher, dass alle Gruppenmitglieder in einer Vielzahl von relevanten Fähigkeiten und Fertigkeiten geschult werden; dazu kann öffentliches Engagement und die Entwicklung von Policies und Richtlinien genauso beinhalten wie die Durchführung von Datenanalysen, Webentwicklung oder die Förderung von Citizen Science und Wissenschaftskommunikation.
+    -   Stelle sicher, dass alle Gruppenmitglieder in einer Vielzahl von relevanten Fähigkeiten und Fertigkeiten geschult werden; dazu kann öffentliches Engagement und die Entwicklung von Policies und Richtlinien genauso zählen wie die Durchführung von Datenanalysen, Webentwicklung oder die Förderung von Citizen Science und Wissenschaftskommunikation.
 
--   Ermögliche Einblicke sowohl in lokale als auch andere Entwicklungen und Erfolgsgeschichten aus der Praxis des Open Scholarship.
+-   Ermögliche Einblicke sowohl in lokale als auch darüber hinausgehende Entwicklungen und Erfolgsgeschichten aus der gelebten Praxis des Open Scholarship.
 
 -   Setze den Aufbau und die Stärkung der lokalen Open Scholarship-Communities gewissenhaft fort und binde Nachwuchswissenschaftlerinnen und -wissenschaftler sowie Studierende mit ein.
 
 -   Entwickle die in der Kurzfriststrategie (Abschnitt 2.1) genannten Aspekte weiter.
 
-**Institutsebene**
 
--   Implementiere eine Automatisierung von Opt-Out sowie der One-Click-Übermittlung zu lokalen oder anderen Repositorien-Ansatzes in Manuskriptbearbeitungsprozessen und One-Click-Übermittlung an ein lokales oder entferntes offenes Repository
-    .
+**Instituts- / Arbeitsbereichs-Ebene**
 
-    -   Implementierung einer Opt-Out-Automatisierung der Datenablage unter
-        standardmäßigen offenen Lizenzen.
+-   Implementiere Opt-Out-Automatisierung und One-Click-Übermittlung zu lokalen oder anderen Repositorien als Teil des Journal-Publikationsprozesses.
 
-    -   Implementierung einer Opt-Out-Automatisierung der Code-Zugänglichkeit
-        und Versionskontrolle unter standardmäßig offenen Lizenzen.
+    -   Implementiere eine Opt-Out-Automatisierung der Ablage von Forschungsdaten unter standardmäßig offenen Lizenzen (bspw. CC0, CC BY).
 
--   Konvertieren Sie eingesparte Ressourcen, die derzeit für Abonnements von
-    geschlossenen Zeitschriften ausgegeben werden, in Fonds zur Unterstützung
-    nachhaltiger Open Access-Geschäftsmodelle, wissenschaftlicher Infrastruktur
-    und anderer relevanter Support-Dienste.
+    -   Implementiere eine Opt-Out-Automatisierung von Code-Accessibility-Features sowie einer Versionskontrolle unter standardmäßig offenen Lizenzen.
 
--   Entwicklung und Vermittlung von Kursen zu den verschiedenen Praktiken des
-    Open Scholarship (z.B. bei Bedarf Seminare/Workshops für
-    Graduiertenkollegs).
+    - Implemente den Mechanismus einer One-Click-Einreichung in vorhandenen Repositories (siehe [HAL](https://www.ccsd.cnrs.fr/en/2018/06/new-interface-for-submitting-in-hal-a-first-assessment/)) oder adaptiere bestehende Tools, umd diesen Zweck zu erreichen (bspw. [Dissemin](https://dissem.in/)).
 
--   Fortsetzung der Zusammenarbeit mit anderen Forschungsinstituten, um
-    Ressourcen, Infrastruktur und Dienstleistungen nachhaltiger zu nutzen.
+    - Befülle offene Repositorien retroaktiv mit Volltexten aller Werke, die den Status der Gemeinfreiheit erreicht haben, unter entsprechenden offenen Lizenzen veröffentlicht wurden oder eine freie Verfügbarmachung anderweitig durch Copyright-Ausnahmen und andere Richtlinien ermöglicht wird. Unterstütze zudem Autorinnen und Autoren, dasselbe für weitere und zukünftige Werke zu tun.
 
--   Zusammenarbeit mit Forschungsförderern, um explizite und erzwungene Mandate
-    in Bezug auf Open Scholarship zu erhalten und sicherzustellen, dass die
-    akademischen Freiheiten nicht beeinträchtigt werden.
+-   Nutze eingesparte Ressourcen, die derzeit für Abonnements von Zeitschriftenabonnements ausgegeben werden, zur Ausfinanzierung von Fonds zur Unterstützung nachhaltiger Open Access-Geschäftsmodelle, wissenschaftlicher Infrastruktur und anderer relevanter Support-Dienste.
 
--   Setzen Sie sich weiterhin nur mit Verlagen und anderen Anbietern in
-    Verbindung, die nach und nach über offene Dienste, Tools und Richtlinien
-    verfügen.
+-   Entwickle und vermittle Kurse zu den verschiedenen Praktiken des Open Scholarship bzw. biete diese selbst an (z.B. als grundständiges Angebot an Seminaren/Workshops von Graduiertenkollegs).
 
--   Verpflichtung zum offenen Austausch von Daten und Metriken auf
-    Institutsebene über Forschungsaktivitäten, -aufzeichnungen und -verhalten.
+-   Setze die Zusammenarbeit mit anderen Forschungsinstituten fort, um Ressourcen, Infrastruktur und Dienstleistungen auf nachhaltigere Art und Weise zu nutzen.
 
--   Sicherstellen, dass die Forschungsbewertungspolitik auf allen Ebenen
-    evidenzbasiert, rigoros und eingehalten wird.
+-   Arbeite mit Forschungsförderern zusammen, um explizite, verpflichtende Mandate in Bezug auf Open Scholarship durchzusetzen und stelle dabei sicher, dass die akademische Freiheit dabei nicht beeinträchtigt wird.
+
+-   Setze weiterhin exklusiv nur auf eine Zusammenarbeit mit Verlagen und anderen Anbietern, die ihr Angebot über progressive, offene Dienste, Tools und Richtlinien zur Verfügung stellen.
+
+-   Verpflichte dich gemeinsam mit Kolleginnen und Kollegen innerhalb deines Institutes oder Arbeitsbereichs zum offenen Austausch von Daten und Metriken über Forschungsaktivitäten, -aufzeichnungen und -verhalten auf Ebene des Instituts oder Arbeitsbereichs.
+
+-   Stelle weiterhin sicher, dass Policies zur Bewertung von Forschungsergebnissen/output auf allen Ebenen sowohl evidenzbasiert kontrolliert als auch von allen Forschenden eingehalten werden.
+
 
 **Nationale (oder höhere) Ebene**
 
--   Beginnen Sie mit der Implementierung semantischer Technologien über alle
-    Stipendienausgaben hinweg, auch mit dem Ziel, uneingeschränktes Text- und
-    Data-Mining zu ermöglichen.
+-   Beginne mit der Implementierung semantischer Technologien über alle Bereiche des Forschungsdaten und -outputprozesses, insb. auch mit dem Ziel, offenes Text- und Data-Mining zu ermöglichen.
 
--   Formulieren Sie empfohlene Karrieremetriken, die die Veröffentlichung von
-    Open Data, die Veröffentlichung von Open Source Software und die
-    Unterstützung offener Forschung fördern.
 
--   Formulieren Sie empfohlene Karrieremetriken, die die Bemühungen der
-    Kandidaten um offenes Lernen und Lehren / offene Bildung schätzen.
+-   Entwickle wiss. Laufbahnkennzahlen, die der Veröffentlichung von Open Data und anderen offenen Materialien (auch OER) sowie der Veröffentlichung von Open Source-Software und die Unterstützung offener Forschung Rechnung tragen.
 
--   Sicherstellen, dass eine gerechtere und rigorosere Politik der
-    Forschungsbewertung eingeführt und gut unterstützt und überwacht wird.
+-   Entwickle wiss. Laufbahnkennzahlen, die Aktivitäten der Kandidatinnen und Kandidaten im Bereich des offenen Lernens und Lehrens bzw. Open Education mit einbeziehen.
 
--   Für alle verbleibenden hybriden Zeitschriften, die einen höheren
-    Open Access-Anteil als Abonnementartikel erreichen, empfiehlt es sich, sie
-    mit einem APC, der die laufenden Kosten der Zeitschrift widerspiegelt, zu
-    reinem Open Access zu machen.
+    -   Stelle sicher, dass gerechte und stringente Policies zur Bewertung von Forschung implementiert und überprüft werden und sorge für eine breite Unterstützung dieser durch das Kollegium.
 
--   Für verbleibende hybride Zeitschriften, die dieses Niveau nicht erreicht
-    haben, lehnen Sie es ab, die Veröffentlichung von Open Access-Artikeln an
-    diesen Orten zu unterstützen, und lehnen Sie auch die Erneuerung von
-    Abonnements ab.
+-   Für alle verbleibenden Hybrid-Journals, die einen höheren Open Access-Anteil über Artikel-Abonnements erreichen: wirke darauf hin, dass diese Journals über die Implementierung von Article Processing Charges (APCs), welche die tatsächlichen laufenden Kosten dieses Journals widerspiegeln, zu reinen Open Access-Journals gemacht werden.
+
+  -   Für verbleibende Hybrid-Journals, die dieses Niveau nicht erreicht haben: lehne eine Veröffentlichung von Open Access-Artikeln in diesen Unternehmungen ab, und trage dafür Sorge, dass Abonnements dieser Journals nicht erneuert werden. (siehe dazu bspw. [HRK 2018](https://www.hrk.de/presse/pressemitteilungen/pressemitteilung/meldung/springer-nature-und-deal-deutliche-verhandlungsfortschritte-erzielt-4471/))
 
 -   Erhöhung der Mittel für die Öffentlichkeitsarbeit, insbesondere für
     unterrepräsentierte Bevölkerungsgruppen.
