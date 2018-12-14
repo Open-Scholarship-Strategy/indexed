@@ -355,72 +355,51 @@ Zu gegenwärtigen Zeitpunkt wird davon ausgegangen, dass Teile der kurzfristigen
 
 -   Für alle verbleibenden Hybrid-Journals, die einen höheren Open Access-Anteil über Artikel-Abonnements erreichen: wirke darauf hin, dass diese Journals über die Implementierung von Article Processing Charges (APCs), welche die tatsächlichen laufenden Kosten dieses Journals widerspiegeln, zu reinen Open Access-Journals gemacht werden.
 
-  -   Für verbleibende Hybrid-Journals, die dieses Niveau nicht erreicht haben: lehne eine Veröffentlichung von Open Access-Artikeln in diesen Unternehmungen ab, und trage dafür Sorge, dass Abonnements dieser Journals nicht erneuert werden. (siehe dazu bspw. [HRK 2018](https://www.hrk.de/presse/pressemitteilungen/pressemitteilung/meldung/springer-nature-und-deal-deutliche-verhandlungsfortschritte-erzielt-4471/))
+    -   Für verbleibende Hybrid-Journals, die dieses Niveau nicht erreicht haben: lehne eine Veröffentlichung von Open Access-Artikeln in diesen Unternehmungen ab, und trage dafür Sorge, dass Abonnements dieser Journals nicht erneuert werden. (siehe dazu bspw. [HRK 2018](https://www.hrk.de/presse/pressemitteilungen/pressemitteilung/meldung/springer-nature-und-deal-deutliche-verhandlungsfortschritte-erzielt-4471/))
 
--   Erhöhung der Mittel für die Öffentlichkeitsarbeit, insbesondere für
-    unterrepräsentierte Bevölkerungsgruppen.
+-   Erhöhe die Mittelbereitstellung zur Aktivierung von einer Vielzahl von Zielgruppen, insbesondere mit Blick auf unterrepräsentierte Bevölkerungsgruppen.
 
--   Einbindung von Bibliothekskonsortien (z.B. LIBER, EIFL) in nationale
-    Verhandlungskonsortien und alle relevanten Hochschulgewerkschaften, um
-    Forschungskoalitionen zu stärken. Ergänzen Sie diese durch wissenschaftliche
-    Kooperationen (z.B. eLife, NISO), um Beziehungen und Kooperationen im
-    Bereich der wissenschaftlichen Kommunikation weiter auszubauen.
+- Stelle Fördermittel für weitergehende Forschung im Bereich Open Scholarship bereit
 
--   Beginnen Sie mit der Implementierung nationaler oder internationaler
-    wissenschaftlicher Infrastrukturen, wobei sich alle Beteiligten auf offene
-    Standards, Roadmaps und Governance-Strukturen einigen. Stellen Sie sicher,
-    dass dies durch nachhaltige Finanzierungsströme unterstützt wird, die nach
-    Beendigung oder Auslaufen teurer Verlagsverträge von aktualisierten
-    Bibliotheksbudgets abgezweigt werden.
+- Stelle Fördermittel für die Entwicklung von Interventionsansätzen bereit, welche Einzelpersonen und Institutionen motivieren können, um  Open Scholarship-Praktiken und -Policies zu adaptieren.
 
--   Veröffentlichen Sie die Ergebnisse jeglicher Forschung oder Untersuchungen
-    zum Status der nationalen Wissenschaftsverlagsmärkte.
+- Binde Bibliothekskonsortien (z.B. LIBER, EIFL) eng in nationale Verhandlungskonsortien und alle relevanten Hochschulgewerkschaften mit ein, um Wissenschaftskoalitionen zu stärken. Erweitere diese durch die Einbindung von wissenschaftlichen Kollaborationsplattformen (z.B. eLife, NISO), um Netzwerke und Zusammenarbeit im Feld der Wissenschaftskommunikation weiter auszubauen.
 
-2.3 Langfristige Strategie (5-10 Jahre)
-----------------------------------------
+- Lege den Grundstein für eine Implementierung nationaler oder internationaler Forschungs-Infrastrukturen, innerhalb derer sich alle beteiligten Stakeholder auf die Einhaltung offener Standards, entsprechende Roadmaps und Governance-Strukturen einigen. Stelle sicher, dass dies durch nachhaltige Finanzierung unterstützt wird, welche aus in Bibliotheksbudgets durch die Beendigung oder das Auslaufen teurer Verlagsverträge freiwerdenden Finanztöpfen refinanziert werden können.
 
-Zu diesem Zeitpunkt wird erwartet, dass bestimmte Teile der kurz- und
-mittelfristigen Strategien auf der Grundlage der Bedürfnisse der jeweiligen
-Gruppen initiiert wurden und sich entweder in der Umsetzung oder in der
-Entwicklung befinden. Häufig handelt es sich dabei um laufende Prozesse, die
-sich daher mit der langfristigen Strategie überschneiden können und es nicht
-wert sind, hier wiederholt zu werden. Alle in der [Kurzfriststrategie](#Short)
-und der [Mittelfriststrategie](#Middle) genannten Punkte sind jedoch je nach
-Entwicklungstempo noch relevant.
+-  Stelle alle Ergebnisse offen zur Verfügung, die sich aus Forschung oder Untersuchungen zum Status nationaler Märkte von Wissenschaftsverlagen ergeben.
+
+
+## 2.3 Langfristige Strategie (5-10 Jahre) <a name="Long"></a>
+
+Zu diesem Zeitpunkt wird erwartet, dass bestimmte Teile der kurz- und mittelfristigen Strategien auf der Grundlage der Bedürfnisse der jeweiligen Gruppen initiiert wurden und sich entweder in der laufenden Umsetzung oder in der Entwicklung befinden. Häufig handelt es sich dabei um laufende Prozesse, die sich  mit der langfristigen Strategie überschneiden können daher hier nicht wiederholt werden sollen. Alle in der [Kurzfristigen Strategie](#Short) und der [Mittelfristigen Strategie](#Middle) genannten Punkte sind jedoch je nach Entwicklungstempo weiterhin relevant.
+
 
 **Individuelle Ebene**
 
--   Unterstützung der formellen Ausbildung von Nachwuchswissenschaftlern in der
-    Nutzung und den Best Practices neu entwickelter wissenschaftlicher
-    Infrastruktur-Tools und -Dienste.
+- Unterstütze die grundlegende Ausbildung von Nachwuchswissenschaftlerinnen und -wissenschaftlern im Einsatz anhand entsprechender Best Practice-Beispiele neu entwickelter Tools und Dienste.
 
--   Unterrichten Sie die Studenten über offene Labor-Notebooks,
-    Versionskontrolle, kontinuierliche Analyse und andere Aspekte der
-    Open Scholarship-Prozesse in einführenden Forschungskursen.
+- Unterrichte Studierende im Einatz offener Labor-Notebooks, Versionskontrolle, kontinuierlicher Analyse sowie anderer Aspekte von Open Scholarship-Prozessen in einführenden Kursen zu Forschungsmethoden und Ethik.
 
--   Entwicklung von offenem Schulungs- und Informationsmaterial (OER) für die
-    weitere Entwicklung von Open Scholarships.
+- Entwickle offene Schulungs- und Informationsmaterialien (OER) für die Weiterentwicklung von Open Scholarship (siehe dazu beispielhaft [FOSTER Training](https://www.fosteropenscience.eu/resources) und [Open Science MOOC](https://opensciencemooc.eu/))
 
--   Fortsetzung der Verknüpfung offener Stipendiengemeinschaften zur Förderung
-    eines verstärkten interdisziplinären Engagements und der Zusammenarbeit.
+- Führe die aktive Vernetzungsarbeit zwischen den Open Scholarship-Communities fort, um interdisziplinäres Engagement und Zusammenarbeit zu stärken.
 
--   Weiterentwicklung der kurz- und mittelfristigen Strategien.
+- Entwickle Elemente der kurz- und mittelfristigen Strategien stetig weiter.
+
 
 **Gruppenebene**
 
--   Weiterentwicklung und Erprobung neuer und etablierter
-    Open Scholarship-Workflows, die Elemente neu geschaffener wissenschaftlicher
-    Infrastrukturen integrieren.
+- Setze die Erprobung neuer und Weiterentwicklung schon etablierter Open Scholarship-Workflows fort, um auch Elemente neu entstehender Forschungsinfrastruktur weiter zu integrieren.
 
--   Die Vorteile oder Auswirkungen der Einführung von Open Scholarship-Workflows
-    an andere Gruppen weitergeben und die Ausbildung in diesen Gruppen
-    formalisieren.
+- Kommuniziere die Vorteile und mögliche Auswirkungen der Einführung von Open Scholarship-Workflows an bisher unerschlossene Gruppen, und stelle erste formalisierte Trainingsangebote für diese zur Verfügung.
 
--   Weiterentwicklung der kurz- und mittelfristigen Strategien.
+- Setze die Weiterentwicklung der kurz- und mittelfristigen Strategien fort.
 
-**Institutsebene**
 
--   Einrichtung eines permanenten Fonds für nachhaltigere Projekte,
+**Instituts- und Abteilungs-Ebene**
+
+- Einrichtung eines permanenten Fonds für nachhaltigere Projekte,
     einschließlich Open Source Softwareentwicklung, APCs und BPCs,
     Preprint-Server und andere Kosten im Zusammenhang mit Open Scholarship.
 
