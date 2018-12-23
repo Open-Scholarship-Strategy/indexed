@@ -399,118 +399,44 @@ Zu diesem Zeitpunkt wird erwartet, dass bestimmte Teile der kurz- und mittelfris
 
 **Instituts- und Abteilungs-Ebene**
 
-- Einrichtung eines permanenten Fonds für nachhaltigere Projekte,
-    einschließlich Open Source Softwareentwicklung, APCs und BPCs,
-    Preprint-Server und andere Kosten im Zusammenhang mit Open Scholarship.
+- Richte einen permanenten Fonds für nachhaltigere Projekte, einschließlich Open Source-Softwareentwicklung, APCs und BPCs, Preprint-Server und andere Kosten im Zusammenhang mit Open Scholarship ein.
 
--   Incentiviere und beauftrage alle Forschungsergebnisse, die in
-    Open Access-Zeitschriften oder -Plattformen veröffentlicht werden sollen.
+-   Schaffe Anreize dafür alle Forschungsergebnisse in Open Access-Zeitschriften oder -Plattformen zu veröffentlichen.
 
--   Anreize für Nachwuchswissenschaftler, in ihrem wissenschaftlichen
-    Lebenszyklus (einschließlich Forschung und Lehre) Offenheit zu praktizieren.
+-   Schaffe Anreize für Nachwuchswissenschaftlerinnen und -wissenschaftler, in all ihrem wissenschaftlichen Wirken - einschließlich Forschung und Lehre - Offenheit zu praktizieren.
 
--   Weiterentwicklung der kurz- und mittelfristigen Strategien.
+-   Entwickle die Aspekte der kurz- und mittelfristigen Strategien weiter.
+
 
 **Nationale (oder höhere) Ebene**
 
--   Entwickeln Sie innovative Lösungen und Funktionalitäten, die es heute noch
-    nicht gibt.
+-   Beteilige dich an der Entwicklung von offenen, innovativen Lösungen und Funktionalitäten, die es heute noch nicht gibt.
 
--   Staatlich geförderte Forschung muss in Open Access-Zeitschriften oder
-    anderen Open Plattformen oder Repositorien veröffentlicht werden. Verhängen
-    Sie Strafen für diejenigen, die sich nicht an das Mandat halten.
+-   Setze die Veröffentlichung von öffentlich geförderter Forschung in Open Access-Zeitschriften oder Open Plattformen bzw. Repositorien als unbedingt erforderlichen Grundstatus. Verhänge Strafen für diejenigen, die sich nicht an dieses Mandat halten.
 
--   Eliminieren Sie den "publish or perish"-Druck, indem Sie sich auf
-    vielfältigere Forschungsergebnisse und -prozesse für Evaluations- und
-    Bewertungskriterien konzentrieren.
+-   Eliminiere den durch die Praktiken des "publish or perish" entstehenden Druck, indem auf vielfältigere Forschungsergebnisse und -prozesse für Evaluations- und Bewertungskriterien fokussiert wird.
 
--   Den Forschern helfen, die Kontrolle über die Forschungs- und
-    Evaluierungsprozesse zu übernehmen, die ihrer Meinung nach am meisten zum
-    wissenschaftlichen Fortschritt beitragen werden.
+-   Unterstütze Forscherinnen und Forscher dabei, Kontrolle über diejenigen Forschungs- und Evaluierungsprozesse zu erhalten, die ihrer Meinung nach am meisten zum wissenschaftlichen Fortschritt in der eigenen Disziplin und darüber hinaus beitragen werden.
 
-3. Was ist Open Scholarship?
-=============================
 
-Seit mehr als zwei Jahrzehnten hat sich die Bewegung für Open Scholarship von
-einer Sammlung kleiner, lokalisierter Bemühungen zu einem breiten
-internationalen Netzwerk von Institutionen, Organisationen, Regierungen,
-Praktikern, Anwälten und Geldgebern entwickelt. Während bedeutende Fortschritte
-bei der Erweiterung des Verständnisses und der Praxis von Open Scholarship
-erzielt wurden (z.B. [Peters et al.,
-2012,](https://www.routledge.com/Virtues-of-Openness-Education-Science-and-Scholarship-in-the-Digital/Peters-Roberts/p/book/9781594516863)
-[Friesike et al., 2013;](https://doi.org/10.1007/s10961-014-9375-6) [Munafo et
-al., 2017)](https://doi.org/10.1038/s41562-016-0021), sind Open
-Scholarship-Praktiken und -Werte in den meisten Forschungsdisziplinen noch nicht
-die Norm und die Akzeptanz ist [weltweit
-ungleich](http://knowledgegap.org/index.php/sub-projects/knowledge-and-power-inequality-in-Open science-policies/)
-verteilt.
+# 3. Was ist Open Scholarship? <a name="What_is"></a>
 
-**In diesem Dokument verstehen wir unter dem Begriff "Open Scholarship" den
-Prozess, die Kommunikation und die Wiederverwendung von Forschung, wie sie in
-jeder wissenschaftlichen Forschungsdisziplin praktiziert wird, sowie deren
-Einbeziehung und Rolle in der Gesellschaft.**
+Mit ideologischen Wurzeln in vielen Openness-Bewegungen, die bis in die Zeit der Aufklärung zurückreichen hat sich sich die Bewegung des Open Scholarship in den letzten zwei Jahrzenten - und sowohl ermöglicht als auch befeuert durch die Digitalisierung der Wissenschaftswelt - von einer Sammlung kleinerer und verstreuter Aktivitäten hin zu einem breiten internationalen Netzwerk von Institutionen, Organisationen, Regierungen, praktizierenden Einzelindividuen sowie Verfechterinnen und Verfechtern der Ideen hinter Openness in der Wissenschaft. Während schon bedeutende Fortschritte in der Erweiterung von Theorie und Praxis von Open Scholarship erzielt wurden (siehe z.B. [Peters et al., 2012](https://www.routledge.com/Virtues-of-Openness-Education-Science-and-Scholarship-in-the-Digital/Peters-Roberts/p/book/9781594516863), [Friesike et al., 2013](https://doi.org/10.1007/s10961-014-9375-6), [Munafo et al., 2017)](https://doi.org/10.1038/s41562-016-0021)), so sind Open Scholarship-Praktiken und -Werte in den meisten Forschungsdisziplinen bei Weitem noch nicht die Norm, und die Akzeptanz der durch Offenheit in der Wissenschaft proklamierten Werte ist [weltweit ungleich verteilt](http://knowledgegap.org/index.php/sub-projects/knowledge-and-power-inequality-in-Open science-policies/).
 
-Die Ziele und die umfassendere Vision von Open Scholarship sind in grundlegenden
-Dokumenten wie der [Budapest Open Access
-Initiative,](http://www.budapestopenaccessinitiative.org/) der [Open Archives
-Initiative,](https://www.openarchives.org/) den [Vienna
-Principles,](https://viennaprinciples.org/) den [Scholarly Commons
-Principles](https://www.force11.org/scholarly-commons/principles) und den
-[Panton Principles](https://en.wikipedia.org/wiki/Panton_Principles)
-beschrieben. Im Laufe der Zeit gab es Dutzende von
-[Erklärungen,](http://oad.simmons.edu/oadwiki/Declarations_in_support_of_OA)
-[Chartas](https://docs.google.com/spreadsheets/d/1-aRXFiRg-VL9hpLpxoJqX6-OC-A0R2oCogHfIx52Nug/edit#gid=956616118)
-und Erklärungen über die Prioritäten der verschiedenen Aspekte des offenen
-Stipendiums. Dies hat zur Folge, dass es heute zahlreiche konkurrierende,
-parallele oder sich überschneidende Definitionen dessen gibt, was Open
-Scholarship sowohl in Bezug auf die Forschungsprinzipien als auch auf die Praxis
-umfasst, die darauf abzielen, die Bewegung zur Förderung des wissenschaftlichen
-Wachstums neben der öffentlichen Zugänglichkeit zu kapseln.
+**In diesem Dokument verstehen wir den Begriff "Open Scholarship" als eine inklusiv gedachte und somit weit gefasste Perspektive auf den Prozess von, die Kommunikation in und über, und die Wieder- und Weiterverwendung (Remix) von Wissenschaft und Forschung, sowie die Auseinandersetzung der eigenen Rolle im größeren sozialen Kontext  der Gesellschaft, und eine Inklusion dieser.**
 
-Hierin finden wir es nützlich, Open Scholarship als analog zu einem Grenzobjekt
-zu betrachten, da es flexibel anpassungsfähig ist, in verschiedenen
-Gemeinschaften unterschiedlich interpretiert wird, aber mit genügend
-unveränderlichem Inhalt, um seine Integrität zu erhalten. Neben [Peters und
-Roberts,
-2012'](https://www.routledge.com/Virtues-of-Openness-Education-Science-and-Scholarship-in-the-Digital/Peters-Roberts/p/book/9781594516863)
-Ansatz, finden wir [Fecher und
-Friesike,](https://doi.org/10.1007/978-3-319-00026-8_2) die fünf "Schulen des
-Denkens" des Jahres [2013](https://doi.org/10.1007/978-3-319-00026-8_2),
-besonders nützlich, um diese Strategie, basierend auf den Komponenten, zu
-formulieren: Infrastruktur, Messtechnik, öffentlich, demokratisch und
-pragmatisch. Darüber hinaus schlagen wir nun eine sechste Schule für
-Gemeinschaft und Integration vor, die auf den Entwicklungen in diesem Bereich in
-den letzten fünf Jahren (und mehr) basiert. Das OCSD (Open and Collaborative
-Science in Development) Network hat ein [Open Science
-Manifest](https://ocsdnet.org/manifesto/Open science-manifesto/) für eine
-umfassendere Open Science für soziales und ökologisches Wohlergehen, das auch
-bei der Ausarbeitung dieser Strategie von großem Nutzen ist.
+Sowohl Ziele als auch die grundlegende Vision von Open Scholarship sind in Dokumenten wie der [Budapest Open Access Initiative,](http://www.budapestopenaccessinitiative.org/) der [Open Archives Initiative,](https://www.openarchives.org/) den [Vienna Principles,](https://viennaprinciples.org/) den [Scholarly Commons Principles](https://www.force11.org/scholarly-commons/principles) und den [Panton Principles](https://en.wikipedia.org/wiki/Panton_Principles) beschrieben. Im Laufe der Zeit entwickelten sich so Dutzende von [Erklärungen](http://oad.simmons.edu/oadwiki/Declarations_in_support_of_OA), [Chartas](https://docs.google.com/spreadsheets/d/1-aRXFiRg-VL9hpLpxoJqX6-OC-A0R2oCogHfIx52Nug/edit#gid=956616118) sowie Statements über die Prioritäten und deren Setzung zu verschiedenen Aspekten von Open Scholarship. Dies hat zur Folge, dass es heute zahlreiche konkurrierende, parallele oder sich überschneidende Definitionen dessen gibt, was Open Scholarship sowohl in Bezug auf Forschungsprinzipien als auch auf die Praktiken umfasst - alle mit dem Ziel, eine Bewegung zu beschreiben, die die Förderung des wissenschaftlichen Wachstums unter den Gegebenheiten einer freien und öffentlichen Zugänglichkeit anstrebt.
 
-Diese früheren Arbeiten waren und sind entscheidend für den Aufbau einer
-zentralen Identität für die globale Open Scholarship-Gemeinschaft, für die
-Vermittlung der Argumente für Open Scholarship an eine breitere Gesellschaft und
-für die Schaffung einer Grundlage, um die globale Bewegung voranzutreiben. Um
-das volle Potenzial und die Vision von Open Scholarship zu verwirklichen,
-brauchen wir ein Dokument, das kritische Fragen über die interne Struktur von
-Open Scholarship als Bewegung stellt und strategische Fragen aufgreift, wie wir
-als globale Bewegung konkrete Schritte zur Erreichung dieser Ziele
-identifizieren können. Für diejenigen, die mit der Sprache des Open Scholarship
-nicht vertraut sind, verweisen wir auf das [Open Research
-Glossar,](http://www.righttoresearch.org/resources/openresearchglossary/) das
-von der Right to Research Coalition veranstaltet wird.
+Hierbei erachten wir es nützlich, Open Scholarship als [boundary object](https://de.wikipedia.org/wiki/Boundary_object) zu betrachten, da es flexibel anpassungsfähig ist, in verschiedenen Communities in seiner Ausprägung unterschiedlich interpretiert wird, jedoch genügend unveränderliche Kerninhhalte mit sich bringt, um eine intrinsische Integrität beizubehalten. Neben dem Ansatz von [Peters und Roberts, 2012](https://www.routledge.com/Virtues-of-Openness-Education-Science-and-Scholarship-in-the-Digital/Peters-Roberts/p/book/9781594516863) halten wir [Fecher und Friesike, 2013](https://doi.org/10.1007/978-3-319-00026-8_2)s fünf Denkschulen aka. "schools of thought" nützlich, um die vorliegende Strategie anhand der dort genannten Ausprägungen zu rahmen, diese beinhalten einen Fokus auf: Infrastruktur, Datenerfassung, Öffentlichkeit, demokratische Werte und Pragmatismus. Darüber hinaus schlagen wir hiermit eine Erweiterung um eine sechste Schule für Gemeinschaft und Integration vor, die den Entwicklungen in diesem Kontext innerhalb der letzten fünf Jahre (und darüber hinaus) Rchnung trägt. Erwähnt werden soll hier auch das OCSD (Open and Collaborative Science in Development) Network, das ein [Open Science Manifesto](https://ocsdnet.org/manifesto/Open science-manifesto/) für eine inklusiv-integrativ ausgelegte Open Science mit Blick auf soziales und umweltbewusst-ökologisches Selbstbewusstsein verfasst hat, welches zur Rahmung der hier vorliegenden Strategie von großem Nutzen sein kann.
 
-Abbildung_3: Fünf Denkschulen im Open Scholarship
+Diese vorangegangenen Arbeiten waren und sind weiterhin entscheidend für die Schaffung einer zentralen Identität der weltweiten Open Scholarship-Community, da diese Argumentationslinien zur Befürwortung von Open Scholarship gegenüber der breiteren Gesellschaft sichtbar wrden und damit eine Grundlage geschaffen wird, um die weltweite Bewegung voranzutreiben. Um das volle Potenzial und die Vision von Open Scholarship zu verwirklichen, sind wir der Meinung, dass ein Dokument hilfreich sein kann, das die Zusammensetzung von Open Scholarship als Bewegung kritisch hinterfragt und eine strategische Perspektive einnimmt, um darzulegen, wie wir als globale Bewegung konkrete Schritte zur Erreichung dieser Ziele identifizieren können. Denjenigen, die mit manchen Begrifflichkeiten der Welt des Open Scholarship (noch) nicht vertraut sind, möchten wir vertrauensvoll auf das [Open Research Glossar](http://www.righttoresearch.org/resources/openresearchglossary/) hinweisen, welches durch die Right to Research Coalition zur Verfügung gestellt wird.
 
-Abbildung_3: Fünf Denkschulen im Open Scholarship
+![Abbildung 3: Fünf Denkschulen / schools of thought des Open Scholarship](images/image_2.png)\
 
-[Fecher und Frieseke
-(2013).](https://www.fosteropenscience.eu/content/what-Open science-introduction)
-[Fünf Denkschulen im Open
-Scholarship](https://www.fosteropenscience.eu/content/what-Open science-introduction).
-(CC BY NC)
+[Fecher and Frieseke (2013). Five schools of thought in Open Scholarship](https://www.fosteropenscience.eu/content/what-open-science-introduction). (CC BY NC)
 
-4. Zustand der Bewegung
-========================
+
+# 4. State of the Movement <a name="State"></a>
 
 Eine [Bewegung](https://www.google.de/search?q=Dictionary#dobs=movement) kann
 definiert werden als "eine Gruppe von Menschen, die zusammenarbeiten, um ihre
