@@ -438,52 +438,20 @@ Diese vorangegangenen Arbeiten waren und sind weiterhin entscheidend für die Sc
 
 # 4. State of the Movement <a name="State"></a>
 
-Eine [Bewegung](https://www.google.de/search?q=Dictionary#dobs=movement) kann
-definiert werden als "eine Gruppe von Menschen, die zusammenarbeiten, um ihre
-gemeinsamen politischen, sozialen oder künstlerischen Ideen voranzubringen".
-Open Scholarship Förderer sind eine enorm vielfältige Gruppe von Menschen,
-darunter nicht-akademische Bürger, Aktivisten, Dozenten und Studenten auf
-verschiedenen akademischen oder beruflichen Ebenen sowie Forschungsinstitute,
-wissenschaftliche Verlage, Bibliothekare, politische Entscheidungsträger und
-Nichtregierungsorganisationen (NGOs). Diese Community-Mitglieder kommen aus
-Ländern rund um den Globus und einer Reihe von sozioökonomischen Situationen.
-Als solche hat Open Scholarship eine Reihe unterschiedlicher sozialer,
-wirtschaftlicher und kultureller Kontexte, unter denen diese verschiedenen
-Gemeinschaften und Interessengruppen vereint sind. Diese Vielfalt ist zwar eine
-Stärke der Open Scholarship-Bewegung, da sie eine Vielzahl von Perspektiven,
-Erfahrungen, Kapazitäten und Ressourcen mitbringt, stellt sie aber auch eine
-Herausforderung für die strategische Ausrichtung, den Aufbau gemeinsamer Pläne
-sowie für Governance- und Koordinationsstrukturen dar.
+Ein [Movement](https://www.google.de/search?q=Dictionary#dobs=movement) kann definiert werden als "eine Gruppe von Menschen, die zusammenarbeiten, um ihre gemeinsamen politischen, sozialen oder künstlerischen Ideen voranzubringen". Open Scholarship-Supporter sind eine enorm vielfältige Gruppe von Menschen, darunter auch Bürger ohne akademischen Hintergrund, Aktivisten, Dozierende und Studierende auf verschiedenen akademischen und beruflichen Ebenen sowie Forschungsinstitute, wissenschaftliche Verlage, Bibliothekare, politische Entscheidungsträger und Nichtregierungsorganisationen (NGOs). Die Mitglieder der Community kommen aus Ländern rund um den Globus haben unterschiedlichste sozioökonomischen Hintergründe. Open Scholarship muss daher eine Reihe unterschiedlicher sozialer, wirtschaftlicher und kultureller Kontexte, unter denen diese verschiedenen Gemeinschaften und Interessengruppen vereint sind, mit einbeziehen. Wie oben schon angedeutet ist diese Vielfalt zwar einerseits eine Stärke der Open Scholarship-Bewegung, da sie eine Vielzahl von Perspektiven, Erfahrungen, Kapazitäten und Ressourcen mitbringt - sie stellt die Bewegung aber auch vor eine Herausforderung in Bezug auf die strategische Ausrichtung, den Aufbau gemeinsamer Pläne sowie für Governance- und Koordinationsstrukturen dar.
 
-Die vielleicht am weitesten verbreitete Gemeinsamkeit zwischen den Akteuren im
-Bereich der Open Scholarship ist die Überzeugung, dass eine verstärkte
-Akzeptanz von Open Scholarship-Praktiken im Allgemeinen eine *gute Sache* ist
-und dass sie der Forschungsgemeinschaft, der Umwelt, den globalen
-Volkswirtschaften und der breiteren Gesellschaft größere Vorteile bringen würde.
-Angesichts dieses grundlegenden gemeinsamen Wertes können wir beginnen, die
-zentralen Herausforderungen und Möglichkeiten in Open Scholarship zu
-identifizieren, um strategische Elemente zu definieren, die auf verschiedenen
-Ebenen und von unterschiedlichen Interessengruppen übernommen werden können.
-Daraus können wir ein kollektives Gefühl für die Art der definitiven Maßnahmen
-gewinnen, die ergriffen werden können, um die Förderung von Open Scholarship zu
-unterstützen.
+Die Annahme, die vermutlich den breitesten Zuspruch unter den  zahlreichen Akteuren im Bereich des Open Scholarship erntet, ist die Überzeugung, dass eine verstärkte Akzeptanz von Open Scholarship-Praktiken im Allgemeinen eine *gute Sache* darstellt, da sie sowohl der Forschungsgemeinschaft als auch der Umwelt, den weltweiten Volkswirtschaften sowie der breiteren Gesellschaft insgesamt größere Vorteile bringen würde. Diese grundlegenden Wertesetzung vorausgesetzt können wir beginnen, die zentralen Herausforderungen und Möglichkeiten von Open Scholarship zu identifizieren, um strategische Elemente zu definieren, die auf verschiedenen Ebenen und durch unterschiedliche Interessengruppen übernommen bzw. adaptiert werden können. Daraus können wir ein gemeinschaftliches Verständnis für die Art der nötigen Maßnahmen gewinnen, die ergriffen werden können, um die Sache des Open Scholarship voranzubringen.
 
-4.1 Gemeinsame Perspektiven
----------------------------
+
+## 4.1 Gemeinsame Perspektiven
 
 ### 4.1.1 Allgemeiner Wertbeitrag
 
-**Open Scholarship macht Forschungsergebnisse und wissenschaftliche Praktiken
-zugänglicher und integrativer und erweitert unseren Horizont über das, was aus
-dem Prozess der wissenschaftlichen Forschung möglich ist.**
+**Open Scholarship macht Forschungsergebnisse und Praktiken in Wissenschaft und Forschung zugänglicher und integrativer und erweitert unseren Horizont über das, was mit dem Prozess der wissenschaftlichen Forschung möglich ist.**
 
-### 4.1.2 Gesamtziele und Visionen
+### 4.1.2 Gesamtziele und Vision
 
-Forschungspraktiken und wissenschaftliche Kommunikation entwickeln sich ständig
-weiter. Obwohl das Web ursprünglich vor rund 30 Jahren entwickelt wurde, um den
-hierarchischen Ansatz des Informationsmanagements durch die Dezentralisierung
-der wissenschaftlichen Kommunikation zu stören [(Berners-Lee,
-1989)](https://www.w3.org/History/1989/proposal.html), hat die weit verbreitete
+Forschungspraktiken und wissenschaftliche Kommunikation entwickeln sich ständig weiter. Obwohl das Web mit dem Ansatz der Dezentralisierung der wissenschaftlichen Kommunikation ursprünglich als Gegenentwurf zu überkommenen Informationsmanagements-Hierarchien vor rund 30 Jahren entwickelt wurde [(Berners-Lee, 1989)](https://www.w3.org/History/1989/proposal.html), hat die weit verbreitete
 Verbreitung des Web einen Großteil des bereits existierenden wissenschaftlichen
 Publikationsmodells und der Industrie grundlegend unverändert gelassen. Eine
 solche wahrgenommene langsame Veränderungsrate oder Trägheit kann möglicherweise
