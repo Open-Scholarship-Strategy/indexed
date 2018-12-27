@@ -489,50 +489,25 @@ Vier Hauptelemente sind Voraussetzung für die Verbreitung von Open Scholarship:
 
 Angelehnt an die [Foster Open Scholarship Taxonomy](https://www.fosteropenscience.eu/taxonomy/term/102) (CC BY 4.0). *Bitte beachten Sie, dass dies eine nicht erschöpfende Taxonomie aller möglichen Aspekte von Open Science & Scholarship ist.*
 
-## 4.2 Unterschiedliche Perspektiven
+## 4.2 Vielzahl an Perspektiven
 
-Neben diesen gemeinsamen Gemeinsamkeiten gibt es auch Spannungen zwischen der
-besten Art und Weise, Open Scholarshippraktiken zu übernehmen. Open Scholarship
-ist eine Agenda mit mehreren Stakeholdern, deren unterschiedliche Kulturen,
-Hintergründe und Interessen dazu führen, dass Lösungen, die für alle geeignet
-sind, den lokalen Interessen schaden könnten (oder umgekehrt). Andererseits muss
-dafür gesorgt werden, dass die Strategien so miteinander verknüpft werden, dass
-die Aktionen derjenigen mit ähnlichen Zielen nicht zweckentfremdet werden.
-Solche "Fehlerlinien" für die Erstellung einer kohärenten Strategie sind:
+Neben den schon weiter oben genannten Gemeinsamkeiten gibt es auch Spannungen in den unterschiedlichen Ansichten, wie Open Scholarship-Praktiken am Besten implementiert werden können. Es scheint wichtig, hier nochmals darauf zu verweisen, dass die Agenda hinter Open Scholarship zahlreiche Stakeholder mit unterschiedlichen Motivationen, Interessen und kulturellen Hintergründen zusammenbringt - eine One-Size-Fits-All-Lösung könnte daher unter Umständen lokalen Interessen schaden (oder umgekehrt). Andererseits hat sich in den vergangenen Jahren durchaus der Bedarf herauskristallisiert, die zahlreichen existierenden Strategien von Openness-Communities so zusammenzuführen, dass Handlungen und potentielle zukünftige Strategien derjenigen mit ähnlichen Zielen nicht gegenläufig realisiert werden. Im Open Scholarship-Kontext können wir folgende potentielle "Störungszonen" identifizieren, die einer Erstellung einer kohärenten Strategie abträglich sind:
 
 ### 4.2.1 Geografische Besonderheiten
 
--   Es gibt bereits hunderte von [Einzelinitiativen und
-    Organisationen](http://oad.simmons.edu/oadwiki/Advocacy_organizations_for_OA),
-    die dazu beitragen, Open Access auf verschiedenen Ebenen weltweit anzubieten
-    und zu fördern.
+-   Es gibt bereits hunderte von [Einzelinitiativen und     Organisationen](http://oad.simmons.edu/oadwiki/Advocacy_organizations_for_OA), die weltweit dazu beitragen, Open Access auf verschiedensten Ebenen anzubieten und zu fördern.
 
--   Es gibt bereits Tausende von [Einzelinitiativen und
-    -organisationen](https://oerworldmap.org/), die dazu beitragen, offene
-    Bildung auf verschiedenen Ebenen auf der ganzen Welt anzubieten und zu
-    fördern.
+-   Es gibt bereits Tausende von [Einzelinitiativen und -organisationen](https://oerworldmap.org/), die weltweit dazu beitragen, offene Bildung / Open Education auf verschiedenen Ebenen zu fördern und entsprechende Angebote zu entwickeln.
 
--   Hohe Kosten im Zusammenhang mit Open Access-Publikationen diskriminieren
-    aktiv Forscher aus Ländern mit niedrigem und mittlerem Einkommen (LMICs).
+-   Hohe Kosten im Zusammenhang mit Open Access-Publikationen diskriminieren aktiv Forschende aus Ländern mit niedrigem und mittlerem Einkommen (LMICs).
 
--   Viele populäre Indexierungsdienste, wie Scopus und Web of Science, oder
-    ausdrücklich gegen Zeitschriften aus Entwicklungsländern oder solche, die
-    kein Englisch als Hauptsprache haben [(Mongeon und Paul-Hus,
-    2016)](https://doi.org/10.1007/s11192-015-1765-5).
+-   Viele populäre Indexierungsdienste, wie Scopus und Web of Science, zeigen Bias gegen Zeitschriften aus Entwicklungsländern oder solchen, die kein Englisch als Hauptsprache haben [(Mongeon und Paul-Hus, 2016)](https://doi.org/10.1007/s11192-015-1765-5).
 
--   Sicherstellen, dass jede Erzählung von Open Science die unterschiedlichen
-    Weltanschauungen, Erfahrungen und Herausforderungen Lateinamerikas, Asiens,
-    Afrikas und des Nahen Ostens integriert, wie sie im
-    [Manifest](https://ocsdnet.org/manifesto/Open science-manifesto/) der
-    [offenen und kooperativen
-    Wissenschaften](https://ocsdnet.org/manifesto/Open science-manifesto/)
-    beschrieben sind.
+-   Sicherstellen, dass jede Erzählung von Open Science die unterschiedlichen Weltanschauungen, Erfahrungen und Herausforderungen Lateinamerikas, Asiens, Afrikas und des Nahen Ostens integriert, wie sie im [Manifest](https://ocsdnet.org/manifesto/Open science-manifesto/) der [offenen und kooperativen Wissenschaften](https://ocsdnet.org/manifesto/Open science-manifesto/) beschrieben sind.
 
 ### 4.2.2 Disziplinarische Besonderheiten
 
--   Da der gebräuchlichere Begriff Open Science das Wort Science enthält, kann
-    dies dazu führen, dass Forscher aus den Künsten, Geisteswissenschaften,
-    Ingenieurwissenschaften, Mathematik und anderen Bereichen, die nicht als
+-   Da der gebräuchlichere Begriff Open Science das Wort Science enthält, kann dies dazu führen, dass Forscher aus den Bildenden Künsten, den Geisteswissenschaften, den Ingenieurwissenschaften, Mathematik und anderen Bereichen, die nicht als
     reine Wissenschaft angesehen werden können, ausgeschlossen werden. Dieses
     Problem scheint hauptsächlich auf muttersprachliche Forscher beschränkt zu
     sein. Andere Begriffe wie e-Research und Digital Humanities beschreiben
