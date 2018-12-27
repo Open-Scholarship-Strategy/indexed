@@ -16,7 +16,7 @@ title: "Grundlagen für die Entwicklung einer Open Scholarship-Strategie"
 
 * [Zweck dieses Dokuments](#Purpose)
 * [Strategie](#Strategy)
-  * [Kurzfristige Strategie, \>2 Jahre](#Short)
+  * [Kurzfristige Strategie, >2 Jahre](#Short)
   * [Mittelfristige Strategie, 2-5 Jahre](#Middle)
   * [Langfristige Strategie, 5+ Jahre](#Long)
 * [Was ist Open Scholarship?](#What_is)
@@ -445,104 +445,51 @@ Die Annahme, die vermutlich den breitesten Zuspruch unter den  zahlreichen Akteu
 
 ## 4.1 Gemeinsame Perspektiven
 
-### 4.1.1 Allgemeiner Wertbeitrag
+### 4.1.1 Grundlegendes Werte-Versprechen
 
 **Open Scholarship macht Forschungsergebnisse und Praktiken in Wissenschaft und Forschung zugänglicher und integrativer und erweitert unseren Horizont über das, was mit dem Prozess der wissenschaftlichen Forschung möglich ist.**
 
-### 4.1.2 Gesamtziele und Vision
+### 4.1.2 Gesamtvision
 
-Forschungspraktiken und wissenschaftliche Kommunikation entwickeln sich ständig weiter. Obwohl das Web mit dem Ansatz der Dezentralisierung der wissenschaftlichen Kommunikation ursprünglich als Gegenentwurf zu überkommenen Informationsmanagements-Hierarchien vor rund 30 Jahren entwickelt wurde [(Berners-Lee, 1989)](https://www.w3.org/History/1989/proposal.html), hat die weit verbreitete
-Verbreitung des Web einen Großteil des bereits existierenden wissenschaftlichen
-Publikationsmodells und der Industrie grundlegend unverändert gelassen. Eine
-solche wahrgenommene langsame Veränderungsrate oder Trägheit kann möglicherweise
-auf das breite Spektrum der verschiedenen Akteure in diesem Bereich und die
-tiefe Verankerung von Interessen und Positionen, z.B. über Urheberrecht,
-Zeitschriftenmarken und Forschungsbewertung, zurückgeführt werden. Eine
-gemeinsame Perspektive ist, dass wissenschaftliche Kommunikationsprozesse
-zunehmend die Macht webnativer Technologien nutzen müssen, um das semantische
-Web zu nutzen (siehe z.B. [Hitzler,
-2010](http://www.semantic-web-journal.net/content/reasonable-semantic-web) oder
-[Pomerantz, 2015)](https://mitpress.mit.edu/books/metadata), das Vernetzung,
-Zusammenarbeit und Transparenz in der Forschung verspricht. Die Angleichung
-dieses Ideals an die Prozesse von Forschung und Lehre ist das, worüber man sich
-als Open Scholarship weitgehend einig ist, und es hat in den letzten 10 Jahren
-eine unbestreitbare Explosion der Innovationsrate in der wissenschaftlichen
-Kommunikation gegeben.
+Forschungspraktiken und wissenschaftliche Kommunikation entwickeln sich stetig weiter. Obwohl das Word Wide Web mit seinem Ansatz einer Dezentralisierung der wissenschaftlichen Kommunikation ursprünglich als Gegenentwurf zu überkommenen Informationsmanagements-Hierarchien vor rund 30 Jahren entwickelt wurde [(Berners-Lee, 1989)](https://www.w3.org/History/1989/proposal.html), hat die sonst allgegenwärtige Präsenz des Web einen Großteil der bereits existierenden wissenschaftlichen Publikationsmodelle sowie der damit befassten Industrie im Großen und Ganzen unverändert gelassen. Die so wahrgenommene langsam fortschreitende Entwicklung bzw. gar Trägheit kann möglicherweise auf das breite Spektrum unterschiedlichster Akteure in diesem Bereich und ein fast schon traditionelles Beharren auf eigene Interessen und Positionen, z.B. zu Fragen des Urheberrechts, Renommée etablierter Journal-Titel, sowie die Bewertung und das Assessment von Forschung zurückgeführt werden.
+Doch haben sich auch im Sektor der Wissenschaftspublikation schon Perspektiven auf die Vorteile des Webs entwickelt: so ist beispielsweise eine verbreitete Sicht, dass wissenschaftliche Kommunikationsprozesse zunehmend die Macht webnativer Technologien nutzen sollten, um von den Vorteilen ses semantischen Webs zu profitieren (siehe z.B. [Hitzler, 2010](http://www.semantic-web-journal.net/content/reasonable-semantic-web) oder [Pomerantz, 2015)](https://mitpress.mit.edu/books/metadata), welches Vernetzung, Zusammenarbeit und Transparenz in der Forschung verspricht. Die Angleichung der bestehenden Prozesse von Forschung und Lehre an dieses Ideal ist im Kontext  des Open Scholarship weitgehend einhellig gefordert, und so hat es in den vergangenen 10 Jahren eine unbestreitbare rapide Zunahme der Innovationsrate im Feld der Wissenschaftskommunikation gegeben.
 
-Die primäre Vision, die wir mit Optimismus verfolgen, ist die dreifache:
+Die primäre Vision, die wir mit Optimismus verfolgen, ist in drei Teile gegliedert und fordert,
 
-1.  Dass alle Bildungsressourcen und Forschungsergebnisse als globales
-    gesellschaftliches Gemeinwohl allen Bürgern, die davon profitieren wollen,
-    kostenlos zugänglich sein sollten.
+1.  Dass alle Bildungsressourcen und Forschungsergebnisse als globales gesellschaftliches Gemeingut allen Bürgerinnen und Bürgern, die davon profitieren wollen, kostenlos zugänglich sein sollten.
+2.  Dass der aus offener Wissenschaft und Forschung erzielte Mehrwert auch in die breitere Gesellschaft zurürckgespielt und integriert wird.
+3.  Dass jedem Mensch ermöglicht werden sollte, nach eigenem Wunsch und Wille frei zu diesem Prozess beizutragen und sich daran zu beteiligen.
 
-2.  Die Vorteile dieser Forschung sollten in die Gesellschaft integriert werden.
+### 4.1.3 Definition als Grenzobjekt/boundary object
 
-3.  Dass jeder frei verfügbar sein sollte, um zu diesem Prozess beizutragen und
-    sich daran zu beteiligen.
+Durch die Setzung als *Grenzobjekt* bzw. *boundary object* [(Star, 1989)](http://www.lchc.ucsd.edu/MCA/Mail/xmcamail.2012_08.dir/pdfMrgHgzULhA.pdf) ermöglicht uns Open Scholarship, verschiedene Kategorien und Bedeutungsräume quer über unterschiedlichste Communities of Practice auszubalancieren. Dadurch wird die Festlegung und Aushandlung solcher Grenzobjekte ein Schlüsselprozess für die Entwicklung und Aufrechterhaltung der Kohärenz zwischen den sich überschneidenden Communities.
 
-### 4.1.3 Definition als Grenzobjekt
+Weit gefasst lassen sich die Kernaspekte von Open Scholarship in zwei Hauptkategorien einteilen: **Praktiken** und **Prinzipien.** Ersteres betrifft Aspekte wie Open Access, Open Data und Open Evaluation. Zu den Kernprinzipien von Open Scholarship gehören Partizipation, Gleichheit, Transparenz, Fairness, kognitive Gerechtigkeit, Zusammenarbeit, Verteilungsgerechtigkeit und Inklusivität; Aspekte, die in traditionellen Wissenschaftspraktiken vielfach verloren gegangen scheinen. Grundlegend ist man sich einig, dass die Kombination dieser Praktiken und Prinzipien zu einem besseren Forschungsprozess führen wird, die alle unter dem breiten Begriff Open Scholarship zusammengefasst sind. Und in der Tat ist bspw. [Watson (2015)](https://doi.org/10.1186/s13059-015-0669-2) der Ansicht, dass diese Attribute nicht ausschließlich für Open Scholarship gelten, sondern grundlegende Schlüsselmerkmale von guter Wissenschaft insgesamt sein sollten.
 
-Wenn es als *Grenzobjekt* wahrgenommen wird [(Star,
-1989)](http://www.lchc.ucsd.edu/MCA/Mail/xmcamail.2012_08.dir/pdfMrgHgzULhA.pdf),
-erlaubt uns Open Scholarship, verschiedene Kategorien und Bedeutungen über viele
-verschiedene Gemeinschaften der Praxis auszubalancieren. Hier ist die Erstellung
-und Verwaltung solcher Grenzobjekte ein Schlüsselprozess für die Entwicklung und
-Aufrechterhaltung der Kohärenz zwischen den sich überschneidenden
-Gemeinschaften.
+Wir erkennen jedoch an, dass Open Scholarship in seiner derzeitigen Form als Konstrukt nicht leicht zu durschauen ist und auch eigene Termini sowie eine eigene Sprache mit sich bringt. Wir erkennen voll und ganz an, dass diese damit selbst eingeführten Hindernisse überwunden werden müssen, um die eine möglichst breite Teilnahme an sowie Engagement für die Prinzipien und Praktiken von Open Scholarship zu ermöglichen [(Masuzzo und Martens, 2017)](https://doi.org/10.7287/peerj.preprints.2689v1).
 
-Im Großen und Ganzen lassen sich die Kernaspekte von Open Scholarship in zwei
-Hauptkategorien einteilen: **Praktiken** und **Prinzipien.** Ersteres betrifft
-Aspekte wie Open Access, Open Data und Open Evaluation. Zu den Kernprinzipien
-von Open Scholarship gehören Partizipation, Gleichheit, Transparenz, kognitive
-Gerechtigkeit, Zusammenarbeit, Teilen, Gerechtigkeit und Inklusivität; Aspekte,
-die in der traditionellen Wissenschaft oft fehlen. Generell ist man sich einig,
-dass die Kombination dieser Praktiken und Prinzipien zu einem besseren
-Forschungsprozess führen wird, die alle unter dem breiten Begriff Open
-Scholarship zusammengefasst sind. Tatsächlich ist [Watson
-(2015)](https://doi.org/10.1186/s13059-015-0669-2) der Ansicht, dass diese
-Attribute nicht ausschließlich für Open Scholarship gelten, sondern
-Schlüsselmerkmale guter Wissenschaft im Allgemeinen sein sollten.
+![Abbildung 4: Open Scholarship - Prinzipien](images/image_3.png)\
 
-Wir erkennen jedoch an, dass Open Scholarship für viele derzeit nicht einfach zu
-verstehen ist und oft eine eigene Sprache hat. Wir erkennen voll und ganz an,
-dass ein solches Hindernis überwunden werden muss, um die Teilnahme und das
-Engagement für die Prinzipien und Praktiken zu maximieren [(Masuzzo und Martens,
-2017)](https://doi.org/10.7287/peerj.preprints.2689v1).
+[Tony Ross-Hellauer (2017). Principles of Open Scholarship. Slideshare](https://www.slideshare.net/OpenAIRE_eu/peer-review-in-the-age-of-open-science). (CC BY).
 
-Abbildung_4: Prinzipien des Open Scholarship
 
-Abbildung_4: Prinzipien des Open Scholarship
+### 4.1.4 Open Scholarship-Ökosystem
 
-[Tony Ross-Hellauer (2017).](https://www.slideshare.net/OpenAIRE_eu/peer-review-in-the-age-of-Open science)
-[Grundsätze des offenen Stipendiums.](https://www.slideshare.net/OpenAIRE_eu/peer-review-in-the-age-of-Open science)
-[Slideshare](https://www.slideshare.net/OpenAIRE_eu/peer-review-in-the-age-of-Open science).
-(CC BY).
+Vier Hauptelemente sind Voraussetzung für die Verbreitung von Open Scholarship:
 
-### 4.1.4 Offenes Stipendien-Ökosystem
+1.  **Nutzende**: Bewusstsein bei Akteurinnen und Akteure gegenüber Open Scholarship, um sich aktiv-reflektierend mit den entsprechenden Praktiken auseinanderzusetzen.
 
-Vier Hauptelemente sind Voraussetzung für die Annahme eines Open Scholarships:
+2.  **Prozess:** Open Scholarship-Tools, anhand derer die Verbreitung von Open Scholarship-Praktiken geleitet und gesteuert werden kann.
 
-1.  **Benutzer**: Bewusstsein für ein offenes Stipendium, um sich mit den
-    Praktiken auseinanderzusetzen.
+3.  **Kontext:** Systemische Unterstützung durch Communities und beteitligte Stakeholder zur Schaffung eines nachhaltigen Umfelds für Open Scholarship.
 
-2.  **Prozess:** Open Scholarship-Tools, die die Annahme von Praktiken leiten.
+4.  **Anreize:** Motivationsanlässe für Externe, sich mit Open Scholarship-Praktiken auseinanderzusetzen.
 
-3.  **Kontext:** Gemeinschaftliche und systemische Unterstützung zur Schaffung
-    eines nachhaltigen Open Scholarshipumfelds.
+![Abbildung_5: Open Scholarship Taxonomy](images/image_4.png)\
 
-4.  **Anreize:** Motivation, sich mit den Praktiken auseinanderzusetzen.
+Angelehnt an die [Foster Open Scholarship Taxonomy](https://www.fosteropenscience.eu/taxonomy/term/102) (CC BY 4.0). *Bitte beachten Sie, dass dies eine nicht erschöpfende Taxonomie aller möglichen Aspekte von Open Science & Scholarship ist.*
 
-Abbildung_5: Open Scholarship-Taxonomie
-
-Abbildung_5: Open Scholarship-Taxonomie
-
-Angelehnt an die [Foster Open Scholarship
-Taxonomie](https://www.fosteropenscience.eu/taxonomy/term/102) (CC BY 4.0).
-*Bitte beachten Sie, dass dies eine nicht erschöpfende Taxonomie aller möglichen
-Aspekte von Open Science & Scholarship ist.*
-
-4.2 Unterschiedliche Perspektiven
----------------------------------
+## 4.2 Unterschiedliche Perspektiven
 
 Neben diesen gemeinsamen Gemeinsamkeiten gibt es auch Spannungen zwischen der
 besten Art und Weise, Open Scholarshippraktiken zu übernehmen. Open Scholarship
