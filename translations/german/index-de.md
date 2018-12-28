@@ -487,7 +487,7 @@ Vier Hauptelemente sind Voraussetzung für die Verbreitung von Open Scholarship:
 
 ![Abbildung_5: Open Scholarship Taxonomy](images/image_4.png)\
 
-Angelehnt an die [Foster Open Scholarship Taxonomy](https://www.fosteropenscience.eu/taxonomy/term/102) (CC BY 4.0). *Bitte beachten Sie, dass dies eine nicht erschöpfende Taxonomie aller möglichen Aspekte von Open Science & Scholarship ist.*
+Angelehnt an die [Foster Open Scholarship Taxonomy](https://www.fosteropenscience.eu/taxonomy/term/102) (CC BY 4.0). *Bitte beachten: dies stellt eine nicht erschöpfende Taxonomie aller möglichen Aspekte von Open Science & Scholarship dar.*
 
 ## 4.2 Vielzahl an Perspektiven
 
@@ -495,182 +495,82 @@ Neben den schon weiter oben genannten Gemeinsamkeiten gibt es auch Spannungen in
 
 ### 4.2.1 Geografische Besonderheiten
 
--   Es gibt bereits hunderte von [Einzelinitiativen und     Organisationen](http://oad.simmons.edu/oadwiki/Advocacy_organizations_for_OA), die weltweit dazu beitragen, Open Access auf verschiedensten Ebenen anzubieten und zu fördern.
+-   Es gibt bereits Hunderte von [Einzelinitiativen und     Organisationen](http://oad.simmons.edu/oadwiki/Advocacy_organizations_for_OA), die weltweit dazu beitragen, Open Access auf verschiedensten Ebenen anzubieten und zu fördern.
 
 -   Es gibt bereits Tausende von [Einzelinitiativen und -organisationen](https://oerworldmap.org/), die weltweit dazu beitragen, offene Bildung / Open Education auf verschiedenen Ebenen zu fördern und entsprechende Angebote zu entwickeln.
 
--   Hohe Kosten im Zusammenhang mit Open Access-Publikationen diskriminieren aktiv Forschende aus Ländern mit niedrigem und mittlerem Einkommen (LMICs).
+-   Beachte, dass hohe Kosten im Zusammenhang mit Open Access-Publikationen aktiv Forschende aus Ländern mit niedrigem und mittlerem Einkommen (LMICs) ausschließen.
 
--   Viele populäre Indexierungsdienste, wie Scopus und Web of Science, zeigen Bias gegen Zeitschriften aus Entwicklungsländern oder solchen, die kein Englisch als Hauptsprache haben [(Mongeon und Paul-Hus, 2016)](https://doi.org/10.1007/s11192-015-1765-5).
+-   Beachte, dass viele populäre Indexierungsdienste wie Scopus und Web of Science einen Bias auf gegen Journals aus Entwicklungsländern oder solchen, die kein Englisch als Hauptsprache haben [(Mongeon und Paul-Hus, 2016)](https://doi.org/10.1007/s11192-015-1765-5).
 
--   Sicherstellen, dass jede Erzählung von Open Science die unterschiedlichen Weltanschauungen, Erfahrungen und Herausforderungen Lateinamerikas, Asiens, Afrikas und des Nahen Ostens integriert, wie sie im [Manifest](https://ocsdnet.org/manifesto/Open science-manifesto/) der [offenen und kooperativen Wissenschaften](https://ocsdnet.org/manifesto/Open science-manifesto/) beschrieben sind.
+-   Stelle sicher, dass jedes Narrativ, das mit Open Science arbeitet, die unterschiedlichen Weltanschauungen, Erfahrungen und Herausforderungen Lateinamerikas, Asiens, Afrikas und des Nahen Ostens integriert, wie sie im [Open and Collaborative Science Manifesto](https://ocsdnet.org/manifesto/Open science-manifesto/) beschrieben sind.
 
-### 4.2.2 Disziplinarische Besonderheiten
+### 4.2.2 Besonderheiten zwischen verschiedenen wiss. Disziplinen
 
--   Da der gebräuchlichere Begriff Open Science das Wort Science enthält, kann dies dazu führen, dass Forscher aus den Bildenden Künsten, den Geisteswissenschaften, den Ingenieurwissenschaften, Mathematik und anderen Bereichen, die nicht als
-    reine Wissenschaft angesehen werden können, ausgeschlossen werden. Dieses
-    Problem scheint hauptsächlich auf muttersprachliche Forscher beschränkt zu
-    sein. Andere Begriffe wie e-Research und Digital Humanities beschreiben
-    ähnliche Praktiken in verschiedenen Gemeinschaften.
+-   Da der im Allgemeinen [gebräuchlichere](https://trends.google.com/trends/explore?date=2004-01-01%202018-12-28&q=open%20scholarship,open%20science) Begriff des "Open Science" den Ausdruck "Science" enthält, kann dies zu einer impliziten oder auch offenen Exklusion von Forschenden aus den Bildenden Künsten, den Geistes- und Sozialwissenschaften, den Ingenieurwissenschaften, der Mathematik sowie anderen Bereichen, die je nach eigener Schule nicht als "reine Wissenschaft" angesehen werden könnten, führen. Dieses Problem scheint linguistisch bedingt hauptsächlich auf Forschende mit eine englisch-muttersprachlichen Hintergrund beschränkt zu sein, strahlt aber durch die Verwendung der englischen Denominationen auch auf Diskurse anderer Nationalitäten ab. Begriffe wie "e-Research" und "Digital Humanities" beschreiben ähnliche Praktiken aus unterschiedlichen Communities, die die gleiche Problematik aufweisen.
 
--   Unterschiede in der Einstellung und der Akzeptanz verschiedener Offener
-    Praktiken. Beispielsweise sind viele Open Sciences-Praktiken auf empirische
-    und quantitative Forschung ausgerichtet und erfordern daher andere
-    Evaluations- und Anreizstrukturen als andere wissenschaftliche Disziplinen.
+-   Es bestehen Unterschiede in der Einstellung und der Akzeptanz der unterschiedlichen Openness-Praktiken. Beispielsweise sind viele Open Science-Praktiken auf empirische und quantitative Forschung ausgerichtet und erfordern daher andere Evaluations- und Anreizstrukturen als andere wissenschaftliche Disziplinen.
 
--   Berücksichtigung domänenspezifischer Probleme. Beispielsweise ist die
-    Berücksichtigung von Schwankungen in der biologischen Versorgung
-    verschiedener Laborunternehmen ein wichtiges Thema für die
-    Reproduzierbarkeit der biologischen Forschung. Open Access-Bücher sind ein
-    großes Problem in den Geisteswissenschaften [(Eva,
-    2014)](http://dx.doi.org/10.1017/CBO9781316161012), aber weniger in STEM,
-    und werden deshalb oft ausgeblendet.
+-   Berücksichtigung domänenspezifischer Probleme. So ist beispielsweise die Berücksichtigung von Schwankungen in der Versorgung mit bioogischen Hilfsmitteln verschiedener Laborunternehmen ein wichtiges Thema für die Reproduzierbarkeit der Forschung in der Biologie. Die Verfügbarkeit und der Wille zur Bereitstellung eigener Arbeiten in Form von Open Access-Büchern scheint (noch) ein großes Problem in den Geisteswissenschaften [(Eve, 2014)](http://dx.doi.org/10.1017/CBO9781316161012) darzustellen, jedoch weniger in den MINT-Disziplinien, und werden daher insb. im Open Science-Diskurs oft ausgeblendet.
 
--   Derzeit gibt es nur wenige Preprints aus der [pharmazeutischen
-    Industrie](https://openpharma.blog/2017/08/14/when-will-preprints-take-off-in-medicine/)
-    und keine, die primäre klinische Daten abdecken. Gegenwärtig gibt es
-    erhebliche Hindernisse für Preprints der Industriearbeit, einschließlich der
-    Möglichkeit, dass Material, das noch nicht von Experten begutachtet wurde,
-    als Werbung angesehen wird, und der Möglichkeit, dass Leser die klinische
-    Praxis auf der Grundlage von Material ändern, das noch nicht von Experten
-    begutachtet wurde, wie gut auch immer ein Preprint gekennzeichnet ist.
+-   Derzeit existieren nur wenige Preprints aus der [pharmazeutischen Industrie](https://openpharma.blog/2017/08/14/when-will-preprints-take-off-in-medicine/) und keine, die primäre klinische Daten abdecken. Des weiteren ist zu konstatieren, dass gegenwärtig erhebliche Hindernisse für Preprints der im Kontext der Pharmaindustrie erstellten Forschungsarbeiten bestehen.
 
-### 4.2.3 Besonderheiten der Stakeholder
+### 4.2.3 Besonderheiten bzgl. der Stakeholder
 
--   Betrachten Sie die Bandbreite der Akteure, die ein direktes Interesse an der
-    Entwicklung von Open Scholarship haben - Forscher, Studenten, Förderer,
-    Bibliothekare, Forschungsmanager, wissenschaftliche Gesellschaften,
-    Infrastrukturanbieter, Industrie, breitere Gesellschaft, Verlage und andere
-    Open Scholarship-Dienstleister, Pädagogen, NGOs und politische
-    Entscheidungsträger. Jede dieser Gruppen engagiert sich aus verschiedenen
-    Gründen in der Open Scholarship-Agenda, und oft stehen diese Ziele in einem
-    Konflikt, je nach ihrer intrinsischen Motivation.
+-   Wenn man die Bandbreite der Akteurinnen und Akteure mit direktem Interesse an der (Weiter-)Entwicklung von Open Scholarship betrachtet - Forschende, Studierende, Förderer, Bibliothekarinnen und Bibliothekare, Forschungsmanager, wissenschaftliche Gesellschaften, Anbieter von IT-Infrastruktur, die Industrie, die Gesellschaft in ihrer Breite, Wissenschaftsverlage sowie weitere Dienstleister im Feld des Open Scholarship, Pädagoginnen und Pädagogen, Lehrende , NGOs und politische Entscheidungsträger, so wird schnell deutlich, dass sich jede dieser Gruppen aus verschiedenen Gründen in der Verwirklichung von Open Scholarship engagiert, und dabei oft diese Ziele - je nach intrinsischer Motivation - in Konflikt miteinander stehen.
 
-Im Hinblick auf Open Access gibt es wenig Konsens darüber, wie dies auf einer
-Vielzahl von Skalen (geografisch, institutionell, individuell) am besten zu
-erreichen ist. Das Ergebnis dieser anhaltenden Spannungen ist vielleicht nicht
-überraschend, dass das Fehlen klar definierter strategischer Prioritäten für
-Open Access-Konflikte zwischen verschiedenen Stakeholdergruppen oft auf der
-Grundlage konkurrierender Interessen unterschieden werden kann, die sich auf
-mehreren Ebenen in Kommunikation, Politik und Praxis durchsetzen.
+Im Hinblick auf Open Access gibt es kaum Konsens darüber, wie dies auf einer Vielzahl von Dimensionen (geografisch, institutionell, individuell) am besten zu erreichen ist. Aus den hier entstehenden Spannungen ergibt sich - vielleicht nicht überraschend - ein Fehlen klar definierter strategischer Prioritäten zur Klärung von Konflikten im Feld des Open Access, mit denen zwischen verschiedenen Gruppen von Stakeholdern, die oft auf der Grundlage konkurrierender Interessen agieren und sich auf zahlreichen Ebenen in Kommunikation, Politik und Praxis durchsetzen, vermittelt werden könnte.
 
-Dies hat zur Folge, dass das Beziehungsgeflecht zwischen den an der
-wissenschaftlichen Kommunikation beteiligten Akteuren und insbesondere den
-Entwicklungen im Bereich Open Scholarship besonders komplex ist. Einige der am
-heftigsten diskutierten Punkte sind:
+Daraus ergibt sich eine besondere Komplexität im Beziehungsgeflecht zwischen den an der Wissenschaftskommunikation und den in allen Feldern des Open Scholarship beteiligten Akteurinnen und Akteuren. Einige der am Kontroversesten diskutierten Punkte betreffen:
 
--   Geeignete Genehmigungsverfahren für Forschungsdaten;
+-   die Auswahl geeigneter Lizensierungsraster für Forschungsdaten;
+-   woher die Finanzierung wissenschaftlicher Publikationstätigkeiten kommen soll;
+-   Wer für wissenschaftliche Forschungsinfrastruktur zuständig und verantwortlich zeichnen;
+-   wie ein optimales Open Access-Modell aussehen sollte und welche Eigenschaften damit einhergehen;
+-   die Rolle von gemeinnützigen und non-profit Vereinen und Stiftungen  und martwirtschaftlich-gewinnorientierten Akteuren; und
+-   wie man Konflikte zwischen verschiedenen Stakeholdern löst.
 
--   woher die Finanzierung wissenschaftlicher Publikationstätigkeiten kommen
-    soll;
+Dies ist selbstverständlich eine unvollständige Liste aller offenen Punkte, durch die aber schon deutlich wird, dass Konfliktlösungen und Kompromissfindung im Bereich der Wissenschaftskommunikation in unterschiedlichsten Variationen geschehen kann, die sich um die Kernthemen der Unabhängigkeit von Wissenschaft und Forschung, Governance-Strukturen und Finanzierung drehen.
 
--   Wer sollte für die wissenschaftliche Forschungsinfrastruktur zuständig sein;
+## 4.3 Umfang der Ziellerreichung von Open Scholarships, um die Bewegung als erfolgreich zu betrachten.
 
--   Was das optimale Modell von Open Access sein sollte und welche Eigenschaften
-    es hat;
+Es gibt unterschiedliche Meinungen und insgesamt fehlenden Konsens darüber, in welchem Ausmaß die Ziele von Open Scholarship erreicht werden müssen, um die OS-Bewegung als erfolgreich zu deklarieren. Teilweise ist dies auf das Fehlen klar definierter Ziele zurückzuführen, was bedeutet, dass es bisher schwierig war, einen klar formulierten Weg mit definierten Zwischenzielen festzulegen. Die Gesamtlage der unterschiedlichen und teilweise konkurrierenden Akteure sowie der Vielzahl komplexer Prozesse trug dazu auch nur bedingt bei.
 
--   Die Rolle von Wohltätigkeitsorganisationen, gemeinnützigen und
-    gewinnorientierten Akteuren; und
+Manche Aspekte scheinen jedoch von allen Beteiligten allgemein akzeptiert werden zu können:
 
--   Wie man Konflikte zwischen verschiedenen Stakeholdern löst.
+-   Die Umgestaltung des derzeitigen Marktes für wissenschaftliche Kommunikation in einer Art, so dass Open Scholarship und entsprechende Dienstleistungen zum Standardmodell für Forschungsprozesse und -ergebnisse wird.
 
-Dies ist eine nicht erschöpfende Liste, betont aber, dass die Konfliktlösung in
-der wissenschaftlichen Kommunikation in einer Reihe von Geschmacksrichtungen
-erfolgen kann, die auf Schlüsselthemen wie akademische Freiheit,
-Governance-Strukturen und Finanzierung basieren.
+-   Die Verlagerung öffentlicher Finanzierungsmodelle, um die Ausbreitung von Diensten und Ergebnissen anstelle des bisher praktizierten Einkaufs einzelner Kopien/Abonnements von Inhalten zu finanzieren.
 
-4.3 Umfang der Annahme eines Open Scholarships, um die Bewegung als erfolgreich zu betrachten.
-------------------------------------------------------------------------------------------------
+-   Bereitstellung einer ausreichend hohen Qualität und Vielfalt an Dienstleistungen, um Wissenschaftlerinnen und Wissenschaftlern eine angemessene Auswahl zu ermöglichen.
 
-Es gibt unterschiedliche Meinungen und einen Mangel an Konsens darüber,
-inwieweit die Annahme eines Open Scholarships notwendig ist, um Erfolg zu
-haben. Ein Teil davon ist auf das Fehlen klar definierter Ziele zurückzuführen,
-was bedeutet, dass es schwierig war, einen Weg mit klaren Trittsteinen zu
-definieren, der von den verschiedenen konkurrierenden Akteuren und einer
-Vielzahl komplexer Prozesse getrübt wurde.
+-   Das Mainstreaming von Open Scholarship, so dass dieses in Bezug auf Reichweite, Adaption, Anreizsystemen und Anrechenbarkeit eine lohnenswerte Alternative zu traditionellen Verfahren darstellt.
 
-Einige Aspekte sind jedoch klar, die von allen Beteiligten allgemein akzeptiert
-werden können:
+-   Aufbau einer signifikanten Anzahl von Bildungs-, Ausbildungs- und Unterstützungssystemen, die auf der Entwicklung von Open Scholarship-Skills basieren.
 
--   Den derzeitigen Markt für wissenschaftliche Kommunikation so umgestalten,
-    dass er zu Open Scholarship Services als Standardmodell für
-    Forschungsprozesse und -ergebnisse wird.
+-   Ablösung des gesamten traditionellen Wissenschafts- und Forschungs-Workflows durch Open Scholarship-Methoden.
 
--   Verlagerung öffentlicher Finanzierungsmodelle, um die Verbreitung von
-    Diensten und Leistungen zu finanzieren, anstatt einzelne Kopien/Abonnements
-    von Inhalten.
+- Ablösung proprietärer Softwarelösungen im Wissenschafts- und Forschungs-Kreislauf durch Freie und Open Source-Software (FOSS/FLOSS)
 
--   Bereitstellung einer ausreichend hohen Qualität und Vielfalt an
-    Dienstleistungen, um den Forschern eine angemessene Auswahl zu ermöglichen.
+-   Messbare Steigerung der Qualität von Forschungsleistung und -ergebnissen, die zu verbesserten Karriereaussichten sowie sozialem, akademischem und wirtschaftlichem Wachstum und Innovation führt.
 
--   Mainstreaming Open Scholarship, so dass es in Bezug auf Reichweite,
-    Aufnahme, Anreiz und Belohnung mit traditionellen Verfahren konkurriert.
+-   Übernahme vollständiger Abdeckung durch Open Access durch die Förderorganisationen; Förder-Richtlinien, die explizit die Verwendung von Preprints und anderen Pre-Publikationsformen in Förderanträgen ermöglichen, sowie die Berücksichtigung nicht-traditioneller Forschungsergebnisse.
 
--   Aufbau einer signifikanten Anzahl von Bildungs-, Ausbildungs- und
-    Unterstützungssystemen, die auf der Entwicklung offener Stipendien basieren.
+# 5. Wichtigste strategische Prioritäten <a name="Priorities"></a>
 
--   Ablösung ganzer traditioneller Forschungsabläufe durch
-    Open Stipendium-Methoden.
+Unter Berücksichtigung der oben genannten strategischen Ziele und Erfolgskriterien ist es möglich, mehrere Maßnahmen-Cluster zu definieren, die umgesetzt werden müssen, um die genannten Ziele und Kriterien zu erreichen. Auch wenn es zwar keinen klar proklamierten Konsens der Open Scholarship-Bewegung darüber oder über die explizite Reihenfolge von Priorisierung gibt, so besteht doch Einigkeit darüber, dass alle diese Maßnahmen zumindest bis zu einem gewissen Grad wichtig sind.
 
--   Messbare Steigerung der Qualität von Forschung und Leistung, die zu besseren
-    Karriereaussichten, sozialem, akademischem und wirtschaftlichem Wachstum und
-    Innovation führt.
+Diese strategischen Cluster adaptieren wir hier von [Fecher und Friesike (2013)](https://doi.org/10.1007/978-3-319-00026-8_2); sie bilden die Grundlage für die oben skizzierte [Gesamtstrategie](#Strategy).
 
--   Verabschiedung des vollständigen Open Access durch die Förderorganisationen;
-    Richtlinien, die explizit die Verwendung von Preprints und anderen
-    Pre-Publikationen in Förderanträgen erlauben, sowie die Berücksichtigung
-    nicht-traditioneller Forschungsergebnisse.
+## 5.1 Demokratisierung
 
-5. Wichtigste strategische Prioritäten für ein offenes Stipendium
-==================================================================
+In der Überzeugung, dass es eine ungleiche und ungerechte Verteilung des Zugangs zu Wissen gibt, geht es Open Scholarship darum, Wissen aus Wissenschaft und Forschung (einschließlich Publikationen, Code, Methoden, Daten und Lehrmaterialien) für alle mit Zugang zu moderner Technologie (z.B. Computer und Internetanschluss) zugänglich und frei verfügbar und weiter nutzbar zu machen. Insbesondere gilt dies für öffentlich geförderte Wissenschaft und Forschung.
 
-Unter Berücksichtigung der oben genannten strategischen Ziele und
-Erfolgskriterien ist es möglich, mehrere führende Teilbereiche von Maßnahmen zu
-definieren, die umgesetzt werden müssen, um diese zu erreichen. Es gibt zwar
-keinen offensichtlichen Konsens der Open Scholarship-Bewegung darüber oder über
-die Reihenfolge der Prioritäten, aber es besteht Einigkeit darüber, dass alle
-diese Maßnahmen zumindest bis zu einem gewissen Grad wichtig sind.
+Wichtig ist, dass Demokratie für Open Scholarship nicht nur gleicher Zugang zu Wissen, aber auch gleiche Möglichkeiten, zum Wissen beizutragen, und gleiche Rechte, um an den Entscheidungen der weltweiten Gemeinschaft teilzunehmen, die sich auf die Schaffung und Verbreitung von Wissen auswirken. Letzteres bedeutet, dass Open Scholarship konträr zu geschlossenen Machtvereinen bzw. Power-Clubs steht, die auf eine kleine Anzahl von Teilnehmern beschränkt sind, welche für die gesamte internationale Gemeinschaft entscheiden - egal ob diese geschlossenen Vereinigungen von institutionellen/staatlichen Geldgebern unterstützt werden oder Bottom-up-Organisationen sind (z.B. kleine Gruppen von angesehenen Autoren).
 
-Diese strategischen Subdomains wurden von [Fecher und Friesike
-(2013)](https://doi.org/10.1007/978-3-319-00026-8_2) übernommen und bilden die
-Grundlage für die oben skizzierte [Gesamtstrategie](#Strategy).
+In der Tat scheint es ziemlich unwahrscheinlich, dass mehr als 10 Millionen hochgebildete und intelligente Wissenschaftlerinnen und Wissenschaftler sich mit Regeln einverstanden zeigen würden, die ohne ihr Zutun von einer kleinen Anzahl von Menschen (oder - schlimmer noch - von Advokatengruppen mit primär finanziellen Interessen) für sie eingeführt wurden. Ein wahrscheinlicheres Szenario ist, dass die neuen Regeln für Open Scholarship in öffentlicher Diskussion durch viele gemeinsame Projekte in kollektiv-geteilter Erstellung  - genau wie die hier vorliegende Strategie - erscheinen werden. Es zahlreiche spezifizierte Maßnahmen und Herangehensweisen vorgeschlagen, um demokratische Werte in Open Scholarship dezentral zu verwirklichen, darunter Peer-to-Peer- und Blockchain-basierte Mechanismen.
 
-5.1 Demokratisierung
----------------------
-
-In der Überzeugung, dass es eine ungleiche Verteilung des Zugangs zu Wissen
-gibt, geht es Open Scholarship darum, wissenschaftliches Wissen (einschließlich
-Publikationen, Code, Methoden und Daten) für jeden mit Zugang zu moderner
-Technologie (z.B. Computer und Internetanschluss) zugänglich und frei verfügbar
-zu machen. Dies gilt insbesondere für die öffentlich geförderte Forschung.
-
-Wichtig ist, dass Demokratie in Open Scholarship nicht nur den gleichen Zugang
-zu Wissen bedeutet, sondern auch gleiche Möglichkeiten, zum Wissen beizutragen,
-und gleiche Rechte, an den Entscheidungen der weltweiten Gemeinschaft
-teilzunehmen, die die Schaffung und Verbreitung von Wissen betreffen. Letzteres
-bedeutet, dass Open Scholarship im Gegensatz zu geschlossenen Power-Clubs steht,
-die auf eine kleine Anzahl von Teilnehmern beschränkt sind, die für die gesamte
-internationale Gemeinschaft entscheiden, ob solche geschlossenen Clubs von
-institutionellen/staatlichen Geldgebern unterstützt werden oder
-Bottom-up-Organisationen sind (z.B. kleine Gruppen von angesehenen Autoren).
-
-In der Tat ist es ziemlich unwahrscheinlich, dass mehr als 10 Millionen
-Wissenschaftler, hochgebildet und intelligent, mit einigen Regeln einverstanden
-wären, die von einer kleinen Anzahl von Menschen (oder noch schlimmer, von
-einigen Gruppen mit finanziellem Interesse) für sie geschaffen wurden. Ein
-wahrscheinlicheres Szenario ist, dass die neuen Regeln für Open Scholarship in
-der offenen Debatte durch viele gemeinsame Projekte erscheinen werden, genau wie
-diese Strategie durch kollektive Bearbeitung entstanden ist. Es wurden mehrere
-spezifische Mechanismen vorgeschlagen, um demokratische Werte in Open
-Scholarship dezentral zu verwirklichen, darunter Peer-to-Peer- und
-Blockchain-basierte Mechanismen.
-
-Wenn wir auf die Prinzipien des Open Scholarship hinarbeiten, erkennen wir an,
-dass es ein Potenzial für Komplexität oder sogar Konflikte in unseren Zielen
-gibt, wenn sich Richtlinien und Arbeitspraktiken weiterentwickeln. Das
-Bewusstsein für die breitere Forschungs-, Industrie- und Bildungslandschaft wird
-dazu beitragen, Open Scholarship so zu positionieren, dass es die größtmögliche
-Wirkung entfaltet und das Potenzial anderer Politiken und Prioritäten zur
+Wenn wir auf die Etablierung von Prinzipien des Open Scholarship hinarbeiten, erkennen wir an, dass es ein Potenzial für Komplexität oder sogar Konflikte in unseren Zielen gibt, wenn sich Richtlinien, Policies und Arbeitspraktiken weiterentwickeln. Das Bewusstsein für die breitere Wissenschafts-, Forschungs-, und Bildungslandschaft wird dazu beitragen, Open Scholarship so zu positionieren, dass es die größtmögliche Wirkung entfalten kann und das Potenzial anderer Politiken und Prioritäten zur
 Begrenzung seines Potenzials abschwächt. Beispielsweise sollten
 Urheberrechtsvorschläge in der EU, die eine Beschränkung der Befugnis zur
 Durchführung von TDM (Text und Data Mining) oder Maßnahmen zur Förderung des
