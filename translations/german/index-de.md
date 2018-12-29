@@ -675,7 +675,7 @@ Zu diesen unterstützenswerten Infrastruktureen zählen Elemente wie:
 
 -   Interoperabilität der Dienste (z.B. auf der Grundlage der FAIR-Prinzipien);,
 
--   Integration von Elementen des Semantic Web: Metadaten, Harvesting, Austauschdienste (siehe z.B. [das Open Metadata Handbook)](https://www.oercommons.org/courses/Open metadata-handbook/view).
+-   Integration von Elementen des Semantic Web: Metadaten, Harvesting, Austauschdienste (siehe z.B. das [Open Metadata Handbook)](https://en.wikibooks.org/wiki/Open_Metadata_Handbook).
 
 Ähnlich wie bei öffentlicher Infrastruktur im herkömmlichen Sinne (Straßen, Schienen, Kanalisation, etc.) kann auch offene digitale Infrastruktur als ein Netz von Technologien betrachtet werden, die nicht wirklich Beachtung findet, solange sie problemlos funktioniert. Ähnlich wie ein defektes Straßensystem wird auch bei der digitalen Infrastruktur ihr Wert für den Laien zumeist erst sichtbar, wenn sie nicht mehr so funktioniert, wie man dies bisher gewohnt war. Als Beispiel kann hier vielleicht der Ansatz des automatisierten und integrierten Datenaustausches dienen - wenn sich dies als Standard durchgesetzt hat, wird der Schritt zurück zu Einzeleinreichungen bei Online-Repositorien ohne automatische Metadaten-Generierung erst wirklich als mühsam und ineffizient bewusst.
 
