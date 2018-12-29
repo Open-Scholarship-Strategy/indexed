@@ -644,327 +644,159 @@ Weitere wichtige Aspekte:
 
    -  Die oft kommunizierte Disruption, die aber über diese Elemente hinausgehen, sowie die enge Verknüpfung von Forschungspraktiken mit fertigen auf Forschungspublikationen basierenden Produkten, dürften aber vermutlich keine größeren Veränderungen bewirken. Dies liegt an der fehlenden intrinsischen Motivation der Forschenden, sich für Prozesse zu engagieren, da diese ihnen dann keinen Gewinn an Sozialkapital bieten würden.
 
+
 ## 5.3 Infrastruktur <a name="Infrastructure"></a>
 
-Um die Vorteile von Open Scholarship in vollem Umfang nutzen zu können, sind
-Plattformen, Tools und Dienste für die Verbreitung und Zusammenarbeit
-erforderlich. Eine solche technische Infrastruktur kann mit aktuellen
-Standardtechnologien und zu wesentlich geringeren Kosten als herkömmliche
-Publishing-Methoden aufgebaut werden. Gegenwärtig gibt es einen allgemeinen
-Mangel an Finanzmitteln und Unterstützung für kritische Aspekte der offenen
-wissenschaftlichen Infrastruktur, trotz ihrer klaren Rolle bei der Definition
-bestimmter Forschungspraktiken und -abläufe.
+Um die Vorteile von Open Scholarship vollumfänglich nutzen zu können, sind digitale Plattformen, Tools und Dienste für die Verbreitung und Zusammenarbeit erforderlich. Eine solche technische Infrastruktur kann mit aktuellen Standardtechnologien und zu wesentlich geringeren Kosten als herkömmliche Publishing-Methoden aufgebaut werden. Gegenwärtig gibt es einen allgemeinen Mangel an Finanzmitteln und Unterstützung für kritische Aspekte einer offenen wissenschaftlichen Infrastruktur, trotz ihrer klaren Rolle bei der Definition von Forschungspraktiken und -abläufen.
 
-Beispiele für die bestehende Infrastruktur sind das [DOAJ,](https://doaj.org/)
-[arXiv,](https://arxiv.org/) [Humanities Commmons,](https://hcommons.org/) das
-[Open Science Framework,](https://osf.io/)
-[Sherpa/RoMEO,](http://www.sherpa.ac.uk/romeo/index.php)
-[ORCID,](https://orcid.org/) die [Open Science
-Foundation,](http://opensciencefoundation.eu/) das [Public Knowledge
-Project](https://pkp.sfu.ca/) und die [Open Knowledge
-Foundation](https://okfn.org/), unter vielen anderen, die einer Reihe von
-Interessengruppen entscheidende Dienste anbieten. Ohne nachhaltige
-Finanzierungsquellen sind diese Dienstleistungen nach wie vor anfällig für den
-Zusammenbruch oder den Erwerb durch Akteure des privaten Sektors, was immer
-häufiger vorkommt.
+Beispiele für schon bestehende Infrastrukturen sind das [DOAJ](https://doaj.org/), [arXiv](https://arxiv.org/), [Humanities Commmons](https://hcommons.org/) das [Open Science Framework](https://osf.io/), [Sherpa/RoMEO](http://www.sherpa.ac.uk/romeo/index.php), [ORCID,](https://orcid.org/) die [Open Science Foundation](http://opensciencefoundation.eu/), das [Public Knowledge Project](https://pkp.sfu.ca/) und die [Open Knowledge Foundation](https://okfn.org/), die neben vielen anderen Diensten einer Reihe von Interessengruppen entscheidende Dienste anbieten. Ohne nachhaltige Finanzierungsquellen sind diese Dienstleistungen nach wie vor anfällig für den Zusammenbruch oder den Erwerb durch Akteure des privaten Sektors, was immer häufiger vorkommt.
 
-Um das Risiko eines Zusammenbruchs der Infrastruktur zu verringern und ihre
-Kapazität zu erhöhen, ist eine weitere Unterstützung durch Geldgeber für jede
-Art von nachhaltiger wissenschaftlicher Infrastruktur erforderlich (z.B.
-[Anderson et al., 2017)](https://doi.org/10.1101/110825). Ein Teil der Budgets
-der Forschungsförderer sollte dafür bereitgestellt werden (z.B. 2%), und
-Initiativen wie [SCOSS](http://scoss.org/) und die [Open Research Funders
-Group](http://www.orfg.org) sollten in dieser Hinsicht voll unterstützt werden.
+Um das Risiko eines Zusammenbruchs dieser offenen Web-Infrastruktur zu verringern und ihre Kapazitäten zu erhöhen, ist eine weitere und kontinuierliche Unterstützung durch Geldgeber für jede Art von nachhaltiger wissenschaftlicher Infrastruktur erforderlich (siehe dazu z.B. [Anderson et al., 2017)](https://doi.org/10.1101/110825). Ein Teil der Budgets der Forschungsförderer sollte dafür bereitgestellt werden (z.B. 2%), und Initiativen wie [SCOSS](http://scoss.org/) und die [Open Research Funders Group](http://www.orfg.org) sollten in dieser Hinsicht voll unterstützt werden.
 
-Dazu gehören Elemente wie:
+Zu diesen unterstützenswerten Infrastruktureen zählen Elemente wie:
 
 -   Standards & Persistente Identifikatoren (PIDs);
 
--   Shared Services, einschließlich Abstracting/Indexing Services und
-    Forschungsdaten (z.B. DOAJ);
+-   Shared Services, einschließlich Abstracting/Indexing Services und Forschungsdaten (z.B. DOAJ);
 
 -   Unterstützungs- und Verbreitungsdienste (z.B. Sherpa/RoMEO);
 
--   Repository-Dienste (z.B. [COAR](https://www.coar-repositories.org/) und
-    [OpenDOAR);](https://v2.sherpa.ac.uk/opendoar/)
+-   Repository-Dienste (z.B. [COAR](https://www.coar-repositories.org/) und [OpenDOAR);](https://v2.sherpa.ac.uk/opendoar/)
 
--   Verlagsdienstleistungen (z.B. arXiv);
+-   offene Publikationsdienste (z.B. arXiv, hcommons);
 
--   Kollaborationsplattformen und Tools (z.B. das Open Science Framework);
+-   Kollaborationsplattformen und -Tools (z.B. das Open Science Framework);
 
 -   Automatisierung offener Praktiken ("open by default");
 
--   Offene Zitierdienste, die auf ORCID- und CrossRef-Initiativen aufbauen (z.B.
-    [Opencitations](http://opencitations.net/) und [I4OC);](https://i4oc.org/)
+-   Offene Zitierdienste, die auf ORCID- und CrossRef-Initiativen aufbauen (z.B. [Opencitations](http://opencitations.net/) und [I4OC)](https://i4oc.org/);
 
--   Social Virtual Research Environments (SVREs), um die Verwaltung und den
-    Austausch von Forschungsobjekten zu erleichtern, die Anreize für Open
-    Scholarship zu schaffen, bestehende Software und Tools zu integrieren und
-    die eigentliche Plattform für die Durchführung der Forschung
-    bereitzustellen;
+-   Social Virtual Research Environments (SVREs), um die Verwaltung und den Austausch von Forschungsobjekten zu erleichtern, Anreize für Open Scholarship zu schaffen, bestehende Software und Tools zu integrieren und eine vollständig funktionsfähige Gesamt-Plattform für die Durchführung der Forschung bereitzustellen;
 
 -   Interoperabilität der Dienste (z.B. auf der Grundlage der FAIR-Prinzipien);,
 
--   Semantic Web Technologie: Metadaten, Harvesting, Austauschdienste (siehe
-    z.B. [das Open Metadata
-    Handbook)](https://www.oercommons.org/courses/Open metadata-handbook/view).
+-   Integration von Elementen des Semantic Web: Metadaten, Harvesting, Austauschdienste (siehe z.B. [das Open Metadata Handbook)](https://www.oercommons.org/courses/Open metadata-handbook/view).
 
-Vielleicht ist der beste Weg, die Infrastruktur als bestehende interaktive
-Technologien zu betrachten, die Sie nicht wirklich bemerken, bis sie nicht mehr
-so funktionieren, wie sie sollten. Zum Beispiel automatisierter und integrierter
-Datenaustausch ohne individuelle Einreichung bei fragmentierten
-Online-Datenspeichern.
+Ähnlich wie bei öffentlicher Infrastruktur im herkömmlichen Sinne (Straßen, Schienen, Kanalisation, etc.) kann auch offene digitale Infrastruktur als ein Netz von Technologien betrachtet werden, die nicht wirklich Beachtung findet, solange sie problemlos funktioniert. Ähnlich wie ein defektes Straßensystem wird auch bei der digitalen Infrastruktur ihr Wert für den Laien zumeist erst sichtbar, wenn sie nicht mehr so funktioniert, wie man dies bisher gewohnt war. Als Beispiel kann hier vielleicht der Ansatz des automatisierten und integrierten Datenaustausches dienen - wenn sich dies als Standard durchgesetzt hat, wird der Schritt zurück zu Einzeleinreichungen bei Online-Repositorien ohne automatische Metadaten-Generierung erst wirklich als mühsam und ineffizient bewusst.
 
-Was wir letztendlich mit solchen Infrastrukturen erreichen wollen, ist ein
-rationalisierter Prozess groß angelegter, datenintensiver Forschung, die durch
-leistungsstarke Computercluster, die alle geographischen, technischen und
-disziplinären Grenzen überschreiten, kollaborativ betrieben wird. Die
-potenziellen sozialen Aspekte solcher Dienste bedeuten, dass es zusätzliche
-Möglichkeiten für eine Reihe von Zwecken gibt, darunter Vernetzung, Marketing
-und Werbung, nicht-akademischer Informationsaustausch und Diskussionsforen.
+Was letztendlich mit solchen Infrastrukturen erreicht werden könnte, ist ein modernisierter Prozess groß angelegter, datenintensiver Forschung, die durch leistungsstarke Computercluster, die alle geographischen, technischen und disziplinären Grenzen überschreiten, kollaborativ betrieben wird. Die potenziellen sozialen Aspekte solcher Dienste bedeutet die Entstehung zusätzlicher Möglichkeiten für eine Reihe von Anwendungsfällen geben wird - darunter erweitertes Networking, Marketing sowie Informationsaustausch über akademische Grenzen hinweg bspw. mittles Diskussionsforen.
 
-5,4 Öffentliche Güter
-----------------------
 
-Basierend auf der Erkenntnis, dass wahre gesellschaftliche Wirkung ein
-gesellschaftliches Engagement in der Forschung und eine leicht verständliche
-Kommunikation wissenschaftlicher Ergebnisse erfordert, will Open Scholarship die
-Öffentlichkeit zur Zusammenarbeit in der Forschung durch Community Science
-anregen. Web 2.0-Technologien sind in der Lage, Wissenschaft durch
-nicht-spezialisierte Zusammenfassungen, Blogging und andere weniger formale
-Kommunikationsmethoden leichter verständlich zu machen. Gesellschaftliche
-Auswirkungen (z.B. ein besseres Weltverständnis) sollten dabei keine Neben- oder
-Nischenbetrachtung der Forschung sein, sondern ein wesentlicher Teil davon.
+## 5.4 Öffentliches Gut <a name="Public"></a>
 
-Vieles davon bezieht sich auf die sich wandelnde Rolle des Forschers in einer
-modernen, digitalen Gesellschaft und lässt sich auf zwei Hauptaspekte
-reduzieren:
+Basierend auf der Erkenntnis, dass sich echter gesellschaftlicher Impact erst mit gesellschaftlichem Engagement in Wissenschaft und Forschung sowie einer leicht verständlichen Kommunikation wissenschaftlicher Ergebnisse entfalten kann, hat Open Scholarship zum Ziel, die Öffentlichkeit zur Zusammenarbeit in der Forschung durch Community Science anzuregen und einzubinden. Web 2.0-Technologien sind in der Lage, Wissenschaft durch die Bereitstellung nicht-spezialisierter Zusammenfassungen, mittels Blogging sowie andere weniger formale Kommunikationsmethoden leichter verständlich und zugänglich zu machen. Der gesellschaftliche Impact (z.B. ein besseres Verständnis des Weltgeschehens) sollten für Wissenschaft und Forschung dabei keinen Neben- oder Nischenaspekt darstellen, sondern einen wesentlichen Teil der Motivation darstellen, in Wissenschaft und Forschung tätig zu werden.
 
-1.  den Einfluss, den die breite Öffentlichkeit auf den intrinsischen
-    Forschungsprozess haben kann; und
+Viele der genannten Punkte beziehen sich auf die sich wandelnde Rolle des Forschenden in einer modernen, digitalen Gesellschaft und lässt sich auf zwei Hauptaspekte fokussieren:
 
-2.  Das Verständnis dieser Forschung durch ein breiteres nicht-spezialisiertes
-    Publikum, einschließlich effektiver Methoden zur Kommunikation von
-    Forschung.
+1.  den Einfluss, den die breite Öffentlichkeit auf den intrinsischen Forschungsprozess haben kann; und
 
-Wichtige Aspekte sind hier:
+2.  Das Verständnis dieser Forschung durch ein breiteres nicht-spezialisiertes Publikum, einschließlich effektiver Methoden zur Kommunikation von Forschung.
 
--   Beseitigung von Hindernissen für die Forschung aufgrund von Rasse,
-    Geschlecht, Einkommen, Status, Geographie oder anderen demografischen
-    Faktoren.
+Als essentielle Elemente sind hier zu nennen:
 
--   Beseitigung von Hindernissen, die auf dem Zugang zu Finanzmitteln beruhen.
+-   die Beseitigung von Hindernissen für Wissenschaft und Forschung aufgrund von ethnischer Herkunft, Geschlecht, Einkommen, Status, Geographie oder anderen demografischen Faktoren.
 
--   Einbeziehung von verstreuten, externen Personen, die über die traditionellen
-    nicht-digitalen Bereiche hinausgehen, als aktive Rolle in der Forschung.
+   -   die Beseitigung von Hindernissen, die auf dem Zugang zu Finanzmitteln beruhen.
 
--   Wissenschaft der Gemeinschaft (auch als Citizen Science bekannt) und
-    Einbeziehung der Gesellschaft in die Festlegung von Forschungsprioritäten.
+   -   die Einbeziehung von nicht-affiliierten/-assoziierten und anderweitig aktiven Personen ohne Anbindung an das klassische Wissenschaftssystem, die trotzdem eine aktive Rolle in Wissenschaft und Forschung einnehmen.
 
--   Dies eröffnet auch Möglichkeiten für die Crowdfinanzierung von
-    Forschungsprojekten, ein derzeit wenig erforschter Aspekt der öffentlichen
-    Schule.
+-   Förderung von Community Science (auch Citizen Science genannt), sowie die Einbeziehung der Gesellschaft in die Festlegung von Forschungsprioritäten.
 
--   Ständige und kontinuierliche Dokumentation und gemeinsame Nutzung aller
-    Forschungsergebnisse, die während eines exponierten Forschungslebenszyklus
-    entstehen, von den während des Projekts verwendeten Labor-Notebooks bis hin
-    zu Methoden, Materialien, Algorithmen, Daten, Code und Papier.
+   -   Dies eröffnet auch Möglichkeiten für die Crowdfinanzierung von Forschungsprojekten - ein derzeit wenig beachteter Aspekt der öffentlichen Forschungsfinanzierung.
 
--   Dies trägt dazu bei, die Forschung auf eine bessere Verdauung und ein
-    besseres Verständnis der Allgemeinheit und insbesondere der nicht
-    spezialisierten interessierten Kreise vorzubereiten.
+-   Ständige und kontinuierliche Dokumentation und gemeinsame Nutzung aller Forschungsergebnisse, die während eines exponierten Forschungslebenszyklus entstehen - von Labornotizbüchern, die während des Projekts verwendet werden, über Methoden, Materialien, Algorithmen, Daten, Code und Papier.
 
--   Nutzung öffentlicher Räume und Infrastruktur wie öffentliche Bibliotheken,
-    Museen und Schulen.
+   -   Dies kann dazu beitragen, den Austausch zwischen Wissenschaft und Forschung und der Öffentlichkeit zu befördern, da ein besseres Verständnis der Allgemeinheit und insbesondere durch interessierte Laien erreicht werden kann.
 
-5.5 Messung
-------------
+-   Aktive Nutzung und Einbindung öffentlicher Räume wie bspw. öffentliche Bibliotheken, Museen und Schulen.
 
-Um das Verhalten von Akademikern zu verändern, ist es notwendig, die Art und
-Weise, wie sie gemessen werden, zu ändern; zu ändern, wie sie gemessen werden,
-bedeutet neue Metriken, die unterschiedliche Werte und vielfältigere Formen der
-wissenschaftlichen Wirkung widerspiegeln. Ironischerweise steckt der Einsatz von
-fortgeschrittenen Metriken und Analysen für die Forschungsbewertung noch in den
-Kinderschuhen der Wissenschaft. In der Praxis würde die Integration einer
-Forschungsoffenheitsmetrik in die Algorithmen des Hochschulrankings die
-Offenheitswerte in die Politik einbetten und die Maßnahmen an den offenen
-Kernwerten ausrichten. Eine Alternative, die für viele nicht allzu attraktiv
-erscheint, wäre die Abschaffung jeder Form der Messung, die oft als schlecht für
-den Fortschritt der wissenschaftlichen Forschung angesehen wird.
 
-Es gibt eine weit verbreitete Erkenntnis, dass sich traditionelle Metriken zur
-Messung der wissenschaftlichen Wirkung als problematisch erwiesen haben, z.B.
-durch eine zu starke Fokussierung auf Zeitschriftenpublikationen oder eine
-unangemessene Anwendung auf Zeitschriftenebene. Der bekannteste Kandidat ist der
-Journal Impact Factor, eine durchschnittliche Zitierungsmetrik, die auf Artikel-
-und individueller Ebene oft unangemessen verwendet wird und die Bewertung auf
-journalistische Forschungsergebnisse beschränkt und damit innovative Formen der
-Forschungsbewertung diskriminiert.
+## 5.5 Messung & Bewertung <a name="Measurement"></a>
 
-Open Scholarship sucht "alternative Metriken" (auch bekannt als altmetrics;
-nicht zu verwechseln mit dem Unternehmen Altmetric), die die neuen Möglichkeiten
-digital vernetzter Werkzeuge nutzen können, um die Wirkung von Stipendien durch
-ehemals unsichtbare Aktivitäten zu verfolgen und zu messen. Dazu gehören Social
-Shares, Tagging, Bookmarks, Ergänzung von Sammlungen, Leserschaften, Kommentare
-und Diskussionen, Bewertungen und die Verwendung oder Zitierung in
-nicht-journalen Formaten, die alle den *Kontext* eines Forschungsobjekts bilden.
-Wichtig ist, dass diese neue Formen der Information über die Verbreitung der
-Forschung sowie den Prozess der Zusammenarbeit erfassen, die dazu beitragen, die
-traditionelle Sicht der Veröffentlichung als Ende einer engen Forschungspipeline
-zu erweitern.
+Um das Verhalten von Akademikerinnen und Akademikern zu verändern, ist es notwendig, die Art und Weise, wie ihr Standing gemessen werden, zu ändern; zu ändern, wie sie gemessen werden, bedeutet neue Metriken, die unterschiedliche Werte und Formen wissenschaftlicher Wirkungsweisen widerspiegeln; siehe zum Beispiel den [Metric Tide report](https://responsiblemetrics.org/the-metric-tide/) oder den [EU report on Next-generation metrics](https://ec.europa.eu/research/openscience/pdf/report.pdf). Ironischerweise steckt die Verwendung fortschrittlicher Metriken und Analysen für die Forschungsbewertung innerhalb der Wissenschaft noch in den Kinderschuhen. In der Praxis würde die Suche nach einer Integrationsmöglichkeit von Offenheitsmetriken der Forschung in die Algorithmen des Hochschulrankingsystems direkt dazu führen, dass Offenheitswerte in Policies und Richtlinien eingebettet und entsprechende Maßnahmen nach offenen Kernmetriken ausgerichtet würden. Eine Alternative, die für viele jedoch nicht allzu attraktiv erscheint, wäre die Abschaffung jeglicher Form von Bewertung und Messung, da dies gern rundheraus als schlecht für den Fortschritt von Wissenschaft und Forschung angesehen wird.
 
-Daher sind die Prinzipien des *verantwortungsvollen* Umgangs mit *Metriken* eng
-mit den Zielen von Open Scholarship verbunden:
+Es gilt mittlerweile als allgemein anerkannt, dass sich traditionelle Metriken zur Messung des wissenschaftlichen Impacts als problematisch erwiesen haben, z.B. durch eine zu starke Fokussierung auf Journal-basierte Publikationen oder durch eine unangemessene Anwendung innerhalb der Ebene einzelner Journals. Als der unrühmlichste Vertreter traditioneller Metriken muss sicherlich der Journal Impact Factor gesehen werden, eine Metrik, die Durchschnittswerte von Zitationen verteilt auf Journals berechnet, aber auf Artikel- und Individualebene oft unangemessen verwendet wird und die Bewertung auf in erfassten Journals publizierte Forschungsergebnisse limitiert und damit innovative Formen der Forschungsbewertung klar schlechter stellt, da diese einfach nicht beachtet werden.
 
--   **Robustheit:** Basierend auf den bestmöglichen Daten in Bezug auf
-    Genauigkeit und Umfang;
+Open Scholarship sucht nach "alternativen Metriken" (auch bekannt als altmetrics; jedoch nicht zu verwechseln mit dem Unternehmen Altmetric), die den neuen Möglichkeiten digital vernetzter Werkzeuge Rechnung tragen können, mit denen die Wirkung von Wissenschaft und Forschung auch über ehemals unsichtbare Aktivitäten nachverfolgt, erfasst und messbar gemacht werden können. Dazu gehören u.a. Social Sharing, Tagging, Bookmarks, die Aufnahme in kuratierte Sammlungen, Adressierung verschiedener Arten von Lesenden- und Zielgruppen, Beteiligung durch Kommentare und Diskussionen, Rezensionen, sowie die Verwendung oder Zitierung in Nicht-Journal-Formaten, die alle den *Kontext* eines Forschungsobjekts abbilden. Wichtig ist, dass somit neue Formen der Information über die Verbreitung von Forschung sowie den Prozess der Beteiligung und Zusammenarbeit beinhalten, die dazu beitragen wollen, die traditionelle Sicht der Veröffentlichung als das Ende einer eng gefassten Forschungspipeline zu erweitern.
 
--   **Demut:** In der Erkenntnis, dass die quantitative Bewertung eine
-    qualitative, sachkundige Bewertung unterstützen, aber nicht ersetzen sollte;
+Daher sind die Prinzipien *verantwortungsvoller Metriken* eng mit den Zielen von Open Scholarship verbunden:
 
--   **Transparenz:** Offene und transparente Datenerhebungs- und
-    Analyseprozesse, damit die zu bewertenden Personen die Ergebnisse testen und
-    verifizieren können;
+-   **Robustheit:** Metriken sind auf den bestmöglichen Daten in Bezug auf Genauigkeit und Umfang aufzubauen;
 
--   **Vielfalt:** Berücksichtigung der Variation nach Fachgebieten und
-    Verwendung einer Reihe von Indikatoren zur Reflexion und Unterstützung einer
-    Vielzahl von Forschungs- und Forscherkarrierepfaden im gesamten System;
+-   **Bescheidenheit & Zurückhaltung:** In dem Bewusstsein, dass quantitative Bewertung durch Metriken eine qualitative, sachkundige Bewertung zwar unterstützen, aber nicht ersetzen sollte;
 
--   **Reflexivität:** Die systemischen und potenziellen Auswirkungen von
-    Indikatoren erkennen, antizipieren und als Reaktion darauf aktualisieren.
+-   **Transparenz:** Offene und transparente Datenerhebungs- und Analyseprozesse, damit die zu bewertenden Personen die Ergebnisse testen und verifizieren können;
 
-Zusammen mit diesem, Messung spielen eine zentrale Rolle in der Zukunft der Open
-Scholarship durch:
+-   **Vielfalt:** Berücksichtigung der Variation nach Fachgebieten, zudem Verwendung einer Reihe von Indikatoren zur Reflexion und Unterstützung der in der Forschung selbst existierenden Pluralität sowie sich daraus ergebenden unterschiedlichen auch nicht-traditionellen Karrierewegen der Forschenden im gesamten System von Wissenschaft und Forschung;
 
--   Änderung der Normen der Forschungsevaluierung von traditionellen Metriken zu
-    einer strengeren, evidenzbasierten und vielfältigeren/ganzheitlichen Reihe
-    von Quellen.
+-   **Reflexivität:** Als Metrik die systemischen und potenziellen Auswirkungen von Indikatoren erkennen, antizipieren und in Reaktion darauf entsprechend aktualisieren.
 
--   Hören Sie auf, den Journal Impact Factor in irgendeiner Form zu verwenden,
-    und verpflichten Sie sich zu den Prinzipien und Praktiken, die in der [San
-    Francisco Declaration on Research Assessment](https://sfdora.org/) (DORA)
-    und dem [Leiden Manifest](http://www.leidenmanifesto.org/) dargelegt sind,
-    sowie zu einem gerechteren, objektiveren und robusteren System der
-    Forschungsbewertung.
+Durch die hier genannten Faktoren spielen Metriken eine zentrale Rolle in der Zukunft der Open Scholarship:
 
--   Betrachten Sie alternative Metriken, einschließlich solcher, die explizit
-    zur Messung der Offenheit entwickelt wurden [(Nichols und Twidale,
-    2017)](https://doi.org/10.1002/asi.23741).
+-   Ändere die Forschungsevaluierungs-Normen von traditionellen Metriken hin zu einer strengeren, evidenzbasierten und vielfältigeren/ganzheitlichen Reihe von Quellen.
 
--   Siehe auch die [Humane Metrics Initiative](http://humetricshss.org/about/)
-    und das [Metrics Toolkit](http://www.metrics-toolkit.org/).
+-   Setze der Verwendung des Journal Impact Factor in jeglicher Form ein Ende und verpflichte dich zu den Prinzipien und Praktiken, die in der [San Francisco Declaration on Research Assessment](https://sfdora.org/) (DORA) sowie dem [Leiden Manifesto](http://www.leidenmanifesto.org/) festgelegt sind, sowie zu einem gerechteren, objektiveren und robusteren System der Forschungsbewertung.
 
--   Untersuchung des potenziellen Nutzens einer breiten Palette potenzieller
-    Forschungsevaluierungsquellen, einschließlich Vorregistrierungen,
-    registrierter Berichte, solcher zu Software, Materialien und Daten, sowie
-    öffentlicher Öffentlichkeitsarbeit und Bürgerforschung.
+-   Ziehe den Einsatz alternative Metriken in Betracht - einschließlich solcher, die explizit zur Messung der Openness entwickelt wurden [(Nichols und Twidale, 2017)](https://doi.org/10.1002/asi.23741).
 
--   Wissenschaftlich fundierte Bewertung: Experimentieren vor der
-    Implementierung einer Metrik, um den Umfang, die Verzerrungen und die Zwänge
-    jeglicher quantitativer Maßnahmen besser zu verstehen.
+   -   Siehe hierzu auch die [Humane Metrics Initiative](http://humetricshss.org/about/) und das [Metrics Toolkit](http://www.metrics-toolkit.org/).
 
-Fragen der Transparenz und Reproduzierbarkeit gelten sowohl für die Wissenschaft
-selbst als auch für die Mechanismen, an denen unsere Forschung gemessen wird
-(z.B. ob eine Metrik unabhängig reproduzierbar ist). [Furner,
-2014](http://www.jonathanfurner.info/docs/furnerInPress-a.pdf) bietet einen
-ethischen Rahmen für die Bibliometrie, der auf breitere Metriken verallgemeinert
-werden kann.
+   -   Untersuche den möglichen Nutzen einer breiten Palette potenzieller Forschungsevaluierungsquellen, einschließlich Vorregistrierungen, registrierter Berichte (siehe "[registered reports](https://cos.io/rr/)") einschließlich solcher zu Software, Materialien und Daten, sowie Öffentlichkeitsarbeit im weiteren Sinne und Citizen Science.
 
-Natürlich gibt es auch Gefahren mit neuen Metriken, da *alle* Metriken gespielt
-werden können und neue Metriken neue, wenig verstandene Möglichkeiten zum
-Spielen bieten. Neue Metriken lösen auch nicht das Publishing- oder
-Perish-Problem, sondern übertragen es nur.
+-   Wissenschaftlich fundierte Bewertung & Assessment: Vorab-Experimente, bevor die Implementierung einer Metrik vorgenommen wird, um den Umfang, die Verzerrungen und die Limitierungen quantitativer Maßnahmen besser verstehen zu können.
 
-5.6 Gemeinschaft und Integration
----------------------------------
+Fragen der Transparenz und Reproduzierbarkeit gelten sowohl für Wissenschaft und Forschung selbst als auch für die Mechanismen, an denen unsere Forschung gemessen wird (z.B. ob eine Metrik unabhängig reproduzierbar ist). [Furner, 2014](http://www.jonathanfurner.info/docs/furnerInPress-a.pdf) bietet einen ethischen Rahmen für die Bibliometrie, der auf breitere Metriken verallgemeinert werden kann.
 
-Motiviert durch die Erkenntnis, dass das Stipendium alle Stimmen erfordert, und
-die Einbeziehung einer engagierten Gemeinschaft von Akteuren, versucht Open
-Scholarship sicherzustellen, dass Vielfalt und Integration Schlüsselprinzipien
-in wissenschaftlichen Gesprächen sind. Dieser Faktor wird in den anderen von
-Fecher und Frieseke (2013) definierten Schulen angesprochen, aber aufgrund von
-Diskussionen und Ereignissen seit dieser Veröffentlichung sind wir der Meinung,
-dass ein eigener Abschnitt hier angebracht ist, um seine Bedeutung
-hervorzuheben.
+Natürlich birgt auch die Einführung neuer Metriken Gefahren, da *alle* Metriken in die Irre geführt bzw. mißbraucht werden können und neue Metriken neue, bisher wenig erforschte Möglichkeiten zur Manipulation bieten. Neue Metriken lösen auch nicht das "Publish-or-Perish"-Problem, sondern übertragen es nur.
+
+## 5.6 Gemeinschaft und Integration  <a name="Community"></a>
+
+Motiviert durch die Erkenntnis, dass Forschung eine Integration möglichst aller Perspektiven und Meinungen genauso erfordert wie die Einbeziehung einer engagierten Community von Akteuren, versucht Open Scholarship sicherzustellen, dass Vielfalt und Integration Grundlage aller wissenschaftlichen Konversation darstellt. Dieser Aspekt wird zwar mit den anderen von Fecher und Frieseke (2013) definierten Denkschulen bzw. Schools of Thought teilweise gestreift, aber aufgrund von zahlreichen geführten Diskussionen und seitdem stattgefundenen Ereignissen sind wir der Meinung, dass ein eigener Abschnitt hier angebracht ist, um die  Bedeutung dieses Themas hervorzuheben.
 
 Zu den wichtigsten Aspekten gehören hier:
 
 -   Vielfalt und Inklusivität.
 
--   Die Definition von Vielfalt ist komplex und vielschichtig, bedeutet aber in
-    der Regel die Förderung von Toleranz und Einbeziehung von Menschen mit
-    unterschiedlichem Hintergrund. Dazu gehören Dimensionen von Ethnizität und
-    Kultur, Psychographie, Geographie, Fähigkeit, Geodiversität, Neurodiversität
-    und andere demographische Aspekte.
+   -   Die Definition von Vielfalt ist sicherlich so komplex und vielschichtig, dass sie hier nicht allumfassend abgebildet werden kann. Für die Verwendung in diesem Dokument gehen wir aber davon aus, dass damit in der Regel die Förderung von Toleranz und Einbeziehung von Menschen mit unterschiedlichem Hintergrund gezählt werden kann. Dazu zählen für uns Dimensionen von Ethnizität und Kultur, Psychographie, Geographie, Fähigkeiten und Fertigkeiten, Geodiversität, Neurodiversität sowie andere demographische Aspekte.
 
--   Es liegt in der Verantwortung der breiteren Open Scholarship-Gemeinschaft,
-    ein Bewusstsein dafür zu schaffen, dass die Vielfalt und Inklusivität der
-    Gemeinschaft grundlegende Prinzipien sind.
+   -   Es liegt in der Verantwortung der Open Scholarship-Community als Ganzes, ein Bewusstsein dafür zu schaffen, dass Vielfalt und Inklusivität grundlegende Prinzipien der Gemeinschaft darstellen.
 
--   Dazu gehört die Entwicklung von Werkzeugen und Techniken zur Behebung
-    bestehender Probleme; und
+   -   Dazu gehört die Entwicklung von Werkzeugen und Techniken zur Behebung bestehender Probleme; und
 
--   Schaffung und Verbreitung von Forschungsressourcen.
+   -   die Erstellung und Verbreitung von Forschungsressourcen.
 
--   Der gemeinschaftliche Zusammenhalt und die Vermittlung von Botschaften
-    müssen ein Grundprinzip für die Open Scholarship-Gemeinschaft sein und auf
-    alle anderen verwandten Gemeinschaften ausgedehnt werden. Als Teil davon
-    muss die Gemeinschaft:
+-   Der gemeinschaftliche Zusammenhalt und offene Kommunikation stellen ein Grundprinzip für die Open Scholarship-Community dar, und sollten auf alle verwandten Communities ausgeweitet werden. Als Teil davon sollte die Community:
 
--   Entwickeln und praktizieren Sie geeignete Standards;
+   -   geeignete Standards entwickeln und praktizieren;
 
--   Erstellung von Lehrplänen für Praktiker;
+   -   Offene Lehr-/Lernmaterialien und -pläne für Praktikerinnen und Praktiker bereitstellen;
 
--   Erhalten Sie öffentliche Güter und öffentliche Gelder;
+   -   öffentliches Gut und öffentliche Finanzierung sicherstellen;
 
--   Zusammenarbeit mit anderen verwandten oder sich überschneidenden
-    Communities, einschließlich Open Science Hardware und Open Source Software,
-    in gemeinsamen Interessengebieten.
+   -   mit themenverwandten oder sich inhaltlich überschneidenden Communities einschließlich derer zu Open Science Hardware und Open Source Software zu gemeinsamen Interessengebieten vernetzen und zusammenarbeiten.
 
--   Community Wissenschaft (auch bekannt als Citizen Science) (auch im
-    [öffentlichen Interesse](#Public) erwähnt[)](#Public), einschließlich:
+-  Fokus auf Community Science (auch bekannt als Citizen Science) legen (dies liegt auch im [öffentlichen Interesse](#Public)), einschließlich:
 
--   Bewältigung gemeindegetriebener Megaprojekte;
+   -  der Bewältigung von durch die Community gesteuerter Megaprojekte;
 
--   Spill-over-Effekte von und zu Bildung; und
+   -   der Nutzung von Spill-over-Effekte vom und in den Bildungssektor; und
 
--   Stärkung der Fähigkeit, sich intellektuell zu beteiligen, Rechenleistung,
-    biologische Proben oder andere Ressourcen, einschließlich Geld (Crowdfunded
-    Research), für Forschungsprojekte zu spenden.
+   -   der Stärkung der Fähigkeit, sich intellektuell zu beteiligen, Rechenleistung, biologische Proben oder andere Ressourcen, einschließlich Finanzmittel (Crowdfunded Research) für Projekte aus Wissenschaft und Forschung zu spenden.
 
-6. Bewegungsstärken
-====================
 
-Dieser Abschnitt der Strategie beschreibt einige der Stärken des Offenen
-Stipendiums"Bewegung" oder"Gemeinschaft".
+# 6. Stärken der Open Scholarship-Bewegung <a name="Strengths"></a>
 
--   **Organisationsstruktur und kollektive Wirkung.**
+Dieser Abschnitt der Strategie beschreibt einige der Stärken der sog. Open Scholarship-"Bewegung" oder auch -"Community".
 
--   Die weltweite wissenschaftliche Gemeinschaft ist groß, umfasst alle
-    Kontinente und ist eingebettet in starke Forschungs- und Hochschulinstitute.
-    Die"Open"-Bewegung geht über die reine Wissenschaft hinaus und bezieht sich
-    auf weitere Bereiche wie Open Culture, Open Government, Open Source und Open
-    Society. Daher ist die potenzielle kollektive Wirkung, die die Bewegung
-    haben kann, enorm, mit Auswirkungen auf die globale Gesellschaft, zum
-    Beispiel die Beeinflussung der
-    [UNO-Ziele](http://www.unfoundation.org/features/globalgoals/the-global-goals.html)
-    für [nachhaltige
-    Entwicklung](http://www.unfoundation.org/features/globalgoals/the-global-goals.html).
+-   **Organisationsstruktur und gemeinschaftlicher Impact.**
 
-Abbildung_6: Ziele der Vereinten Nationen für nachhaltige Entwicklung
+-   Die globale Wissenschaftsgemeinschaft umfasst alle Kontinente und ist eingebettet in starke Forschungs- und Wissenschaftsinstitutionen. Die "Openness"-Bewegung reicht über die reine Wissenschaft hinaus und hat Verknüfpungen zu weiteren Bereiche wie Open Culture, Open Government, Open Source und Open Society. Daher scheint der potenzielle kollektive Impact, den die Bewegung erzielen kann, enorm - mit Auswirkungen auf die globale Gesellschaft, beispielsweise bei der Umsetzung der [UN Sustainable Development Goals](http://www.unfoundation.org/features/globalgoals/the-global-goals.html).
 
-Abbildung_6: Ziele der Vereinten Nationen für nachhaltige Entwicklung
+![Abbildung_6: United Nations Sustainable Development Goals](images/UN_sustainable.png)\
 
-*siehe Website der*
-[UNO](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
-zu den [Zielen der nachhaltigen
-Entwicklung](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
+*siehe Website der [UN Sustainable Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/) website*
 
--   Open Scholarship-Aktivismus als Teil einer breiteren Open Bewegung
-    profitiert von Kreuzkooperationen mit Befürwortern aus verschiedenen
-    Sektoren. Zum Beispiel wird Open Scholarship jetzt als Tor zu Open Education
-    gesehen, hat aber durch Erfahrungen aus der Open Source-Bewegung eine
-    verstärkte Politik.
+-   Open Scholarship-Aktivitäten als Teil einer breiteren Openness-Bewegung profitiert von Synergien aus Kooperationen mit Befürwortern aus anderen Sektoren. So wird beispielsweise Open Scholarship als Schnittstelle zu Open Education gesehen, kann aber auch auf einen Erfahrungsschatz und Policies zurückgreifen, die im Austausch mit der Open Source-Bewegung geformt und gestärkt wurden.
 
 -   **Vielfältige Beteiligung von leidenschaftlichen Menschen.**
 
