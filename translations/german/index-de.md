@@ -570,179 +570,81 @@ Wichtig ist, dass Demokratie für Open Scholarship nicht nur gleicher Zugang zu 
 
 In der Tat scheint es ziemlich unwahrscheinlich, dass mehr als 10 Millionen hochgebildete und intelligente Wissenschaftlerinnen und Wissenschaftler sich mit Regeln einverstanden zeigen würden, die ohne ihr Zutun von einer kleinen Anzahl von Menschen (oder - schlimmer noch - von Advokatengruppen mit primär finanziellen Interessen) für sie eingeführt wurden. Ein wahrscheinlicheres Szenario ist, dass die neuen Regeln für Open Scholarship in öffentlicher Diskussion durch viele gemeinsame Projekte in kollektiv-geteilter Erstellung  - genau wie die hier vorliegende Strategie - erscheinen werden. Es zahlreiche spezifizierte Maßnahmen und Herangehensweisen vorgeschlagen, um demokratische Werte in Open Scholarship dezentral zu verwirklichen, darunter Peer-to-Peer- und Blockchain-basierte Mechanismen.
 
-Wenn wir auf die Etablierung von Prinzipien des Open Scholarship hinarbeiten, erkennen wir an, dass es ein Potenzial für Komplexität oder sogar Konflikte in unseren Zielen gibt, wenn sich Richtlinien, Policies und Arbeitspraktiken weiterentwickeln. Das Bewusstsein für die breitere Wissenschafts-, Forschungs-, und Bildungslandschaft wird dazu beitragen, Open Scholarship so zu positionieren, dass es die größtmögliche Wirkung entfalten kann und das Potenzial anderer Politiken und Prioritäten zur
-Begrenzung seines Potenzials abschwächt. Beispielsweise sollten
-Urheberrechtsvorschläge in der EU, die eine Beschränkung der Befugnis zur
-Durchführung von TDM (Text und Data Mining) oder Maßnahmen zur Förderung des
-geistigen Eigentums (IP) und der Kommerzialisierung vorsehen, mit Maßnahmen, die
-eine breite Nutzung von Daten, Forschung und Wissen ermöglichen, in Einklang
-gebracht werden. Es gibt eine Reihe von [Initiativen](https://fixcopyright.eu/),
-die auf die Entwicklung von Copyright-Frameworks hinarbeiten, die dem
-Open Stipendium helfen.
+Wenn wir auf die Etablierung von Prinzipien des Open Scholarship hinarbeiten, erkennen wir an, dass es potentiell Komplexität oder sogar Konflikte auf diesem Weg geben wird, wenn sich Richtlinien, Policies und Arbeitspraktiken weiterentwickeln. Das Bewusstsein für die breitere Wissenschafts-, Forschungs-, und Bildungslandschaft wird dazu beitragen, Open Scholarship so zu positionieren, dass es die größtmögliche Wirkung entfalten kann und das Potenzial anderer, gegenläufiger Policies und Prioritäten abschwächt. So sollten beispielsweise Vorschläge zur Novellierung des Urheberrechts in der EU, die eine Beschränkung der Befugnis zur Durchführung von TDM (Text und Data Mining) oder Maßnahmen zur Förderung des geistigen Eigentums (IP) und der Kommerzialisierung vorsehen, mit Maßnahmen, die eine breite Nutzung von Daten, Forschung und Wissen ermöglichen, in Einklang gebracht werden. Es gibt eine Reihe von [aktuellen](https://www.communia-association.org/) [Initiativen](https://fixcopyright.eu/), die auf die Entwicklung von Copyright-Frameworks hinarbeiten, die der Sache von Open Scholarship zuträglich sind.
 
-Weitere spezifische Aspekte sind:
+Weitere Aspekte:
 
--   [Open Access-Publishing](bit.ly/oa-book), das nicht nur den freien
-    Lesezugriff, sondern auch die Wiederverwendung und Verbreitung in
-    größtmöglichem Umfang ermöglicht. Viele glauben, dass der Zugang zu
-    wissenschaftlichen Erkenntnissen ein grundlegendes Menschenrecht ist.
+-   [Open Access-Publishing](bit.ly/oa-book), das nicht nur freien Lesezugriff, sondern auch die Wiederverwendung und Verbreitung in größtmöglichem Umfang ermöglicht. Viele glauben, dass der Zugang zu Erkenntnissen aus Wissenschaft und Forschung ein grundlegendes Menschenrecht darstellt.
 
--   Eines der stärksten Argumente für Open Access ist, dass öffentlich (oder vom
-    Steuerzahler) finanzierte Forschung der Öffentlichkeit zugänglich sein
-    sollte. Die zunehmende Finanzierung der Forschung durch den Privatsektor ist
-    derzeit nur schwer mit dieser Sichtweise zu vereinbaren.
+-   Eines der stärksten Argumente für Open Access ist, dass öffentlich (oder durch Steuern) finanzierte Forschung der Öffentlichkeit zugänglich sein sollte. Die zunehmende Finanzierung der Forschung durch den Privatsektor ist derzeit nur schwer mit dieser Ansicht und Forderung zu vereinbaren.
 
--   Offene Lizenzen, Lizenzen und Rechteverzichte für Urheberrechte, die sowohl
-    für Menschen als auch für Maschinen verständlich sind. Typischerweise wurde
-    dies durch eine Kombination aus Creative Commons und
-    Open Source-Lizenzierung verwaltet.
+-   Open Licensing / Offene Lizenzen, Lizenzierung und Urheberrechtsverzicht-/abtretungen, die sowohl für Menschen als auch für Maschinen lesbar sind. Üblicherweise wird dies durch eine Kombination aus [Creative Commons](https://creativecommons.org/faq/#what-does-it-mean-that-creative-commons-licenses-are-machine-readable) und Open Source-Lizenzierung erreicht.
 
--   Weg von der Patentierung.
+-   Abkehr von üblichen Patentierungspraktiken.
 
--   Ein Beispiel für den offenen Ansatz des Patentmanagements ist "weak
-    licensing - strong certification" - eine Situation, die in der Medizin
-    besonders einfach anzuwenden ist, wo therapeutische Geräte oder Wirkstoffe
-    nur schwach patentiert sind, aber die Anforderungen an den Markteintritt von
-    der Regulierungsbehörde hoch angesetzt werden.
+   -   Als Beispiel für einen offenen Ansatz des Patentmanagements kann das "weak licensing - strong certification" gelten - eine Situation, die besonders in der Medizin einfache Anwendung finden kann, da dort therapeutische Geräte oder Wirkstoffe im Sinne des Patentrechts nur schwach lizensiert sind, aber die Anforderungen zum Markteintritt von der Regulierungsbehörde hoch gesetzt werden.
 
--   Anerkennung des Wertes von Open Source und offener Wissenschaft bei der
-    Beschleunigung von Innovation und Forschung (z.B. [Wölfle et al.,
-    2011;](https://doi.org/10.1038/nchem.1149) [Balasegaram et al.,
-    2017)](https://doi.org/10.1371/journal.pmed.1002276).
+-   Erkenne den Mehrwert von Open Source und Open Scholarship an, um Innovations- und Forschungsentwicklung zu beschleunigen (z.B. [Wölfle et al., 2011](https://doi.org/10.1038/nchem.1149); [Balasegaram et al., 2017)](https://doi.org/10.1371/journal.pmed.1002276).
 
--   Änderung der Veröffentlichungsnormen, um alle Objekte innerhalb einer
-    Forschungsausgabe mit den FAIR-Prinzipien in Einklang zu bringen.
+-   Ändere Veröffentlichungsnormen, um alle Objekte innerhalb eines Forschungsbeitrags mit den FAIR-Prinzipien in Einklang zu bringen.
 
--   Software und Code leicht verfügbar, wiederverwendbar, zitierbar und formell
-    als Forschungsergebnis anerkannt, zusammen mit Forschungsartikeln, Daten und
-    Metadaten.
+   -   Mache Software und Code leicht verfügbar, wiederverwendbar, zitierbar und zusammen mit Forschungsartikeln, Daten und Metadaten formell als Forschungsergebnis anerkannt.
 
--   Breitere Nutzung von Datenrepositorien und Datenjournalen zur gemeinsamen
-    Nutzung von Forschungsergebnissen, ohne Einschränkung durch
-    wissenschaftliche Verlage. Dies ermöglicht die Wiederverwendung von Daten
-    durch andere in einer Weise, die von den ursprünglichen Erstellern entweder
-    vorhergesehen oder unvorhergesehen ist.
+   -   Etabliere eine breitere Nutzung von Datenrepositorien und Data Journals, um das nicht durch wiss. Verlage eingeschränkte Teilen von Forschungsergebnissen zu ermöglichen. Somit wird die Wiederverwendung von Daten durch andere in einer Weise ermöglicht, die entweder von den ursprünglichen Erstellern vorhergesehen ist, oder auch neue, bisher unvorhergesehene Anwendung finden kann.
 
--   Da eine der größten Schwierigkeiten für die Einhaltung dieser Vorgaben der
-    zusätzliche Aufwand ist, den man empfindet, wenn man die Arbeit auf eine
-    konforme Art und Weise teilen will, sind automatisierte oder barrierefreie
-    Methoden der Verbreitung von entscheidender Bedeutung.
+   -   Da eine der größten Schwierigkeiten für die Einhaltung dieser Vorgaben der zusätzliche (gefühlte) Aufwand ist, um die Arbeit auf eine mit den Richtlinien konforme Art und Weise zu teilen, sind (teil-)automatisierte oder möglichst unkomplizierte Verbreitungsmethoden von entscheidender Bedeutung.
 
--   Forschungsmaterial-Repositorien und die gemeinsame Nutzung physikalischer
-    Forschungsergebnisse.
+-   Forschungsdaten-Repositorien und die gemeinsame Nutzung physikalischer Forschungsergebnisse.
 
--   Der Austausch von Forschungsmaterial ist entscheidend für die
-    Reproduzierbarkeit, den Abbau von Redundanzen und die Förderung einer
-    offenen wissenschaftlichen Zusammenarbeit. Fragen wurden von [Science
-    Commons](https://creativecommons.org/about/program-areas/Open science/)
-    empirisch untersucht.
+   -   Der Austausch von Forschungsmaterialien ist entscheidend für die Reproduzierbarkeit und Redundanz-Reduzierung von Forschung sowie zur Förderung einer offenen wissenschaftlichen Zusammenarbeit. Zahlreiche diesbezügliche Aspekte wurden von [Science Commons](https://creativecommons.org/about/program-areas/Open science/) empirisch untersucht.
 
--   Austausch von gut kuratiertem und kommentiertem Material innerhalb von
-    Gemeinden ohne restriktive Lizenzverträge oder komplexe
-    Materialtransfervereinbarungen, die den wissenschaftlichen Fortschritt
-    aufgrund komplexer Rechtssprache oder strenger Bedingungen verlangsamen.
+-   Austausch von kuratiertem und kommentiertem/annotiertem Material innerhalb von Communities ohne restriktive Lizenzverträge oder komplexe Materialtransfervereinbarungen, die den wissenschaftlichen Fortschritt aufgrund komplexer Rechtssprache oder strenger Nutzungsbedingungen verlangsamen.
 
--   Streamlined Material Transfer Agreements (MTAs) und Open Scholarship Trust
-    Agreements (OSTAs) - rechtliche Vereinbarungsvorlagen, die für jeden
-    Forscher, unabhängig von der Disziplin, an jeder Institution leicht geändert
-    werden können, um fast alle Kategorien von Forschungsmaterialien, die sie im
-    Laufe ihrer Forschung generieren, einfach zu teilen und effiziente, offene
-    und kooperative wissenschaftliche Praktiken zu ermöglichen. Die hier
-    beschriebenen Grundsätze "Das Kernmerkmal von Treuhandvermögen zum Wohle
-    anderer ist gut geeignet, eine Forschungsgemeinschaft aufzubauen, die
-    Reagenzien als öffentliches Gut behandelt". [Edwards et al
-    (2017)](https://doi.org/10.1126/scitranslmed.aai9055).
+-   Vereinheitliche Material Transfer Agreements (MTAs) und Open Scholarship Trust Agreements (OSTAs) - rechtliche Vereinbarungsvorlagen, die für jede Forscherin und jeden Forscher, unabhängig von der Disziplin, an jeder Institution leicht geändert werden können, um fast alle Kategorien von Forschungsmaterialien, die sie im Laufe ihrer Forschung generieren, einfach zu teilen und effiziente, offene und kooperative wissenschaftliche Praktiken zu ermöglichen. Das Prinzip wird bei Edwards et al (2017) wie folgt näher beschrieben: "The core feature of trusts—holding property for the benefit of others is well suited to constructing a research community that treats reagents as public goods." [Edwards et al (2017)](https://doi.org/10.1126/scitranslmed.aai9055)
 
--   Z.B. OSTA-Vorlage: [SGC](https://www.thesgc.org/click-trust) "click-trust"
-    Vereinbarung Z.B. MTA (Material Transfer Agreement) Vorlagen durch [Science
-    Commons](https://creativecommons.org/about/program-areas/Open science/)
+-   Z.B. OSTA-Vorlage: [SGC](https://www.thesgc.org/click-trust) "click-trust"-Vereinbarung z.B. MTA (Material Transfer Agreement)-Vorlagen über [Science Commons](https://creativecommons.org/about/program-areas/Open science/)
 
--   OER (Open Educational Resources). Weitere Informationen hierzu finden Sie in
-    den [Grundlagen](http://www.oerstrategy.org/home/read-the-doc/) der
-    [OER-Strategieentwicklung](http://www.oerstrategy.org/home/read-the-doc/).
+-   OER (Open Educational Resources). Weitere Informationen hierzu unter: [Foundations for OER Strategy Development](http://www.oerstrategy.org/home/read-the-doc/).
 
-5.2 Pragmatismus und Transparenz
----------------------------------
+## 5.2 Pragmatismus und Transparenz <a name="Pragmatism"></a>
 
-Dem Grundsatz folgend, dass die Schaffung von Wissen durch Zusammenarbeit
-effizienter und durch Kritik gestärkt wird, versucht Open Scholarship
-Netzwerkeffekte zu nutzen, indem es Wissenschaftler verbindet und
-wissenschaftliche Prozesse auf allen Ebenen transparent macht. Eine solche
-Optimierung kann durch die Modularisierung des Prozesses der Wissensbildung, die
-Öffnung der wissenschaftlichen Wertschöpfungskette, die Integration externer
-Wissensquellen und kollektiver Intelligenz sowie die Erleichterung der
-Zusammenarbeit durch Online-Tools und Plattformen erreicht werden. Diese Art von
-Offenheit im Forschungsprozess selbst stellt einen Paradigmenwechsel vom
-traditionellen geschlossenen und unabhängigen Charakter der Forschung dar.
+Dem Grundsatz folgend, dass die Schaffung von Wissen durch Zusammenarbeit effizienter und durch Kritik gestärkt wird, versucht Open Scholarship Netzwerkeffekte zu nutzen, indem es Wissenschaftlerinnen und Wissenschaftler verbindet und Prozesse aus Wissenschaft und Forschung auf allen Ebenen transparent macht. Eine solche Optimierung kann durch die Modularisierung des Wissensbildungs-Prozesses, die Öffnung der wissenschaftlichen Wertschöpfungskette, die Integration externer Wissensquellen und kollektiver Intelligenz sowie die Erleichterung der Zusammenarbeit durch Online-Tools und -Plattformen erreicht werden. Diese Art von Openness/Offenheit im Forschungsprozess selbst stellt einen Paradigmenwechsel weg vom traditionell geschlossenen und unabhängigen Charakter der Forschung dar.
 
-Weitere wichtige Aspekte sind:
+Weitere wichtige Aspekte:
 
--   Der Prozess hinter der Forschung sollte so transparent wie möglich und so
-    abgeschlossen wie nötig sein (z.B. um sensible Daten zu schützen).
+-   Hinter Forschung liegende Prozesse sollten so transparent wie möglich und so geschlossen wie nötig sein (z.B. um sensible Daten zu schützen).
 
--   Reproduzierbarkeit [(Leek and Peng,
-    2015;](https://doi.org/10.1073/pnas.1421412111) [Patil et al.,
-    2016)](https://doi.org/10.1101/066803), erhöht durch erhöhte Transparenz der
-    Forschungsprozesse selbst und nicht nur der Ergebnisse.
+-   Reproduzierbarkeit kann durch erhöhte Transparenz der Forschungsprozesse selbst weiter verbessert werden [(Leek and Peng,2015](https://doi.org/10.1073/pnas.1421412111); [Patil et al., 2016)](https://doi.org/10.1101/066803), nicht nur durch die Offenlegung der Ergebnisse.
 
--   Enthält Kernaspekte wie offene Methoden, Zugang zu Forschungswerkzeugen für
-    offenes Arbeiten sowie transparentere Forschungsabläufe rund um Preprints
-    und Open Peer Review.
+   - Dies beinhaltet Kernaspekte wie offene Methoden, Zugang zu Forschungswerkzeugen für offenes Arbeiten sowie transparentere Forschungsabläufe rund um Preprints und Open Peer Review.
 
--   Dies kann helfen, laufende Reproduzierbarkeitskrisen in der Medizin,
-    Psychologie, Ökonomie und Soziologie zu lösen.
+   -   Dies kann helfen, die bestehenden Reproduzierbarkeitskrisen in der Medizin, Psychologie, Ökonomie und Soziologie zu lösen.
 
--   Die Forscher sollten bestrebt sein, die Ergebnisse in einem Forschungspapier
-    durch entsprechend dokumentierte Daten und Code automatisch zu generieren.
-    Um dies so einfach wie möglich zu gestalten, gibt es jetzt eine Reihe von
-    Web 2.0-Tools.
+   -   Wissenschaftlerinnen und Wissenschaftler sollten bestrebt sein, die Ergebnisse in einem Forschungspapier durch entsprechend dokumentierte Daten und Code automatisch zu generieren. Um dies so einfach wie möglich zu gestalten, existieren mittlerweile eine Reihe von Web 2.0-Tools.
 
--   Replizierbarkeit, um ähnliche Schlussfolgerungen aus neuen Experimenten,
-    Beobachtungen und Analysen auf der Grundlage eines zuvor veröffentlichten
-    Manuskripts zu erhalten.
+   -   Verbesserung der Replizierbarkeit, um ähnliche Schlussfolgerungen aus neuen Experimenten, Beobachtungen und Analysen auf der Grundlage eines zuvor veröffentlichten Manuskripts zu erhalten.
 
--   Nachhaltigkeit der Forschung durch verbesserten Zugang zu Fachwissen,
-    Zusammenarbeit, Wissensaggregation und gesteigerter Produktivität.
+-   Sicherung der Forschungs-Nachhaltigkeit durch verbesserten Zugang zu Fachwissen, Zusammenarbeit, Wissensaggregation und gesteigerter Produktivität.
 
--   In der Lage sein, die Ergebnisse innerhalb eines Papiers dauerhaft zu
-    testen, was die Datenarchivierung und die Langlebigkeit und Versionierung
-    der Software einschließen würde.
+   -  Stelle sicher, dass Forschungsergebnisse innerhalb eines Papiers dauerhaft getestet werden - dies schließt Datenarchivierung, Versionierung von Datenständen und Langlebigkeit der eingesetzten Software ein.
 
--   Nutzen, indem Sie einen Workflow/Codebase/Tools starten und erweitern und
-    unnötige Doppelarbeit vermeiden.
+   -   Förderung und Weiterentwicklung der Arbeit anderer, indem damit begonnen wird, einen schon existierenden Workflow/Codebase/Tool zu nutzen, zu erweitern und somit insbesondere unnötige Doppelarbeit mit Blick auf technische Aufgaben zu vermeiden.
 
--   Einsatz der vielfältigen Web 2.0-Technologien für Kommunikation und
-    Zusammenarbeit, die dazu beitragen, die steigenden Anforderungen an
-    Produktivität und Forschungskomplexität zu erfüllen.
+-  Adaption und Einsatz der zahlreichen verfügbaren Web 2.0-Technologien für Kommunikation und Kollaboration, die dazu beitragen, die steigenden Anforderungen an Produktivität und Forschungskomplexität zu erfüllen.
 
--   Vieles davon hängt von der Bereitschaft der Forscher selbst ab, offen,
-    kollaborativ und kollektiv zur wissenschaftlichen Forschung beizutragen, und
-    nicht von einem persönlicheren Ansatz.
+-   Viel hängt von der Bereitschaft der Wissenschaftlerinnen und Wissenschaftler selbst ab, offen, kollaborativ und gemeinsam zu wissenschaftlicher Forschung beizutragen.
 
--   Die Motivation dafür hängt weitgehend davon ab, ob diese Forscher diesen
-    Prozess in irgendeiner Weise als vorteilhaft empfinden, z.B. indem sie einen
-    Return on Investment in Sozialkapital oder Prestige erzielen.
+   -   Die Motivation dazu hängt sicher weitgehend davon ab, ob diese Wissenschaftlerinnen und Wissenschaftler den Prozess in irgendeiner Weise als vorteilhaft empfinden, z.B. indem sie einen Return on Investment in Sozialkapital oder Prestige erzielen.
 
--   Viele Instrumente zur Erleichterung und Beschleunigung wissenschaftlicher
-    Entdeckungen und zur Verbesserung des Forschungsprozesses existieren bereits
-    in irgendeiner Form.
+-   Viele Instrumente zur Erleichterung und Beschleunigung wissenschaftlicher Entdeckungen und zur Verbesserung von Forschungsprozessen existieren bereits in irgendeiner Form.
 
--   Dazu gehören Social-Networking-Sites, elektronische Labor-Notebooks,
-    Datenarchive, Online-Zusammenarbeitsdienste, kontrollierte Vokabulare und
-    Ontologien und andere Plattformen für den Forschungsaustausch.
+   -   Dazu zählen bspw. Social-Networking-Sites, elektronische Labor-Notebooks, Datenarchive, Online-Kollaborationsplattformen, kontrollierte Vokabulare und Ontologien, sowie weitere Plattformen für den Forschungsaustausch.
 
--   Ein Schlüsselelement ihres Designs ist es, den Forschern zu helfen, das, was
-    sie bereits tun, durch Effizienz zu verbessern, anstatt sie im Hinblick auf
-    das, was die Forscher tun sollten, zu entwerfen.
+   -   Ein Kernelelement dieser Intstrumente besteht darin, Wissenschaftlerinnen und Wissenschaftlern dabei zu unterstützen, ihre Tätigkeiten mit mehr Effizienz durchzuführen.
 
--   Störungen, die über diese Struktur hinausgehen, und die enge Verknüpfung von
-    Forschungspraktiken mit fertigen Produkten, die auf Forschungspapieren
-    basieren, dürften keine Veränderungen bewirken. Dies liegt an der fehlenden
-    intrinsischen Motivation der Forscher, sich für Prozesse zu engagieren, die
-    ihnen keinen gegenseitigen Gewinn an Sozialkapital bieten.
+   -  Die oft kommunizierte Disruption, die aber über diese Elemente hinausgehen, sowie die enge Verknüpfung von Forschungspraktiken mit fertigen auf Forschungspublikationen basierenden Produkten, dürften aber vermutlich keine größeren Veränderungen bewirken. Dies liegt an der fehlenden intrinsischen Motivation der Forschenden, sich für Prozesse zu engagieren, da diese ihnen dann keinen Gewinn an Sozialkapital bieten würden.
 
-5.3 Infrastruktur
-------------------
+## 5.3 Infrastruktur <a name="Infrastructure"></a>
 
 Um die Vorteile von Open Scholarship in vollem Umfang nutzen zu können, sind
 Plattformen, Tools und Dienste für die Verbreitung und Zusammenarbeit
