@@ -784,6 +784,9 @@ Zu den wichtigsten Aspekten gehören hier:
    -   der Stärkung der Fähigkeit, sich intellektuell zu beteiligen, Rechenleistung, biologische Proben oder andere Ressourcen, einschließlich Finanzmittel (Crowdfunded Research) für Projekte aus Wissenschaft und Forschung zu spenden.
 
 
+
+
+
 # 6. Stärken der Open Scholarship-Bewegung <a name="Strengths"></a>
 
 Dieser Abschnitt der Strategie beschreibt einige der Stärken der sog. Open Scholarship-"Bewegung" oder auch -"Community".
@@ -798,288 +801,111 @@ Dieser Abschnitt der Strategie beschreibt einige der Stärken der sog. Open Scho
 
 -   Open Scholarship-Aktivitäten als Teil einer breiteren Openness-Bewegung profitiert von Synergien aus Kooperationen mit Befürwortern aus anderen Sektoren. So wird beispielsweise Open Scholarship als Schnittstelle zu Open Education gesehen, kann aber auch auf einen Erfahrungsschatz und Policies zurückgreifen, die im Austausch mit der Open Source-Bewegung geformt und gestärkt wurden.
 
--   **Vielfältige Beteiligung von leidenschaftlichen Menschen.**
+-   **Vielfältige Beteiligung engagierter Individuen**
 
--   Bedeutende Erfolge in der Offenen Wissenschaft werden oft
-    leidenschaftlichen, ausdauernden Verfechtern zugeschrieben, insbesondere in
-    den Bereichen Politik und Advocacy/Adoption. Diese Personen zeigen eine
-    große Fähigkeit, substanzielle Veränderungen zu erreichen und starke
-    Einflüsse zu erzeugen, fast im Alleingang. Als Gewinn für die Bewegung
-    werden sie besonders wichtig, wenn ihre Erfahrungen und ihr Wissen durch den
-    Aufbau von Kooperationen, Netzwerken und Gemeinschaften und Mentorenmodellen
-    geteilt und vervielfältigt werden können.
+   -   Bedeutende Erfolge in Open Scholarship sind oft durch die Arbeit leidenschaftlich engagierter Verfechterinnen und Verfechter möglich, insbesondere in den Bereichen Policy, Interessensvertretung und der Einführung des Themas in neuen Bereichen. Für das Open Scholarship-Movement werden sie besonders wichtig, wenn ihre Erfahrungen und ihr Wissen durch den Aufbau von Kooperationen, Netzwerken und Gemeinschaften und Mentorenmodellen geteilt und vervielfältigt werden können.
 
--   **Stärke der Forschung und Evidenz zur Unterstützung offener
-    Stipendienpraktiken.**
+-   **Forschungskraft und Evidenz zur Unterstützung von Open Scholarship-Praktiken**
 
--   Es gibt einen immer stärkeren Fall, der jetzt fast alle Aspekte des offenen
-    Stipendiums unterstützt. Einige wichtige Zusammenfassungen dieser Arbeit
-    sind [McKiernan et al., 2016,](https://doi.org/10.7554/eLife.16800) [Tennant
-    et al., 2016,](https://doi.org/10.12688/f1000research.8460.3) und
-    [McKiernan, 2017](https://doi.org/10.1371/journal.pbio.1002614). Die
-    Auswirkungen sind auf mehreren Ebenen zu sehen, von der Praxis des Einzelnen
-    bis hin zur nationalen Politik rund um Open Access und Open Science.
+   -   Es wird mehr und mehr deutlich, dass Open Scholarship in all seinen Facetten sinnvoll erscheint. Entsprechende Übersichts-Zusammenfassungen bspw. von [McKiernan et al., 2016](https://doi.org/10.7554/eLife.16800), [Tennant et al., 2016,](https://doi.org/10.12688/f1000research.8460.3) sowie [McKiernan, 2017](https://doi.org/10.1371/journal.pbio.1002614) können hier als Einstieg dienen. Der Impact des Open Scholarship-Unterfangens ist mittlerweile auf zahlreichen Ebenen - von der Praxis des Einzelnen bis hin zu nationalen Policies zu Open Access und Open Science sichtbar.
 
--   Wichtige Projekte, Gruppen und Wissenschaftler haben verschiedene Aspekte
-    von Open Scholarship und deren Auswirkungen erforscht und als fast
-    überwältigend positiv bewertet. Während die Bewegung wächst, wird sich die
-    Evidenzbasis und die Tiefe der kritischen Analyse weiter entwickeln und
-    reifen.
+   -   Wichtige Projekte, Gruppen und Wissenschaftler haben verschiedene Aspekte von Open Scholarship und deren Auswirkungen erforscht und als so gut wie ausschließlich positiv bewertet. Während die Bewegung wächst, wird sich die Evidenzbasis und die Tiefe der kritischen Analyse weiter entwickeln und reifen.
 
--   **Breite Kreativität bei der Erarbeitung technischer und soziotechnischer
-    Lösungen.**
+-   **Breite Kreativität bei der Erarbeitung technischer und soziotechnischer Lösungen**
 
--   Zum Beispiel"grüne" und"goldene" Wege zu Open Access. Die erste bezieht sich
-    auf die Selbstarchivierung, die zweite auf die Veröffentlichung in einer
-    Open Access-Zeitschrift. Während einige Varianten existieren (z.B. Diamant,
-    Bronze, Platin OA), gehen diese Modelle in der Regel über geografische,
-    institutionelle oder sektorale Variationen hinaus.
+   -  Als Beispiel kann hier der "grüne" und"goldene" Weg zu Open Access dienen. Grünes OA bezieht sich hier auf das Recht der Selbstarchivierung, wohingegen Gold OA die Veröffentlichung in einer Open Access-Zeitschrift benennt. Obwohl davon abgesehen auch Varianten existieren (z.B. Diamant, Bronze, Platin OA), so haben die Modelle von Grünem und Goldenem OA die weiteste Verbreitung über geografische, institutionelle oder sektorale Bereiche hinweg.
 
--   Das Wachstum und die Übernahme von Preprints als Methode, um die Forschung
-    schneller und transparenter zu machen. In den letzten zwei Jahren hat dies
-    zu einer sich rasant entwickelnden
-    [Landschaft](https://doi.org/10.31222/osf.io/796tu) rund um Preprints
-    geführt, in der sich technologische Innovationen und Gemeinschaftspraktiken
-    ständig anpassen.
+   -   Die Zunahme und Adoption des Preprint-Modells als Methode, um Forschungsergebnisse schneller verfügbar und transparenter zu machen. In den letzten zwei Jahren hat dies zu einer sich schnell entwickelnden [Landschaft](https://doi.org/10.31222/osf.io/796tu) rund um Preprints geführt, in der sich technologische Innovationen und Praktiken der Communities gegenseitig bei der Weiterentwicklung unterstützen.
 
--   **Verfügbarkeit von Open Scholarship Chartas und Erklärungen.**
+-   **Verfügbarkeit von Open Scholarship-Erklärungen, Satzungen und Chartas**
 
--   Dieses ständig wachsende Spektrum an hochrangigen Aussagen zur Unterstützung
-    von Offenheit (typischerweise [Open
-    Access)](http://oad.simmons.edu/oadwiki/Declarations_in_support_of_OA)
-    bietet intern konsistente Ziele und Maßnahmen, die das Ergebnis von viel
-    Denken und Diskutieren sind.
+   -   Das kontinuierlich wachsende Spektrum an hochrangigen Deklarationen zur Unterstützung von Offenheit/Openness (üblicherweise in der Form von [Open Access)](http://oad.simmons.edu/oadwiki/Declarations_in_support_of_OA), aber auch [weiter gefasst](http://tinyurl.com/scholcomm-charters)) bietet intern konsistente Ziele und Maßnahmen, die das Ergebnis zahlreicher Diskussionen auf unterschiedlichsten Levels darstellen.
 
--   **Starker Anstoß zur Entwicklung von Politikmodellen.**
+-   **Starke Impulssetzung zur Entwicklung von Policy-Modellen**
 
--   Dies ergibt sich aus einer Kombination von dynamischen, breiten und
-    kohärenten Top-down-Ansätzen (politische Initiativen von Geldgebern,
-    Regierungen, Institutionen) und Bottom-up-Ansätzen (Basis). Es bleibt
-    wichtig, dass der Imperativ und die Agenda für ein offenes Stipendium auf
-    höchster politischer Ebene anerkannt bleiben. Das UK House of Commons
-    Science and Technology
-    [Committee](https://www.parliament.uk/business/committees/committees-a-z/commons-select/science-and-technology-committee/news-parliament-2017/research-integrity3-evidence-17-19/)
-    in Sachen
-    [Forschungsintegrität](https://www.parliament.uk/business/committees/committees-a-z/commons-select/science-and-technology-committee/news-parliament-2017/research-integrity3-evidence-17-19/)
-    ist ein hervorragendes Beispiel dafür.
+   -  Dieser Aspekt ergibt sich aus einer Kombination von dynamischen, breit angelegten und kohärenten Top-Down-Ansätzen (politische Initiativen von Geldgebern, Regierungen, Institutionen) mit Bottom-Up-Ansätzen (Graswurzel-Bewegungen, Individuen). Es ist weiterhin essentiell, dass die Agenda für Open Scholarship auf höchster politischer Ebene anerkannt bleibt. Das UK House of Commons Science and Technology [Committee into research integrity](https://www.parliament.uk/business/committees/committees-a-z/commons-select/science-and-technology-committee/news-parliament-2017/research-integrity3-evidence-17-19/) kann als hervorragendes Beispiel dafür gelten.
 
-Ein Problem bei Top-down-Politiken ist, dass Einrichtungen wie Regierungen und
-Geldgeber von den Forschern verlangen, dass sie sich an Regeln für den
-Datenaustausch, offenen Code und ähnliches halten, aber nicht immer die
-Ressourcen oder Strukturen bereitstellen, die für ein konformes Verhalten
-erforderlich sind. Bottom-up-Politiken verknüpfen Best-Practices aus bestehenden
-wissenschaftlichen Forschungsgemeinschaften und sind im Vergleich zu
-Top-down-Ansätzen häufiger freiwillig als obligatorisch. Die Bewertung des
-Grades der Angleichung zwischen Top-Down- und Bottom-Up-Politik könnte dazu
-beitragen, zu verdeutlichen, wie beide Ansätze Open Scholarship besser
-berücksichtigen und fördern können.
+Eine Herausforderung, die Top-Down-Policies mit sich bringen, ist die Tatsache, dass Institutionen wie Regierungen und Geldgeber normativ vorgeben, an welche Regeln Forschende sich in Bezug auf Datenaustausch, offenen Code und ähnliches zu halten haben, aber oftmals keine entsprechenden Ressourcen oder Infrastruktur bereitstellen, um dieses Verhalten zu ermöglichen. Bottom-Up-Policies wiederum verknüpfen oftmals Best-Practices aus bestehenden wissenschaftlichen Forschungsgemeinschaften und sind im Vergleich zu Top-Down-Ansätzen häufiger freiwillig Selbstverpflichtungen im Gegensatz zum obligatorischen Dogma. Eine Bewertung des Alignments zwischen Top-Down- und Bottom-Up-Policies könnte dazu beitragen, Synergien aus beide Ansätzen zu schaffen und somit Open Scholarship besser zu fördern.
 
--   **Die Vielfalt der Ziele ermöglicht Fortschritte an vielen Fronten
-    gleichzeitig.**
+-   **Vielfalt an Zielen ermöglicht Fortschritte an vielen Fronten gleichzeitig**
 
--   Betrachtet man die Breite der Aspekte, die unter Open Scholarship fallen
-    (z.B. Open Access, Open Evaluation, Open Data, Open Source, Cititzen
-    Science), und die enorme Vielfalt der Organisationen und Individuen, die
-    diese vorantreiben, dann ist es möglich, die sich verändernde Landschaft der
-    Bewegung zu erfassen. Es wird für die parallele Entwicklung entscheidend
-    sein, dass diese Bemühungen in Zukunft stärker miteinander verknüpft werden.
+-   Betrachtet man die thematische Breite von Open Scholarship (z.B. Open Access, Open Evaluation, Open Data, Open Source, Cititzen Science) und die enorme Vielfalt der Organisationen und Individuen, die die Weiterentwicklung dieser Bereiche vorantreiben, so wird deutlich, die sich verändernde Themenlandschaft der Bewegung zu erfassen. Für eine konzertierte Weiterentwicklung wird es daher entscheidend sein, dass diese Bemühungen in Zukunft stärker miteinander verknüpft werden.
 
--   **Geographische Heterogenität und unterschiedlich erfolgreiche Initiativen**
 
--   So hat sich beispielsweise die [Scientific Electronic Library
-    Online](http://www.scielo.org/php/index.php?lang=en) (SciELO) in
-    Lateinamerika, Portugal und Südafrika eindeutig bewährt. Ebenso ist [Africa
-    Journals Online](https://www.ajol.info/) (AJOL) in Afrika sehr beliebt
-    geworden.
+-   **Geographische Heterogenität und Unterschiede in der erfolgreichen Realisierung von Initiativen**
 
--   Open Scholarship wurde von wichtigen internationalen Organisationen, die in
-    Forschung und Lehre tätig sind, anerkannt und wird von Instituten auf der
-    ganzen Welt stark unterstützt.
+-   Als Beispiel sei hier die die [Scientific Electronic Library Online](http://www.scielo.org/php/index.php?lang=en) (SciELO) genannt, die sich in Lateinamerika, Portugal und Südafrika etabliert hat. Ebenso erfreut sich [Africa Journals Online](https://www.ajol.info/) (AJOL) auf dem afrikanischen Kontinent großer Beliebtheit.
 
--   Open Scholarship haben in der Regel eine gemeinsame Sprache (meist
-    Englisch), um das Verständnis zu erleichtern (siehe unten, warum dies auch
-    eine Herausforderung sein kann).
+-   Open Scholarship wurde von wichtigen internationalen Organisationen, die in Wissenschaft, Forschung und Lehre tätig sind, anerkannt und erfährt Unterstützung durch Institutionen auf der ganzen Welt.
+
+-   Open Scholarship folgt im Allgemeinen einer gemeinsame Sprache (zumeist Englisch), um das Verständnis untereinander zu erleichtern. Weiter unten wird weiter darauf eingegangen, inwiefern dies auch eine Herausforderung darstellen kann.
+
 
 -   **Zugänglichkeit, Benutzerfreundlichkeit und Verbreitung.**
 
--   Die Open Scholarship-Bewegung veröffentlicht Artikel und Ressourcen, die in
-    der Regel kostenlos sind, von Google und anderen Suchmaschinen gut
-    indexiert, leicht auf mobilen Geräten zu lesen und schnell mit Hilfe von
-    Grafiken und Multimedia zu illustrieren. Diese Tendenz, sich der Technologie
-    anzuschließen, hilft der Open Scholarship-Bewegung, ihre Ideen breiter und
-    schneller zu verbreiten, als dies mit traditionellen Publikationsmethoden
-    möglich ist.
+-   Das Open Scholarship-Movement veröffentlicht Artikel und Ressourcen, die in der Regel kostenlos sind, von Suchmaschinen gut gefunden werden können, leicht auf mobilen Geräten zu lesen und schnell mit Hilfe eingängiger Grafiken und Multimedia-Inhalten illustriert sind. Die Bereitschaft, zeitgemäße Technologien zu nutzen, hilft dem Open Scholarship-Movement dabei, ihre Ideen schneller in die Breite zu tragen, als dies mit traditionellen Publikationsmethoden möglich wäre.
 
--   Entsprechende Praktiken wie die aktive Nutzung der plattformunabhängigen
-    Textformatierung (z.B. durch Abschriften), die Bereitstellung wohlgeformter
-    Dokumentstrukturen über klar beschriftete Überschriften, Absätze, etc, und
-    eine proaktive Zuordnung von Alt-Texten für Bilder und beschreibenden
-    Informationen für Grafiken, Videos usw. trägt nicht nur dazu bei,
-    Informationen maschinenlesbar zu machen, die für die korrekte Verbreitung
-    von Informationen über das Semantic Web benötigt werden, sondern hat auch
-    den zusätzlichen Vorteil, dass diese Informationen für Menschen mit
-    Zugangsbedürfnissen zugänglich sind (siehe z.B. die grundlegenden
-    Zugänglichkeitsrichtlinien des [UK Home Office
-    Digital)](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf).
+-   Entsprechende Praktiken wie die aktive Nutzung plattformunabhängiger Textformatierung (z.B. durch die Auszeichnungssprache Markdown), die Bereitstellung wohlgeformter Dokumentstrukturen über klar ausgezeichnete Überschriften, Absätze, etc, und eine proaktive Zuordnung von Alt-Texten für Bilder und beschreibende Informationen für Grafiken, Videos usw. trägt nicht nur dazu bei, Informationen maschinenlesbar zu machen, die für die korrekte Verbreitung von Informationen über das Semantic Web benötigt werden, sondern hat auch den Vorteil, dass diese Informationen auch barrierefrei zugänglich sind (siehe z.B. die grundlegenden Accessibility Guidelines des [UK Home Office Digital)](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf).
 
-7. Herausforderungen der Bewegung
-==================================
 
-Diese Herausforderungen stellen potenzielle Schwerpunkte der zukünftigen
-Diskussion, Forschung und Politikentwicklung dar. Sie umfassen sowohl externe
-Bedingungen im größeren Forschungsökosystem als auch interne Bedingungen, die
-innerhalb der Open Stipendium-Bewegung bestehen. Nicht alle Herausforderungen
-sind gleich oder in jedem potenziellen Kontext oder in jeder Gemeinschaft
-vorhanden. Diese werden jedoch häufig in Diskussionen über die Strategie des
-Open Scholarships diskutiert und sollten daher hier hervorgehoben werden.
+# 7. Herausforderungen, denen sich die Bewegung gegenübersieht <a name="Challenges"></a>
 
-7.1 Externe Bedingungen
-------------------------
+Diese Herausforderungen stellen potenzielle Schwerpunkte der zukünftigen Diskussion, Forschung und Policy-Entwicklung dar. Sie umfassen sowohl externe Bedingungen im größeren Ökosystem von Wissenschaft und Forschung als auch interne Bedingungen, die innerhalb der Open Scholarship-Bewegung bestehen. Nicht alle Herausforderungen sind gleich oder in jedem potenziellen Kontext oder in jeder lokalen Community vorhanden. Die folgenden Aspekte werden jedoch häufig in Diskussionen über Open Scholarship-Strategien diskutiert und sollten daher hier hervorgehoben werden.
+
+## 7.1 Externe Bedingungen
 
 -   **Private Interessen in Einklang bringen.**
 
-Es besteht derzeit wenig Konsens darüber, ob die Zukunft des Open Scholarship
-ausschließlich gemeinnützigen Einrichtungen gehören sollte, die von der globalen
-Wissenschaftsgemeinschaft regiert werden (einschließlich
-Wohltätigkeitsorganisationen und NGOs), oder ob es einen Raum für private oder
-geschäftliche Interessen gibt. Es ist wahrscheinlich, dass die Zukunft ein
-gemischtes Modell sein wird, das alle Akteurstypen vereint, obwohl die relative
-Position, Macht und der Status dieser Akteure noch abzuwarten sind. Hier bedarf
-es weiterer Diskussionen, um die weit verbreitete Trägheit der aktuellen
-Geschäftsmodelle zu überwinden. Dies schließt ein:
+Es besteht derzeit wenig Konsens darüber, ob Open Scholarship in Zukunft ausschließlich durch gemeinnützige Einrichtungen betrieben werden sollte, die von der globalen Wissenschaftscommunity gesteuert wird (einschließlich Wohltätigkeitsorganisationen, non-profits und NGOs), oder ob es Raum für private oder geschäftliche Interessen geben kann. Es scheint denkbar und wahrscheinlich, dass die Zukunft ein gemischtes Modell hervorbringen wird, das alle Akteurstypen vereint, obwohl die relative Position, Macht und der Status dieser Akteure noch unklar ist und weitere Entwicklungen abzuwarten sind. Hier bedarf es weiterer Diskussionen, um die weit verbreitete Trägheit der aktuellen Geschäftsmodelle zu überwinden. Dies schließt ein:
 
--   Überwindung des Missverständnisses, dass Open Scholarship eine
-    anti-commercial/demonstrating return on investment ist (z.B. [Balasegaram et
-    al.,](https://doi.org/10.1371/journal.pmed.1002276)
-    [2017](https://doi.org/10.1136/bmjOpen 2017-015997)[;](https://doi.org/10.1371/journal.pmed.1002276)
-    [Hakoum et al., 2017)](https://doi.org/10.1136/bmjOpen 2017-015997).
 
--   [Kulturkonflikt:](https://danielskatzblog.wordpress.com/2016/10/25/clash-of-cultures-why-all-science-isnt-Open science/)
-    Auflösung von Reibungen zwischen einem
-    [Scholarly-Commons-Modell](https://www.force11.org/group/scholarly-commons-working-group)
-    für die Forschung und dessen Betrieb innerhalb eines kapitalistischen
-    Rahmens.
+-   eine Überwindung des Missverständnisses, dass Open Scholarship zwingend anti-kommerziell orientiert ist (z.B. (e.g., [Balasegaram et al., 2017](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002276); [Hakoum et al., 2017](http://bmjopen.bmj.com/content/7/10/e015997))..
 
--   Suche nach der Entwicklung alternativer Geschäftsmodelle, wie dem
-    Konsortialansatz der Open Library of Humanities [(Eve und Edwards,
-    2015)](https://doi.org/10.16995/olh.46).
+-   Klärung potentieller Reibungen zwischen einem [Scholarly Commons](https://www.force11.org/group/scholarly-commons-working-group)-Modell für Wissenschaft und Forschung und dessen Betrieb innerhalb eines kapitalistischen Rahmens (siehe dazu bspw. Daniel S. Katz zu [Kulturkonflikt:](https://danielskatzblog.wordpress.com/2016/10/25/clash-of-cultures-why-all-science-isnt-Open science/)).
 
--   **Politische Agenden.**
+-   Aktive Entwicklung alternativer Geschäftsmodelle, wie bspw. das Konsortialmodell der Open Library of Humanities (siehe [(Eve und Edwards, 2015)](https://doi.org/10.16995/olh.46)).
 
-Open Scholarship zeichnet sich durch zahlreiche konkurrierende, parallele oder
-sich überschneidende Definitionen in Bezug auf Forschungsprinzipien und -praxis
-aus. Dementsprechend entwickeln Stakeholder wie Regierungen, öffentliche und
-private Geldgeber und Institutionen kontinuierlich verschiedene,
-unterschiedliche Strategien zur Steuerung von Open Scholarship-Initiativen.
+-   **Politische Agenden**
 
-Diese Richtlinien umfassen Länder, wissenschaftliche Disziplinen und Komponenten
-des Open Scholarship-Ökosystems und schreiben der wissenschaftlichen
-Forschungsgemeinschaft Regeln, Vorschriften und Richtlinien vor, unter anderem
-durch staatliche Maßnahmen, Förderungsanforderungen und institutionelle Mandate.
+Open Scholarship zeichnet sich durch zahlreiche konkurrierende, parallele oder sich überschneidende Definitionen in Bezug auf Forschungsprinzipien und -praxis aus. Dementsprechend entwickeln Stakeholder wie Regierungen, öffentliche und private Geldgeber und Forschungs- und Weiterbildungs-Institutionen kontinuierlich Strategien mit unterschiedlicher Ausprägung zur Steuerung von Open Scholarship-Initiativen.
 
--   Derzeit steht [Open
-    Science](https://ec.europa.eu/research/openscience/index.cfm) schon seit
-    einiger Zeit ganz oben auf der EU-Agenda. Das Hauptaugenmerk lag dabei
-    jedoch auf Wirtschaftswachstum, Entwicklung und Innovation. Die akademischen
-    und sozialen Kernaspekte des Open Scholarship scheinen hier weitgehend
-    vermisst worden zu sein.
+Diese Richtlinien überspannen Ländergrenzen, wissenschaftliche Disziplinen sowie Aspekte des Open Scholarship-Ökosystems und schreiben der Wissenschafts- und Forschungsgemeinschaft unter anderem durch staatliche Maßnahmen, Förderungsanforderungen und institutionelle Mandate Regeln, Vorschriften und Richtlinien vor.
 
--   Andere Länder haben im Allgemeinen nur langsam nationale Open
-    Science-Politiken oder -Strategien angenommen. Im Juli 2018 startete
-    Frankreich seinen [Nationalen Plan für offene
-    Wissenschaften,](https://libereurope.eu/wp-content/uploads/2018/07/SO_A4_2018_05-EN_print.pdf)
-    und die Niederlande haben auch einen [Nationalen Plan für offene
-    Wissenschaften](https://www.openscience.nl/en/Open science-in-the-netherlands).
+   -   So steht seit einiger Zeit [Open Science](https://ec.europa.eu/research/openscience/index.cfm) ganz oben auf der Agenda der Europäischen Kommission der EU. Das Hauptaugenmerk liegt hierbei jedoch klar auf Wirtschaftswachstum, Entwicklung und Innovation. Sowohl soziale Kernaspekte in als auch Wissenschaft und Forschung als essentielle Stakeholder von Open Scholarship scheinen hier weitgehend ausgeblendet worden zu sein.
 
--   Für Frankreich stand dabei der Nutzen für Forschung, Bildung, Wirtschaft und
-    Innovation sowie die Gesellschaft im Vordergrund. In den Niederlanden
-    scheint der Schwerpunkt eher auf der Öffnung der Forschung für die
-    Zusammenarbeit in sozialen und technologischen Fragen zu liegen. In Estland
-    scheint sich [Open
-    Science](http://www.etag.ee/wp-content/uploads/2017/03/Open Science-in-Estonia-Principles-and-Recommendations-final.pdf)
-    mehr auf die Rechte der Öffentlichkeit zu stützen, die Qualität der
-    Forschung und Zusammenarbeit zu verbessern und die sozialen und
-    wirtschaftlichen Auswirkungen zu erhöhen.
+   -   Generell ist festzustellen, dass Einzel-Staaten nur langsam nationale Open Science-Policies oder -Strategien implementiert haben. Im Juli 2018 startete Frankreich seinen [National Plan for Open Science](https://libereurope.eu/blog/2018/07/05/frenchopenscienceplan/) und auch die Niederlande haben einen [National Open Science Plan](https://www.openscience.nl/en/open-science-in-the-netherlands).
 
--   EU Horizon 2020 ist eine der bemerkenswertesten Regierungsinitiativen mit
-    offener Stipendienpolitik. Die Komponente Verantwortungsvolle Forschung und
-    Innovation (RRI) des Arbeitsprogramms "Wissenschaft mit und für die
-    Gesellschaft" macht beispielsweise offene Bildung, Forschung und Zugang zu
-    expliziten Zielen der EU-Politik möglich.
+   -   Für Frankreich stand dabei der Nutzen für Forschung, Bildung, Wirtschaft und Innovation sowie die Gesellschaft im Vordergrund. In den Niederlanden scheint der Schwerpunkt eher auf der Öffnung der Forschung für die Zusammenarbeit in sozialen und technologischen Fragen zu liegen. In Estland wiederum scheint sich [Open     Science](https://www.etag.ee/wp-content/uploads/2017/03/Open-Science-in-Estonia-Principles-and-Recommendations-final.pdf) mehr auf die Rechte der Öffentlichkeit zu stützen, die Qualität von Forschung und Zusammenarbeit zu verbessern und die sozialen und wirtschaftlichen Auswirkungen zu erhöhen.
 
--   Der FASTR Act, Open Government Data Act, [Federal Source Code
-    Policy;](https://sourcecode.cio.gov/) Affordable College Textbook Act; U.S.
-    National Cancer Moonshot Initiative; Dept of Education Open Licensing Rule;
-    Executive Directive on Public Access; California Taxpayer Access to Publicly
-    Funded Research Act; und Illinois Open Access to Articles Act sind Beispiele
-    für politische Änderungen in den USA, die unter das Dach von Open
-    Scholarship fallen.
+   -   EU Horizon 2020 ist eine der bemerkenswertesten Regierungsinitiativen mit Bezug zu Open Scholarship-Policies. Die Komponente des Responsible Research and Innovation (RRI) (*Verantwortungsvolle Forschung und Innovation*) des Arbeitsprogramms "Science with and for Society" macht beispielsweise offene Bildung, Forschung und Zugang zu diesen zu expliziten Zielen der EU-Policies.
 
--   Allein aus diesen Beispielen wird deutlich, dass es an einer synthetisierten
-    und konsistenten Strategie zu den politischen Motiven für Open
-    Science/Stipendien mangelt, und es bedarf einer stärkeren Koordinierung in
-    diesem Bereich, um strategisch zu ermitteln, welche Aspekte von Open
-    Scholarship mit jedem beabsichtigten politischen Ergebnis übereinstimmen.
+-   Beispiele aus den USA beinhalten den FASTR Act, Open Government Data Act, [Federal Source Code Policy;](https://sourcecode.cio.gov/) Affordable College Textbook Act; U.S. National Cancer Moonshot Initiative; Dept of Education Open Licensing Rule; Executive Directive on Public Access; California Taxpayer Access to Publicly Funded Research Act; sowie der Illinois Open Access to Articles Act und stehen für politische Veränderungen in den USA, die unter das Dach von Open Scholarship fallen.
 
--   **Forscherbewusstsein und Apathie.**
+-   Allein aus diesen Beispielen wird deutlich, dass es an einer synthetisierten und konsistenten Gesamtstrategie zu den politischen Motiven von Open Science/Scholarship mangelt. Es kann argumentiert werden, dass es einer stärkeren Koordinierung in diesem umfassenden Bereich bedarf, um strategisch ermitteln zu können, welche Aspekte von Open Scholarship mit welchem entsprechend beabsichtigten politischen Ergebnis übereinstimmen können - oder auch nicht.
 
--   Das Bewusstsein für Open Scholarship ist in bestimmten
-    Forschungsgemeinschaften noch sehr gering. Dies gilt für das Verständnis,
-    dass Open Scholarship eine Möglichkeit ist, die Effizienz des
-    Standard-Forschungsworkflows zu erhöhen (nicht als direkte Alternative), und
-    die Vorteile, die sich daraus ergeben.
+-   **Bewusstsein der Forschenden, und Apathie**
 
--   Es ist auch merkwürdig, dass viele Forscher Open Scholarship-Praktiken (z.B.
-    Data Sharing, Open Access Publishing) zu übernehmen scheinen, dies aber
-    nicht mit dem Begriff Open Scholarship gleichsetzen. Selbst bei einem hohen
-    Bekanntheitsgrad bedeutet dies nicht zwangsläufig Adoption, oft aufgrund
-    mangelnder Information, ausreichender Anreize und Motivation oder
-    allgemeinen Desinteresses.
+   -   Das Bewusstsein für Open Scholarship ist in manchen Forschungsgemeinschaften noch sehr gering. Dies gilt sowohl für das grundlegende Verständnis, dass Open Scholarship Möglichkeiten zur Effizienzsteigerung bei Standard-Forschungsworkflows bietet, als auch mit Blick auf die Vorteile, die sich daraus ergeben.
 
--   Die Tatsache, dass Forscher aus pragmatischen Gründen offene
-    Stipendienpraktiken einführen, das Label aber nicht verwenden oder als
-    offenes Stipendium bezeichnen, oder dass sie offene Wissenschaftler sind,
-    erfordert weitere empirische Untersuchungen als einen der wichtigsten
-    sozialen Aspekte der Bewegung.
+   -   Manche Forschenden implementieren zwar Open Scholarship-Praktiken (z.B. Data Sharing, Open Access-Publishing) in ihre Praxis, zögern aber (entweder explizit oder implizit), dies auch mit dem Begriff Open Scholarship gleichzusetzen. Selbst bei einem hohen Bekanntheitsgrad in einem bestimmten Umfeld bedeutet dies nicht automatisch, dass Forschende in diesem Umfeld sich direkt weiter mit Open Scholarship auseinandersetzen, oft aufgrund mangelnder Information, Fehlinformation seitens anderer, individuell nicht ausreichende Anreize und Motivation oder schlicht allgemeinen Desinteresses.
 
--   Die heterogene geografische Reichweite und das Bewusstsein für
-    Open Scholarship-Praktiken müssen untersucht werden.
+   -   Die Tatsache, dass Forschende aus pragmatischen Gründen Praktiken des Open Scholarship einführen, jedoch das Label nicht verwenden oder ihre eigene Praxis als Open Scholarship zugehörig bezeichnen bzw. diese Praxis bedeuten könnte, dass sie selbst Offenheit/Openness in ihrem Wissenschaftsalltag leben, erfordert weitere empirische Untersuchungen als einen der wichtigsten sozialen Aspekte der Bewegung - den Kulturwandel im Selbstverständnis von Wissenschaft und Forschung.
 
--   **Sprache und Erscheinungsbild der Gemeinschaft.**
+   -   Die heterogene geografische Reichweite und das Bewusstsein für Open Scholarship-Praktiken erfordern weitere Untersuchungen.
 
--   Förderung von Stipendien in nicht-englischen Sprachen. Die Hegemonie des
-    Englischen dient oft dazu, die Länder des Globalen Nordens in Gesprächen
-    über solche Strategien weiter zu stärken.
+-   **Sprache und Erscheinungsbild der Community** <a name="Language"></a>
 
--   Die einflussreichsten Wissenschaftler haben ihre Position durch den Erfolg
-    im"geschlossenen" System erlangt. Diese Erfolgsverzerrung ist stark in der
-    Definition der Praktiken von Forschern, die den gleichen Status erreichen
-    wollen.
+   -   Es ist notwendig, die Verbreitung von Open Scholarship in nicht-englischen Sprachräumen zu fördern. Die Hegemonie des Englischen kann oftmals dazu dienen, die Länder des Globalen Nordens in Diskussionen und Entscheidungen zu das Feld der Opnenness betreffenden Strategien implizit oder explizit über Gebühr zu gewichten und somit andere Perspektiven auszuschließen.
 
--   Wie man mit offenem Waschen umgeht: Die Verwendung der Open
-    Scholarship-Begriffe für Dinge, die kaum offen sind, macht den Begriff
-    bedeutungslos. Zum Beispiel, frei ist nicht offen, und einfach nur die
-    Bereitstellung von Forschungsinstrumenten ist auch nicht offen. Dazu gehört
-    auch die Verwechslung von Open Scholarship mit Open Access oder Open
-    Science; die Terminologie muss absolut klar sein.
+   -   Viele der heute einflussreichsten Forschenden haben ihre Positionen durch Erfolg im bisherigen "geschlossenen" System erlangt. Dieser Bias kann starke Auswirkungen auf die Formung von Forschungspraktiken von Nachwuchs-Wissenschaftlerinnen und -Wissenschaftlern haben, die unter Umständen in Abhängigkeitsverhältnissen zu diesen stehen.
 
--   Es besteht die Gefahr, dass Unternehmen mit einer Geschichte der
-    Anti-Offenheit, wie [Elsevier,](https://www.elsevier.com/about/Open science)
-    in die Open Scholarshipbewegung einziehen und diese kooptieren können, wenn
-    diese nicht angemessen definiert und eingehalten wird.
+   -   Der fehlgeleitete Einsatz von Open Scholarship-Begrifflichkeiten konterkariert die intendierte Message. So genanntes ["Open Washing"](http://openwashing.org/) bezeichnet Praktiken, Dienste oder Produkte, die sich den Anschein geben wollen, nach offenen Standards zu handeln, diesen aber nicht gerecht werden. So ist beispielsweise "kostenlos" nicht mit "offen" gleichzusetzen, und das alleinige Bereitstellen von Tools für Forschung und Wissenschaft ist daher auch nicht als "offen" anzusehen. Streng gesehen gehört dazu letztendlich auch die Verwechslung - oder synonyme Verwendung der Begriffe "Open Scholarship", "Open Access" und "Open Science"; die Terminologie sollte hier klar differenziert werden.
 
--   Die Offene Bewegung ist geprägt von Kommunikations- und
-    Engagementherausforderungen, auch von mächtigen Akteuren mit gegensätzlichen
-    oder divergierenden Interessen. Die Gemeinschaft sollte die Haltung
-    der"radikalen Freundlichkeit" einnehmen, wenn sie mit diesen Akteuren
-    zusammenarbeitet, und sie mit absoluter, unerschütterlicher Höflichkeit
-    behandeln; insbesondere, wenn ihnen diese gemeinsamen Höflichkeiten nicht
-    zurückgezahlt werden.
+   -   Es besteht die Gefahr, dass Unternehmen mit einer Firmengeschichte der Anti-Offenheit wie [Elsevier,](https://www.elsevier.com/about/Open science) sich in der Open Scholarship-Bewegung ausbreiten und die Ziele von Openness unterwandern, wenn diese Ziele nicht nicht angemessen definiert und auf Einhaltung geachtet wird.
 
--   Open Scholarship kommt mit einer eigenen Sprache und einer Reihe von
-    Fachbegriffen. Um die Eingriffsschwellen zu senken, vermeiden Sie nach
-    Möglichkeit die Verwendung von Jargon und stellen Sie sicher, dass häufig
-    verwendete Begriffe präzise definiert werden.
+   -   Die Bewegung rund um Openness ist gefordert, sich zahlreichen Herausforderungen bezüglich Kommunikations- und Engagementstrategien zu stellen - auch um mächtigen Akteuren mit gegensätzlichen oder divergierenden Interessen entgegenhalten zu können. Als Ansatz kann hier die persönliche Haltung der "radical kindness" beim Austausch mit diesen Akteuren dienen, um stets mit absoluter, unerschütterlicher Freundlichkeit und Anstand aufzutreten - insbesondere, wenn diese Freundlichkeit durch die Gegenseite nicht entgegengebracht wird.
+
+    -   Open Scholarship bringt eine eigenen Sprache mit einer Reihe vonFachbegriffen mit sich. Um die Barrieren beim Austausch mit anderen niedrig zu halten, sei empfohlen, auf die Verwendung von Fachjargon zu verzichten. Zudem sollte sichergestellt werden, dass häufig verwendete Begriffe präzise definiert werden.
 
 -   **Urheberrecht.**
 
