@@ -907,279 +907,151 @@ Diese Richtlinien überspannen Ländergrenzen, wissenschaftliche Disziplinen sow
 
     -   Open Scholarship bringt eine eigenen Sprache mit einer Reihe vonFachbegriffen mit sich. Um die Barrieren beim Austausch mit anderen niedrig zu halten, sei empfohlen, auf die Verwendung von Fachjargon zu verzichten. Zudem sollte sichergestellt werden, dass häufig verwendete Begriffe präzise definiert werden.
 
--   **Urheberrecht.**
+-   **Urheberrecht**
 
--   Die Erkenntnis, dass rechtliches (Urheberrecht) und wirtschaftliches
-    (Eigentum/Geschäftsmodelle) Wissen ebenso wichtig sein kann wie technisches
-    Wissen.
+   -   In der digitalen Welt, und damit auch für Open Scholarship, ist rechtliches Verständnis mit Blick auf Lizenz- und Urheberrecht genau so wichtig, wie wirtschaftliches Verständnis in Bezug auf Eigentum und Geschäftsmodelle oder technisches Wissen über Tools, Schnittstellen und potentielle Abhängigkeiten.
 
--   In der Tat, die Unterschätzung der Macht des Urheberrechts, und die
-    Überschneidung mit verschiedenen Aspekten von Open Scholarship, kann einer
-    der Hauptgründe gewesen sein, warum die Open Bewegung [einige ihrer
-    Hauptziele](https://poynder.blogspot.com/2017/02/copyright-immoveable-barrier-that-open.html)
-    nicht erreicht hat.
+   -   In der Tat hat eine bisherige Unterschätzung der Auswirkungen rechtlicher Aspekte von Lizenz- und Urheberrecht und die Verschränkung dieser Aspekte mit verschiedenen Bereichen von Open Scholarship sicherlich eine Hauptrolle dabei gespielt, warum das Openness-Movement [einige ihrer Hauptziele](https://poynder.blogspot.com/2017/02/copyright-immoveable-barrier-that-open.html) bisher nicht erreichen konnte.
+
+   - Wertvolle Lektionen können hier sicherlich aus den Erfahrungen der internationalen Open Education-Bewegung - und insbesondere der mit der Einführung von Open Educational Resources (OER) beschäftigten Akteurinnen und Akteure - gezogen werden, da dort schnell auf die Auseinandersetzung mit Creative Commons-Lizenzen für Lehr-/Lernmaterial gesetzt wurde. Weiteres zu rechtlichen Aspekten von OER und Lizenzierung von Materialien bspw. im [Faculty OER Toolkit](https://pressbooks.bccampus.ca/facultyoertoolkit/) oder dem deutschsprachigen [Urheberrechts-Ratgeber zu OER und Open Content](https://irights.info/artikel/leitfaden-urheberrecht-e-learning-lehre-urhwissg/28839).
 
 -   **Einbeziehung nicht-akademischer Akteure.**
 
--   Annahme von Open Scholarship auf politischer Ebene durch nationale und
-    subnationale Regierungen (wie die Art und Weise, wie Open Data und Open
-    Access von den Regierungen weitgehend angenommen wurden).
+-   Implementierung von Open Scholarship auf politischer Ebene durch nationale und subnationale Regierungen (in der Art, wie Open Data und Open Access in zahlreichen Regierungen adaptiert wurden).
 
--   Forschung ist weltweit ein hart umkämpftes Unterfangen. Aufgrund der
-    relativen Neuartigkeit vieler Open Scholarship-Praktiken ist es verständlich,
-    dass Institute ihre Reputation auf einem globalen Spielfeld nicht durch neue
-    betriebliche Prozesse riskieren wollen.
+-   Wissenschaft und Forschung ist weltweit ein hart umkämpftes Unterfangen. Aufgrund der relativen Neuartigkeit der Open Scholarship-Praktiken ist es verständlich, dass Institutionen ihre Reputation auf einem globalen Spielfeld nicht durch neue betriebliche Prozesse riskieren wollen. Hier gilt es, Überzeugungsarbeit auf zahlreichen Ebenen zu leisten, um möglichst breiten Impact zu erzielen.
 
--   Ein breiteres Engagement des nicht-akademischen Publikums, insbesondere der
-    breiten Öffentlichkeit, ist wichtig, um jegliche politische Trägheit in
-    Bezug auf Open Scholarship zu überwinden.
+-   Ein breiteres Engagement nicht-akademischen Publikums und insbesondere der breiten Öffentlichkeit erscheint uns als essentiell, um politische Trägheit und Zögern gegenüber Open Scholarship zu überwinden.
 
-7.2 Interne Bedingungen
-------------------------
+## 7.2 Interne Bedingungen  <a name="Internal"></a>
 
--   **Wachstumsrate.**
+-   **Wachstumsrate**
 
--   Alle aktuellen Erkenntnisse deuten darauf hin, dass sich die Dynamik von
-    Open Scholarship im Hinblick auf ein breiteres Verständnis von Themen und
-    die Übernahme von Praktiken (z.B. in Bezug auf die Anzahl der
-    institutionellen Open Access-Politiken, wie von
-    [ROARMAP](https://roarmap.eprints.org/dataviz2.html)
-    angegeben[)](https://roarmap.eprints.org/dataviz2.html) verstärkt.
+   -   Alle aktuellen Erkenntnisse deuten darauf hin, dass sich die Dynamik von Open Scholarship im Hinblick auf ein breiteres Verständnis von Themen und die Übernahme von entsprechenden Praktiken (z.B. in Bezug auf die Anzahl der institutionellen Open Access-Policies, wie von [ROARMAP](https://roarmap.eprints.org/dataviz2.html) angegeben)) verstärkt.
 
-Abbildung_7: Übersicht: Politik nach Kontinent und Region
+![Figure_7: Übersicht: Policies nach Kontinent und Region](images/Policies.png)
 
-Abbildung_7: Übersicht: Politik nach Kontinent und Region
+   -   Diese Verteilung passiert jedoch oft langsam und graduell, und hat vielfach mit Reibungen zu kämpfen. Daher sollte weiter vielfach experimentiert werden, um die Anwendbarkeit von offenen Praktiken auch in größerem Maßstab zu demonstrieren, um daraus abgeleitet eine weiter steigende Wachstumsrate und den umfassenden Impact von Open Scholarship zu erhöhen.
 
-Aber solche Diffusion ist oft langsam und körnig und von Reibungen geplagt.
-Weitere Experimente sollten angeregt werden, um die Anwendbarkeit von Praktiken
-in größerem Maßstab zu demonstrieren und die Wachstumsrate und die letztendliche
-Wirkung von Open Scholarship zu erhöhen.
+-   **Vermeide Auseinandersetzungen um Detail-Aspekte**
 
--   **Vermeiden Sie den Streit um Details.**
+*Oftmals scheint die Open Scholarship-Bewegung relativ streitlustig zu sein, wenn es um Kleinigkeiten geht, ohne dass Einigkeit über die größeren Fragen erzielt wurde. Eine Konzentration auf die Kernprinzipien und die Feststellung, dass diese als gemeinsame Basis einen fruchtbaren Boden für weitere, produktive Diskussionen um Open Scholarship bilden, sollte stets im Auge behalten werden.*
 
-*Oft scheint die Open Stipendium-Bewegung ziemlich kämpferisch zu sein, wenn es
-um Kleinigkeiten geht, ohne dass man sich über die wichtigsten Fragen einig ist.
-Die Konzentration auf die Kernprinzipien und die Feststellung, dass diese als
-gemeinsame Basis einen fruchtbaren Boden für weitere, produktive Diskussionen
-bilden.*
+-   **Überwindung des Mangels an Finanzierung von Open Scholarship**
 
--   **Überwindung des Geldmangels.**
+   -   Finanzielle Nachhaltigkeit stellt sicherlich einen der Schlüsselaspekte für die mittel- bis langfristige Zukunft von Open Scholarship dar. Ein besseres Verständnis der finanziellen Abläufe in Wissenschaftskommunikation ist erforderlich, um Initiativen wie SCOSS, Creative Commons, etc. zu unterstützen, die sich für eine nachhaltige und offene wissenschaftliche Infrastruktur einsetzen.
 
--   Finanzielle Nachhaltigkeit ist ein Schlüsselaspekt für die Zukunft von Open
-    Scholarship. Ein besseres Verständnis der finanziellen Abläufe in der
-    wissenschaftlichen Kommunikation ist erforderlich, um Initiativen wie SCOSS
-    zu unterstützen, die sich für eine nachhaltige und offene wissenschaftliche
-    Infrastruktur einsetzen.
+   -   Initiativen wie [The 2.5% Commitment](https://intheopen.net/2017/09/join-the-movement-the-2-5-commitment/) könnten hierzu wichtige Impulse für die Zukunft setzen. Das 2,5% Commitment besagt ganz einfach, dass: "*Jede wissenschaftliche Bibliothek sollte sich verpflichten, 2,5% des ihr zur Verfügung stehenden Gesamtbudgets zur Unterstützung der gemeinsamen Infrastruktur beizutragen, die notwendig ist, um ein offenes wissenschaftliche Gemeinwesen zu etablieren.*"
 
--   Initiativen wie [The 2.5%
-    Commitment](https://intheopen.net/2017/09/join-the-movement-the-2-5-commitment/)
-    könnten in Zukunft wichtig sein. Das besagt einfach das: *"Jede
-    wissenschaftliche Bibliothek sollte sich verpflichten, 2,5% ihres
-    Gesamtbudgets zur Unterstützung der gemeinsamen Infrastruktur beizutragen,
-    die notwendig ist, um das offene wissenschaftliche Gemeinwesen zu
-    schaffen.*"
+   -   Somit bestünde eine klar definierte und einfach zu realisierende Möglichkeit, um Finanzmittel aus dem gegenwärtigen Finanzierungsstrom (z.B. Abonnements) in nachhaltigere Open Scholarship-Ventures
+    umzuleiten. Siehe dazu auch das weiter oben erwähnte Konsortial-Modell bspw. der [Open Library of the Humanities](https://www.openlibhums.org/site/about/the-olh-model/), das die finanzielle Belastung einzelner Bibliotheken auf eine größere Gruppe von Konsortialmitgliedern verteilt.
 
--   Es besteht also ein klarer Spielraum, um Gelder von den gegenwärtigen
-    Strömen (z.B. Abonnements) in nachhaltigere Open Scholarship-Ventures
-    umzuleiten.
+-   **Mangelnde Geduld unter den Befürwortern von Open Scholarship**
 
--   **Mangelnde Geduld unter den Befürwortern eines Open Scholarships.**
+   -   Wir sind uns der Belastungen und des Drucks bewusst, dem sich Forschende bereits jetzt ausgesetzt sehen, wenn es darum geht, ein hohes Produktivitätsniveau aufrechtzuerhalten, Finanzierungsanträge zu stellen, Verwaltung, Lehre und weitere Aufgaben zu übernehmen. Dies bedeutet, dass Open Scholarship oftmals nicht mit hoher Priorität bedacht wird, da das derzeitige Belohnungssystem immer noch sehr stark auf die Veröffentlichung neuer Ergebnisse in Journals mit hohem Impact ausgerichtet ist. Dennoch sind wir der Überzeugung, dass ein Innehalten und Selbstreflexion über die eigene Rolle im Hamsterrad des publish-or-perish-Leistungsdrucks lohnenswert sein kann - und dann auch neuartige Herangehensweisen wie die Praktiken des Openscholarship interessant werden können. Dieser Prozess des Kulturwandels sowohl bei Individuen als auch in Institutionen ist ein langwieriger, daher werden Befürwortende sowie Praktikerinnen und Praktiker von Open Scholarship dazu ermutigt, Geduld mit ihren Kolleginnen und Kollegen zu üben und Verständnis für diese Last zu zeigen.
 
--   Wir sind uns der Belastungen und des Drucks bewusst, den Forscher bereits
-    haben, wenn es darum geht, ein hohes Produktivitätsniveau
-    aufrechtzuerhalten, Finanzierungsanträge zu stellen, Verwaltung, Lehre und
-    andere Aufgaben zu übernehmen. Dies bedeutet, dass Open Scholarship oft
-    keine hohe Priorität hat, da das derzeitige Belohnungssystem immer noch sehr
-    stark auf die Veröffentlichung neuer Ergebnisse in Zeitschriften mit hoher
-    Wirkung ausgerichtet ist, was die Wachstumsrate unterdrücken kann. Open
-    Scholarship-Befürworter müssen geduldig sein und diese Last verstehen.
+   -  Darüberhinaus sei darauf hingewiesen, dass auch unterschiedliche Initiativen, die in unterschiedlichen Communities mit unterschiedlichen Geschwindigkeiten arbeiten, sich trotzdem gegenseitig verstärken können, um auf die gleichen übergreifenden Ziele hinzuarbeiten - auch hier empfielt sich also, Geduld zu zeigen.
 
--   Zu sehen, wie verschiedene Initiativen, die in verschiedenen Gemeinschaften
-    mit unterschiedlichen Geschwindigkeiten arbeiten, sich immer noch
-    gegenseitig verstärken können, um auf die gleichen großen Ziele
-    hinzuarbeiten.
+   -   Forscher müssen nicht unbedingt offene Verfechter von Open Scholarship sein. Sie sollten sich jedoch der Funktionen des Wissenschaftskommunikationssystems im Allgemeinen, sowie der vielfältigen Prozesse und Normen, die damit verbunden sind, bewusst sein.
 
--   Forscher müssen nicht unbedingt offene Aktivisten sein. Sie sollten sich
-    jedoch der Funktionen des breiteren Wissenschaftskommunikationssystems und
-    der vielfältigen Prozesse und Normen, die damit verbunden sind, bewusst
-    sein.
+-  **Den Limitationen von Openness gegenüber nicht offen zu sein**
 
--   **Umgang mit (mangelnder) Vielfalt.**
+   - Die Begeisterung für Offenheit birgt die Gefahr, nicht kritikfähig zu sein oder nicht anzuerkennen, dass es Situationen gibt, in denen die üblichen offenen Praktiken Gefahren bergen können. Dies kann sich auf Datenschutzfragen beziehen, aber auch auf Daten, die von Regierungen zur Überwachung oder von Unternehmen für Geschäftsinteressen erfasst werden könnten (bspw. Daten über seltene oder einheimische Pflanzen/Tiere oder Daten, die zeigen, wie lokale Gruppen oder Umweltgruppen funktionieren). Es geht auch darum, offen für Kritik an den Gefahren plattformbasierter Ökonomien und ungleichen Beziehungen in Forschungskooperationen zu sein.
 
--   Dazu gehört auch eine inhärente Vorliebe für englischsprachige
-    Gemeinschaften, die diejenigen diskriminiert, die dies auch nicht als ihre
-    Muttersprache sprechen.
+-   **Umgang mit (Mangel an) Vielfalt.**
 
--   Open Scholarship muss erkennen, dass nicht alle Strategien für alle Regionen
-    geeignet sind und Flexibilität als solche ermöglichen.
+   -   Dazu gehört auch eine inhärente Vorliebe für englischsprachige Communities, die diejenigen diskriminiert, die dies nicht als ihre Muttersprache oder auch gar nicht sprechen.
 
--   In diesem Zusammenhang muss die Bewegung sicherstellen, dass andere Regionen
-    nicht durch Entscheidungen anderer extrinsischer Gruppen negativ beeinflusst
-    werden.
+   -   Open Scholarship sollte zudem anerkennen, dass nicht alle Strategien für alle Regionen gleichermaßen geeignet sind, somit Flexibilität bei der Auslegung essentiell ist.
 
-8. Chancen
-===========
+-   In diesem Zusammenhang sollte die Bewegung auch sicherstellen, dass andere Regionen nicht durch Entscheidungen negativ beeinflusst werden, die durch außenstehende Gruppen getroffen werden.
 
--   Universitäten und Forschungseinrichtungen aus aller Welt wecken das
-    Versprechen von Open Scholarship. Die Diskussionen finden auf verschiedenen
-    Ebenen statt, und insbesondere die Universitäten sind in einer starken
-    Position, um den politischen Rahmen, die besten Praktiken und die Ausbildung
-    zu den verschiedenen Aspekten des Open Scholarships zu leiten und zu
-    entwickeln, auch durch administrative Unterstützung.
 
--   Universitäten und Forschungsförderer sind in der Lage, neue Praktiken bei
-    der Einstellung, Beförderung und Amtszeit einzuführen und insbesondere zu
-    kontrollieren, wie sich Open Scholarship darauf einstellt. Die Belohnung der
-    Offenheit auf dieser Ebene ist ein Schlüsselfaktor für die zunehmende
-    Akzeptanz offener Praktiken.
+# 8. Chancen  <a name="Opportunities"></a>
 
--   Wissenschaftliche Kommunikation ist eine sich schnell entwickelnde
-    Landschaft. In diesem Bereich gibt es einen großen Spielraum für eine
-    systematische Aus- und Weiterbildung, die von den Forschungsinstituten
-    übernommen werden könnte. Ein riesiges globales Netzwerk von Experten
-    existiert bereits mit dieser professionellen Kapazität, aber die
-    Finanzierung solcher Netzwerke wäre für jede Art von Nachhaltigkeit
-    entscheidend. Es gibt heute Plattformen, Communities und Technologien, die
-    diese Bewegung unterstützen können.
+-   Universitäten und Forschungseinrichtungen aus aller Welt erkennen langsam das in Open Scholarship inhärente Versprechen. Diskussionen hierzu finden auf verschiedensten Ebenen statt, und insbesondere Universitäten stehen hier in einer starken Position, um Policy-Rahmen, Best Practices und die Ausbildung zu den verschiedenen Aspekten von Open Scholarships - auch durch administrative Unterstützung - aktiv anzuleiten und weiterzuentwickeln.
 
--   Insgesamt gibt es jetzt eine große Chance, die wissenschaftliche
-    Kommunikationspolitik zu harmonisieren, um die Compliance für Forscher zu
-    vereinfachen. Dies würde die Verbreitung von Lizenzen mit vielen einmaligen
-    Lizenzen, die möglicherweise nicht miteinander kompatibel sind und zu viel
-    Interpretationsaufwand erfordern, verhindern. Open Source "löste" dies mit
-    OSI-zugelassenen Lizenzen, und MIT/BSD/GPL entwickelte sich zu den
-    gängigsten Lizenzen mit klarer gegenseitiger Kompatibilität. Das Äquivalent
-    für Artikel- und Datenlizenzen wäre hier etwas, das CC BY entspricht.
+-   Universitäten und Forschungsförderer sehen sich nun in der Lage, neue Praktiken bei der Einstellung, Beförderung sowie Konditionen der Besetzung von Posten und Festanstellung einzuführen und insbesondere die Rolle von Open Scholarship in diesen Prozessen festlegen. Die Anerkennung von Openness in diesen Bereichen erscheint uns einer der Schlüsselfaktoren für eine zunehmende Akzeptanz offener Praktiken zu sein.
 
--   Um die Lücke zwischen der positiven Einstellung zu den meisten Aspekten von
-    Open Scholarship und den tatsächlichen Praktiken zu schließen, bedarf es
-    eines kombinierten Ansatzes aus Top-down-Politikänderungen und
-    Basis-Kampagnen, Advocacy sowie Aus- und Weiterbildung.
+-   Wissenschaftliche Kommunikation ist ein sich rasant weiterentwickelnde Feld. In diesem Bereich gibt es mit Blick auf Forschende in allen Forschungsfeldern sicherlich einen großen Spielraum für systematische Aus- und Weiterbildung, die von den Forschungsinstitutionen übernommen werden könnte. Es existiert bereits ein weitereichendes globales Netzwerk von Expertinnen und Experten, die in diesem Arbeitsfeld - oft auf unentgeltlich-freiwilliger Basis - engagiert sind. Die mittel- und langfristige Finanzierung solcher Kommunikations-Netzwerke mit zugehörigen Plattformen, Technologien und Commnuites wäre für jede Art von Nachhaltigkeit entscheidend.
 
-9. Bedrohungen
-===============
+-   Insgesamt haben wir jetzt die große Chance, das Feld der Wissenschaftskommunikation und deren Policies zu harmonisieren, um es Wissenschaftlerinnen und Wissenschaftlern zu erleichtern, sich in die Materie einzuarbeiten. Hierzu wäre bspw. förderlich, sich auf einheitliche Lizenzmodelle zu einigen, um dem [Wildwuchs](https://irights.info/webschau/offene-daten-lizenz-wildwuchs-bei-oeffentlichen-stellen/28873)) unterschiedlicher Arten von Lizenzen, die möglicherweise nicht miteinander kompatibel sind und zu viel Interpretationsaufwand erfordern, entgegenzuwirken. Die Open Source-Bewegung "löste" dieses Problem durch eine Einigung auf durch die [Open Source Initiative](https://opensource.org/licenses) zugelassene Lizenzen, und MIT/BSD/GPL entwickelten sich zu den gängigsten Lizenzen mit klarer gegenseitiger Kompatibilität. Das Äquivalent für Artikel- und Datenlizenzen wäre vermutlich etwas, das CC BY entspricht.
 
--   **Hindernisse für die Einführung von Open Access:**
+-   Um die Lücke zwischen der generell positiven Einstellung zu den meisten Aspekten von Open Scholarship und den tatsächlich gelebten Praktiken zu schließen, bedarf es eines kombinierten Ansatzes aus Top-Down-Impulsen zur Änderung von Policies gepaart mit Graswurzel-Bewegungen, die für die Sache werben und Aus- und Weiterbildung in der Breite anbieten.
 
--   Lange Embargofristen zum Schutz der Verlagseinnahmen;
+# 9. Bedrohungen, die die Bewegung gefährden könnten <a name="Threats"></a>
 
--   Komplexe, verwirrende und schwer zu navigierende Embargoperioden;
+-   **Die Implementierung von Open Access betreffende Hindernisse**
 
--   Zeitaufwändige und teure Embargo-Compliance-Abgleichsysteme;
+   -   Fehlende Erforschung zu persönlichen Determinanten und Bedingungen um Umfeld der Forschenden, die zur (Nicht-)Veröffentlichung von Open Access führen
 
--   Konflikte zwischen den Richtlinien von Funder und Publisher;
+   -   Akzeptanz langer Embargofristen zum Schutz der Verlagseinnahmen;
 
--   Kontinuierliche Übertragung des Urheberrechts von Forschern auf Verlage;
+   -   Komplexe, verwirrende und schwer zu durchschauende Regelungen zu Embargofristen;
 
--   Fehlende verteilte Artikelbearbeitungsgebührenfinanzierung;
+   -   Zeitaufwändige und teure Embargo-Compliance-Abgleichsysteme;
 
--   Breite Anwendung von hohen und nicht nachhaltigen APCs und BPCs, die
-    besonders diskriminierend gegenüber bestimmten Bevölkerungsgruppen sind,
-    denen es an angemessenen Mitteln mangeln könnte;
+   -   Konflikte zwischen von Geldgebern und Verlagen veröffentlichten Policies;
 
--   Mangelndes Wissen bei der Verhandlung dieser Schwierigkeiten;
+   -   Weiterführung der fehlgeleiteten Praxis des Urheberrechts-Übertrags von Forschendem zu Verlagen;
 
-    -   Mangelndes Bewusstsein und Anerkennung der Tatsache, dass rund [70% der
-        im DOAJ indexierten
-        Zeitschriften](https://sustainingknowledgecommons.org/2018/02/06/doaj-apc-information-as-of-jan-31-2018/)
-        keine Artikelbearbeitungsgebühren erheben;
+-   Fehlende finanzielle Unterstützung für APC und BPC (Journal-Artikel und Open Access-Bücher);
 
--   Keine weitgehende Einigung über eine groß angelegte Lösung für Probleme im
-    Zusammenhang mit OA für Bücher;
+-   Breit angelegte Etablierung von hohen, ungerechtfertigten und damit nicht nachhaltigen APCs und BPCs, die besonders diskriminierend gegenüber bestimmten Bevölkerungsgruppen sind, denen es an entsprechenden Mitteln mangeln könnte;
 
--   Anhaltende Wahrnehmung von mangelndem Prestige für viele
-    Open Access-Zeitschriften; und
+-   Fehlendes oder mangelndes Hintergrund-Wissen bei der Verhandlung dieser Aspekte;
 
--   Ein Mangel an geeigneten Kompensationsgeschäften rund um Open Access-Deals
-    und hybride Zeitschriften.
+    -   Mangelndes Bewusstsein und Anerkennung der Tatsache, dass rund [70% der im DOAJ indexierten Journals](https://sustainingknowledgecommons.org/2018/02/06/doaj-apc-information-as-of-jan-31-2018/) keine APC erheben;
 
--   **Hindernisse für den Datenaustausch:**
+-   Keine Einigung über eine breit angelegte Lösung für bestehnde Probleme im Zusammenhang mit Open Access für Bücher;
 
--   Fehlende Fähigkeiten und Bewusstsein für Best Practices;
+-   Auch in Zukunft vorherrschender Mangel an Prestige für viele Open Access-Zeitschriften; und
 
--   Keine Einigung darüber, wie Forschungsdatenmanagement (RDM) finanziert
-    werden soll;
+-   fehlende Kompensations-Vereinbarungen im Kontext getroffener Open Access-Deals zu Hybrid-Journals.
 
--   Lizenzfragen und mangelndes Bewusstsein darüber;
+-   Allgemeines Fehlen von Rollenmodellen, die offene Praktiken in allen Fachdisziplininen vorleben, um der vorhersschenden kulturellen Trägheit im Wissenschaftsbetrieb etwas entgegensetzen.
 
--   Mangelnde Infrastruktur zur Unterstützung eines guten RDM während des
-    gesamten Forschungslebenszyklus; und
 
--   Vernachlässigung der expliziten Gewährung von Wiederverwendungsrechten an
-    Daten, so dass sie ein schlechtes Wiederverwendungsrecht von Publikationen
-    erben.
+-   **Hindernisse für den offenen Austausch von Forschungsdaten:**
+
+   -   Fehlende Erforschung zu persönlichen Determinanten und Bedingungen im Umfeld der Forschenden, die zur (Nicht-) Veröffentlichung von Daten als Open Data führen;
+
+   -   Keine Einigung darüber, wie Forschungsdatenmanagement (FDM) finanziert werden soll;
+
+   - Fehlende Skills und Best Practice-Beispiele;
+
+   -   Fehlende Klärung offener Lizenzfragen und mangelndes Bewusstsein darüber;
+
+   -   Mangelnde Infrastruktur zur Unterstützung eines guten FDM innerhalb des gesamten Life Cycle von Wissenschaft und Forschung; und
+
+   -   Vernachlässigung der expliziten Gewährung von Wiederverwendungsrechten (re-use) an Daten, so dass sie ein schlechtes Wiederverwendungsrecht aus Publikationen heraus erben.
 
 -   **Anreize und Kennzahlen:**
 
--   Fehlende Anreize, die Angst vor der traditionell eingebetteten Mentalität
-    und Praxis hervorrufen, z.B. dass der Austausch von Daten die
-    Wettbewerbsfähigkeit eines Individuums beeinträchtigt (z.B. "jemand wird
-    meine Daten falsch verwenden", oder "ich muss 5 weitere Publikationen aus
-    diesen Daten herausholen").
+   -   Fehlende Anreize, die durch im traditionellen System gefestige Mentalität und Praxis begründete Ängste verstärkt werden, z.B. dass der Austausch von Forschungsdaten die Wettbewerbsfähigkeit eines Individuums beeinträchtigt (z.B. Mythen wie "ich werde verantwortlich gemacht, wenn jemand meine Daten falsch verwendet", oder "ich muss noch fünf weitere Publikationen aus diesem Datensatz herausholen, daher kann ich ihn noch nicht teilen").
 
--   Anreize müssen sich ändern, um den kulturellen Wandel zu motivieren und zu
-    erleichtern.
+   -   Anreize müssen sich ändern, um den kulturellen Wandel zu motivieren und weitergehende Schritte zu erleichtern.
 
--   Die anhaltende Abhängigkeit von undurchsichtigen, nicht reproduzierbaren
-    Metrikinformationen kommerzieller Anbieter wird sich weiterhin nachteilig
-    auf das Stipendium auswirken.
+   -   Die anhaltende Abhängigkeit von undurchsichtigen, nicht reproduzierbaren Metriken kommerzieller Anbieter wird sich weiterhin nachteilig auf Wissenschaft und Forschung insgesamt auswirken.
 
--   Neue Metriken müssen Anreize zur Beeinflussung des Forscherverhaltens
-    schaffen, vorzugsweise auf der Grundlage von Offenheit.
+    -   Neue Bewertungsmetriken sollten darauf ausgerichtet sein, Anreize zur Beeinflussung des Verhaltens von Forschenden zu schaffen, vorzugsweise auf der Grundlage von Openness.
 
 -   **Große kommerzielle Verlage**
 
--   Elsevier & Holtzbrinck/Springer Nature (via Digital Science) entwickeln
-    Dienstleistungen für den gesamten Forschungsablauf, von der Entdeckung bis
-    zur Finanzierung.
+-   Elsevier & Holtzbrinck/Springer Nature (via Digital Science) entwickeln integrierte Dienstleistungen für den gesamten Workflow von Wissenschaft und Forschung, die vom ersten Schritt der Entdeckung neuer Phänomene bis zur Finanzierungsorganisation alles abdecken werden.
 
--   Diese stellen eine eindeutige Bedrohung dar, da sie versuchen werden, diese
-    Dienste für Institutionen über "Big Deals" zu bündeln - so dass
-    Institutionen für einige Dinge an die Nutzung nicht übertragbarer Dienste
-    gebunden werden, um Zugang zu Diensten zu erhalten, die sie für wichtig
-    halten (d.h. dieselbe Strategie, die bei der Bündelung von Zeitschriften
-    angewandt wird) [(Moody
-    2017;](https://www.techdirt.com/articles/20170804/05454537924/elsevier-continues-to-build-monopoly-solution-all-aspects-scholarly-communication.shtml)
-    [Posada und Chen
-    2017;](http://knowledgegap.org/index.php/sub-projects/rent-seeking-and-financialization-of-the-academic-publishing-industry/preliminary-findings/)
-    [Schonfeld
-    2017)](http://www.sr.ithaka.org/blog/the-center-for-Open science-alternative-to-elsevier-announces-new-preprint-services-today/).
+-   Diese stellen insofern eine klare Bedrohung für das gesamte Feld des Open Scholarship dar, da sie versuchen werden, diese Dienste für Institutionen über "Big Deals" zu bündeln - so dass Institutionen, um Zugang zu für sie wichtigen Diensten zu erhalten, sich an das Gesamtpaket inkl. der Nutzung nicht übertragbarer Dienste gebunden werden (d.h. die gleiche Strategie, die bisher bei der Bündelung von Zeitschriften angewandt wird) [(Moody 2017](https://www.techdirt.com/articles/20170804/05454537924/elsevier-continues-to-build-monopoly-solution-all-aspects-scholarly-communication.shtml); [Posada und Chen 2017](http://knowledgegap.org/index.php/sub-projects/rent-seeking-and-financialization-of-the-academic-publishing-industry/preliminary-findings/); [Schonfeld 2017)](http://www.sr.ithaka.org/blog/the-center-for-Open science-alternative-to-elsevier-announces-new-preprint-services-today/).
 
--   Dies würde letztendlich zu neuen Ineffizienzen, Lieferantenbindung und dem
-    gleichen Preisschub führen, den wir bei"Big Deal"-Lizenzverträgen sehen.
+-   Dies würde letztendlich zu neuen Ineffizienzen, Lieferantenbindungen und dem gleichen Preisschub führen, den wir bei"Big Deal"-Lizenzverträgen aus dem Publikationsbereich sehen.
 
--   Bei den Preprints kommt es zu einer zunehmenden Kolonisierung der Landschaft
-    durch kommerzielle Interessen (z.B. Erwerb von SSRN durch Elsevier). Dies
-    führt zu einer breiteren kommerziellen Kontrolle, unabhängig vom endgültigen
-    Veröffentlichungsort.
+-   Bei Preprints kommt es zu einer zunehmenden Kolonialisierung der Landschaft durch kommerzielle Interessen (z.B. Erwerb von [SSRN](https://savageminds.org/2016/05/18/its-the-data-stupid-what-elseviers-purchase-of-ssrn-also-means/) sowie des Workflow-Anbieters [Aries Systems](https://www.elsevier.com/about/press-releases/corporate/elsevier-to-acquire-aries-systems-a-best-in-class-publication-workflow-solutions-provider)) durch Elsevier). Dies führt zu einer breiteren kommerziellen Kontrolle, unabhängig vom letztendlich gewählten Veröffentlichungsort.
 
 -   **Widerstand gegen Veränderungen:**
 
--   Forscher sind im Allgemeinen resistent gegen Veränderungen, wie die
-    menschliche Natur, und werden oft als ein System der"kulturellen Trägheit"
-    innerhalb der Wissenschaft definiert.
+   -   Wissenschaftlerinnen und Wissenschaftler sind im Allgemeinen - und ganz ihrer menschlichen Natur gemäß - resistent gegen Veränderungen und werden daher oft als ein System der "kulturellen Trägheit" innerhalb des Wissenschaftsbetriebs gesehen.
 
--   Ihnen zu viel Auswahl zu geben, wie es in der Praxis der Open Scholarship
-    üblich ist, könnte abschreckend sein und zu keiner Änderung der
-    traditionellen Gewohnheiten führen.
+   -   Leute neigen dazu, Dinge zu wählen, die dem, was sie bereits kennen, am ähnlichsten sind (siehe dazu z.B. Dan Arielys [TED-Talk](https://www.ted.com/talks/dan_ariely_asks_are_we_in_control_of_our_own_decisions) über das Treffen von Entscheidungen).
 
--   Leute neigen dazu, Dinge zu wählen, die dem, was sie bereits haben, am
-    ähnlichsten sind, oder Dinge, die anderen Entscheidungen, die sie haben, am
-    ähnlichsten sind (z.B. siehe Dan Arielys [TED
-    Vortrag](https://www.ted.com/talks/dan_ariely_asks_are_we_in_control_of_our_own_decisions)
-    über das Treffen von Entscheidungen).
+   -   Es ist wichtig, hier nochmal herauszustellen, dass Menschen weiterhin das tun können, was sie bereits gut getan haben - auch wenn sie Open Scholarship als neues Handlungsfeld annehmen. Mit [Weller, 2014](https://doi.org/10.5334/bam), [Veletsianos und Kimmons, 2016](https://doi.org/10.19173/irrodl.v13i4.1313) und [McKiernan, 2017](https://doi.org/10.1371/journal.pbio.1002614) sehen wir Inklusivität als ein entscheidendes Merkmal der sozialen Bewegung, die Open Scholarship darstellt. Während das, was wir hier beschrieben haben, im Idealfall alle vorgenannten Praktiken umfassen kann, kann ein Engagement in Open Science und Scholarshio als Instanzen in einem Spektrum von Praktiken angesehen werden, in welchem jedes Individuum für sich selbst aushandelt muss, wie es sich dazu positionieren möchte.
 
--   Es ist wichtig sicherzustellen, dass die Menschen das tun können, was sie
-    bereits tun, auch wenn sie am Open Scholarship teilnehmen. Mit [Weller,
-    2014,](https://doi.org/10.5334/bam) [Veletsianos und Kimmons,
-    2016](https://doi.org/10.19173/irrodl.v13i4.1313) und [McKiernan,
-    2017](https://doi.org/10.1371/journal.pbio.1002614), sehen wir Inklusivität
-    als ein entscheidendes Merkmal der sozialen Bewegung, die Open Scholarship
-    ist. Während das, was wir hier beschrieben haben, im Idealfall alle
-    vorgenannten Praktiken umfassen kann, kann ein Engagement in Praktiken der
-    offenen Wissenschaft und Wissenschaft als Ereignis in einem Spektrum von
-    Praktiken angesehen werden, über das jeder von uns verhandeln muss.
-
--   *Daher müssen sich die künftigen Kommunikationsbemühungen auf offene
-    Praktiken konzentrieren, da sie nicht völlig neu sind, sondern effizientere
-    und lohnendere Versionen der derzeitigen Praktiken implizieren.*
+   -   *Daher sollten ukünftige Kommunikationsbemühungen darauf konzentrieren, deutlich zu machen, dass Praktiken der Openness keineswegs komplett neue Handlungsweisen darstellen, sondern einfach effizientere und damit lohnenswertere Variationen von derzeitigen Praktiken darstellen.*
