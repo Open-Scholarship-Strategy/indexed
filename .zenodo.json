@@ -5,13 +5,13 @@
 "orcid": "0000-0001-7794-0218"
 },
 {
-"name": "Jonathan Dugan",
+"name": "Jonathan Dugan"
 },
 {
-"name": "Rachel Harding",
+"name": "Rachel Harding"
 },
 {
-"name": "Tony Ross-Hellauer",
+"name": "Tony Ross-Hellauer"
 },
 {
 "name": "Kshitiz Khanal",
@@ -45,7 +45,7 @@
 "orcid": "0000-0001-7824-7650"
 },
 {
-"name": "Pawel Szczesny",
+"name": "Pawel Szczesny"
 },
 {
 "name": "Lisa Matthias",
@@ -115,12 +115,11 @@
 {
 "name": "Neo Christopher Chung",
 "orcid": "0000-0001-6798-8867"
-},
+}
 ],
 "keywords": [
   "Open Scholarship",
-  "strategy",
-"
+  "strategy"
 ],
 "license": "cc-by-4.0",
 "upload_type": "publication"
