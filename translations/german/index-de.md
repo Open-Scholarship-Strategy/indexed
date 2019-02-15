@@ -11,9 +11,9 @@ layout: page
 -   Version 1.1 -- 06. Juni 2018 - Website erstellt.
 -   Version 1.2 -- Vervollständigter erster Entwurf (30. Juli 2018)  <a href="https://doi.org/10.5281/zenodo.1323437"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.1323437.svg" alt="DOI"></a>
 
--   Version 2.1 -- Vollständig überarbeitete Version (31. Januar, 2019), als preprint in englischer Sprache veröffentlicht:  [10.31222/osf.io/b4v8p](https://doi.org/10.31222/osf.io/b4v8p)
+-   Version 2.1 -- Vollständig überarbeitete zweite Version (31. Januar, 2019), in englischer Sprache veröffentlicht unter:  [10.31222/osf.io/b4v8p](https://doi.org/10.31222/osf.io/b4v8p)
 
-Beachte, dass Versionen dieses Dokuments auch in anderen Sprachen wie [Spanisch](https://github.com/Open-Scholarship-Strategy/indexed/blob/master/translations/spanish/index_es.md), [Indonesisch](https://sainsterbuka.readthedocs.io/en/latest/?fbclid=IwAR2eJ0xOMQdkbIbGt639frHFv0PdwK44HesXAsWBgVNXiXU1oZQRdn7TPrA) und natürlich [im englischen Original](https://github.com/Open-Scholarship-Strategy/site/index.md). existieren.
+Beachte, dass Versionen dieses Dokuments auch in anderen Sprachen wie [Spanisch](https://github.com/Open-Scholarship-Strategy/indexed/blob/master/translations/spanish/index_es.md), [Indonesisch](https://sainsterbuka.readthedocs.io/en/latest/?fbclid=IwAR2eJ0xOMQdkbIbGt639frHFv0PdwK44HesXAsWBgVNXiXU1oZQRdn7TPrA) und natürlich [im englischen Original](https://github.com/Open-Scholarship-Strategy/site/index.md) existieren.
 
 ### Inhaltsverzeichnis
 
@@ -38,12 +38,19 @@ Beachte, dass Versionen dieses Dokuments auch in anderen Sprachen wie [Spanisch]
 * [Chancen](#Opportunities)
 * [Bedrohungen](#Threats)
 
-**Redaktion:**
+####Redaktion:####
+
+**Deutsche Übersetzung:** [Tobias Steiner](https://orcid.org/0000-0002-3158-3136)
+
+**Englisches Original:** [10.31222/osf.io/b4v8p](https://doi.org/10.31222/osf.io/b4v8p)
 
 [Jonathan Tennant](https://orcid.org/0000-0001-7794-0218), [Jennifer E. Beamer](https://orcid.org/0000-0001-6887-6568), [Jeroen Bosman](https://orcid.org/0000-0001-5796-2727), [Björn Brembs](https://orcid.org/0000-0001-7824-7650), [Neo Christopher Chung](https://orcid.org/0000-0001-6798-8867), [Gail Clement](https://orcid.org/0000-0001-5494-4806), [Tom Crick](https://orcid.org/0000-0001-5196-9389), [Jonathan Dugan](https://orcid.org/0000-0001-8525-6221), [Alastair Dunning](https://orcid.org/0000-0002-8344-4883), [David Eccles](https://orcid.org/0000-0003-4634-4995), [Asura Enkhbayar](https://orcid.org/0000-0002-3934-026X), [Daniel Graziotin](https://orcid.org/0000-0002-9107-7681), [Rachel Harding](https://orcid.org/0000-0002-1134-391X), [Johanna Havemann](https://orcid.org/0000-0002-6157-1494), [Daniel S. Katz](https://orcid.org/0000-0001-5934-7525), [Kshitiz Khanal](https://orcid.org/0000-0002-4765-4832), [Jesper Norgaard Kjaer](https://orcid.org/0000-0001-9183-9861), [Tim Koder](https://orcid.org/0000-0001-6152-7365), [Paul Macklin](https://orcid.org/0000-0002-9925-0151), [Christopher R. Madan](https://orcid.org/0000-0003-3228-6501), [Paola Masuzzo](https://orcid.org/0000-0003-3699-1195), [Lisa Matthias](https://orcid.org/0000-0002-2612-2132), [Katja Mayer](https://orcid.org/0000-0003-1184-595X), [David M. Nichols](https://orcid.org/0000-0003-0321-7267), [Elli Papadopoulou](https://orcid.org/0000-0002-0893-8509), [Thomas Pasquier](https://orcid.org/0000-0001-6876-1306), [Tony Ross-Hellauer](https://orcid.org/0000-0003-4470-7027), [Michael Schulte-Mecklenbeck](https://orcid.org/0000-0002-0406-8809), [Dan Sholler](https://scholar.google.com/citations?user=fHVPc94AAAAJ&hl=en), [Tobias Steiner](https://orcid.org/0000-0002-3158-3136), [Pawel Szczesny](https://orcid.org/0000-0001-8442-0157), [Andy Turner](https://orcid.org/0000-0002-6098-6313)
 
-- /* [Kontakt](mailto:jon.tennant.2@gmail.com)
-- Translation/Übersetzung ENG->GER: [Tobias Steiner](https://orcid.org/0000-0002-3158-3136)
+---
+
+> Der Länge des vorliegenden Strategiedokuments Rechnung tragend wurde zudem ein [**IMMEDIATE ACTION PLAN / SOFORTMAßNAHMENPLAN**](https://github.com/Open-Scholarship-Strategy/site/blob/master/immediate-action-plan.pdf) bereitgestellt, der die aus Sicht der Autor*innen dringendsten Handlungsfelder mit Blick auf eine zukünftige Weiterentwicklung herausstellt.
+
+---
 
 ## 1. Zweck dieses Dokuments <a name="Purpose"></a>
 
@@ -62,8 +69,6 @@ Letztendlich erwarten wir, dass sich die Auswirkungen einer weit verbreiteten Ü
 
 "*Unter* [Strategie](https://en.wikipedia.org/wiki/Strategy) *wird in der Regel die Festlegung von Zielen, die Definition von Maßnahmen zur Erreichung dieser Ziele sowie die Mobilisierung von Ressourcen verstanden, welche zur Durchführung dieser Maßnahmen nötig sind. Eine Strategie beschreibt, wie die Ziele mit entsprechenden Mitteln (Ressourcen) erreicht werden können.*" (Übersetzung: T.S.)
 
-> Der Länge des vorliegenden Strategiedokuments Rechnung tragend wurde zudem ein [**IMMEDIATE ACTION PLAN**](https://github.com/Open-Scholarship-Strategy/site/blob/master/immediate-action-plan.pdf) bereitgestellt, der die aus Sicht der Autor*innen dringendsten Handlungsfelder mit Blick auf eine zukünftige Weiterenticklung herausstellt.
-
 Um die bestehenden Herausforderungen zu meistern und unsere gesteckten Ziele zu erreichen sollten wir uns auf unsere gemeinsamen Stärken besinnen und auf diesen aufbauen. Im Folgenden haben wir drei zeitliche Hauptkomponenten (kurz-, mittel- und langfristig) einer Gesamtstrategie identifiziert, die als direkte Handlungsvorschläge auf individueller, Gruppen- und institutioneller sowie nationaler (oder höherer) Ebene genutzt werden können. Es muss hier betont werden, dass mit diesen Vorschlägen das komplexe Wissenschaftssystem und seine zahlreichen Verknüpfungen und Abhängigkeiten nicht in vollständigem Umfang abgebildet werden kann. Daher erachten wir es als notwendig, dass sich die unterschiedlichen Wissenschaftsdisziplinen auch selbst auf ihren jeweiligen Ebenen damit auseinandersetzen, welche Aktivitäten in den entsprechenden Fachkulturen angemessen erscheinen. Hierzu kann diese Strategie als Basis für eine konstruktive Auseinandersetzung in der eigenen Fachkultur und darüber hinaus dienen.
 
 Daher besteht eines der grundlegenden Ziele dieser Strategie darin, die Ausformung von Communities zu fördern, die sich gegenseitig durch gemeinsames, verteiltes und kollaboratives Lernen (bspw. über den [Open Science MOOC](https://eliademy.com/opensciencemooc)) weiterbilden und Wissen zu aktuellen Entwicklungen in der Welt des Open Scholarship austauschen. Diese Communities haben unserer Ansicht nach den direktesten Einblick in die spezifischen Herausforderungen und können daraus direkt anwendbare Handlungsvorschläge generieren, um diese Herausforderungen zu meistern. Aus diesen Handlungsvorschlägen wiederum können mittelfristig neue Perspektiven auf die unterschiedlichen hierarchischen Ebenenen generiert werden, die dann in Entscheidungsfindungs-Prozesse einfließen können.
@@ -81,7 +86,9 @@ Wir stellen ebenso fest, dass diese Strategie nur auf Informationen basieren kan
 
 ![Abbildung_1: Rainbow of open science practices](images/image_0.png)
 
-[Kramer, Bianca, & Bosman, Jeroen (2018, Januar). Rainbow of open science practices. Zenodo](https://doi.org/10.5281/zenodo.1147024). (CCBY) Beachte, dass die untenstehende Strategie in die sechs Hauptkategorien (Suche, Analyse, Schreiben, Veröffentlichung, Öffentlichkeitsarbeit und Bewertung) unterteilt ist, falls relevant.
+[Kramer, Bianca, & Bosman, Jeroen (2018, Januar). Rainbow of open science practices. Zenodo](https://doi.org/10.5281/zenodo.1147024). (CCBY)
+
+*Beachte, dass die folgenden Elemente der Strategie in die sechs Hauptkategorien der Grafik (Suche, Analyse, Schreiben, Publizieren, Outreach und Assessment) unterteilt ist, sofern relevant.*
 
 #### Suche
 
@@ -163,7 +170,7 @@ Wir stellen ebenso fest, dass diese Strategie nur auf Informationen basieren kan
 
 ![Abbildung_2: Offene Bildungspraxis: Mögliche Szenarien](images/image_1.png)
 
-[Steiner, Tobias (2018, February). Open Educational Practice (OEP): collection of scenarios. Zenodo](https://zenodo.org/record/1183805). (CC0)
+[Steiner, Tobias (2018, February). Offene Bildungspraxis: Mögliche Szenarien. Zenodo](https://doi.org/10.5281/zenodo.1181884). (CC0)
 
 ### Gruppenebene (z.B. Labore, Abteilungen)
 
@@ -175,7 +182,7 @@ Viele der auf der individuellen Ebene genannten Elemente werden auch hier weiter
 
 - Erwäge die Nutzung und Unterstützung offenerer Suchmaschinen wie [Open Knowledge Maps](https://openknowledgemaps.org/) anstelle der Nutzung proprietärer Dienste.
 
-- Nutze RSS-Reader wie[Feedly](https://feedly.com/), um Nachrichten und Forschungsupdates aus einer Reihe von Quellen einfach zusammenzufassen.
+- Nutze RSS-Reader wie [Feedly](https://feedly.com/), um Nachrichten und Forschungsupdates aus einer Reihe von Quellen einfach zusammenzufassen.
 
 #### Analyse
 
@@ -187,7 +194,7 @@ Viele der auf der individuellen Ebene genannten Elemente werden auch hier weiter
 
 - Am wichtigsten ist, dass Du mit der [Bereitstellung deiner eigenen Arbeit in open access](https://cyber.harvard.edu/hoap/How_to_make_your_own_work_open_access) beginnst - dies ist fast immer auch [kostenlos](https://figshare.com/collections/How_to_to_make_your_work_100_Open_Access_for_free_and_legally_multi-lingual_/3943972) möglich.
 
-- Nutze Open Source-Software für die Durchführung von Forschung und Lehre und dokumentiere diese entsprechend, so dass die computerisierte Verarbeitung von der Wissenschaftscommunity überprüft werden kann, und so, dass die verwendeten Werkzeuge für alle verfügbar sind, um die Produktivität und Zusammenarbeit zu erhöhen. Zur Unterscheidung zwischen open, free, gratis und libre siehe z.B. [OpenSource.com](https://opensource.com/article/17/11/Open-source-or-free-software)(englisch), [Stallmann,2013](https://www.gnu.org/philosophy/floss-and-foss.de.html)(englisch) oder [Dobusch et al. 2011 (Kapitel 4)](http://www.freienetze.at/pdfs/Freiheit-vor-Ort-E-BOOK.pdf)(deutsch).
+- Nutze Open Source-Software für die Durchführung von Forschung und Lehre und dokumentiere diese entsprechend, so dass die computerisierte Verarbeitung von der Wissenschaftscommunity überprüft werden kann, und so, dass die verwendeten Werkzeuge für alle verfügbar sind, um die Produktivität und Zusammenarbeit zu erhöhen. Zur Unterscheidung zwischen open, free, gratis und libre siehe z.B. [OpenSource.com](https://opensource.com/article/17/11/Open-source-or-free-software) (englisch), [Stallmann, 2013](https://www.gnu.org/philosophy/floss-and-foss.de.html) (englisch) oder [Dobusch et al., 2011 (Kapitel 4)](http://www.freienetze.at/pdfs/Freiheit-vor-Ort-E-BOOK.pdf) (deutsch).
 
 - Etabliere und fördere Praktiken der Wiederverwendung und des Remixes, um eine Open Scholarship-Kultur zu etablieren, die auf offener Zusammenarbeit und Austausch basiert.
 
@@ -195,7 +202,7 @@ Viele der auf der individuellen Ebene genannten Elemente werden auch hier weiter
 
 #### Schreiben
 
--  Biete selbst Hilfe bei der Beantwortung von Fragen in offenen Foren wie [Ask Open Science,](https://ask-Open science.org/), [Stack Overflow](https://stackoverflow.com/), dem [Open Science subreddit](https://www.reddit.com/r/Open_Science/) und/oder auf [Twitter](https://twitter.com) an.
+-  Biete selbst Hilfe bei der Beantwortung von Fragen in offenen Foren wie [Ask Open Science](https://ask-open-science.org/), [Stack Overflow](https://stackoverflow.com/), dem [Open Science subreddit](https://www.reddit.com/r/Open_Science/) und/oder auf [Twitter](https://twitter.com) an.
 
 -  Ziehe in Erwägung, Forschungsguppenprofile auf diesen Plattformen anzulegen.
 
@@ -219,7 +226,7 @@ Viele der auf der individuellen Ebene genannten Elemente werden auch hier weiter
 
 - Starte Diskussionen zu einem impliziten oder expliziten (gemeinsamen) Open Science/Open Scholarship-Verhaltenskodex oder einer entsprechenden Satzung für Ihre Abteilung, Ihren Fachbereich, etc. Als Inspiration können schon bestehende Kodizes wie bspw. der [Contributor Covenant](https://www.contributor-covenant.org/de/version/1/4/code-of-conduct) dienen.
 
-- Stelle sicher, dass Rechteexpertinnen und Rechtsexperten zum Themnfeld des Open Scholarship zur Verfügung stehen, die bei Fragen zu Lizenz- und Urheberrecht sowie der richtigen Nutzung von Creative Commons-Lizenzen behilflich sein können. Im deutschsprachigen Kontext kann zur Rechtsfragen und -Beispielfällen bspw. das Portal [irights.info](https://irights.info) eine hilfreiche Anlaufstelle sein.
+- Stelle sicher, dass Rechtsexpertinnen und -experten zum Themenfeld Open Scholarship zur Verfügung stehen, die bei Fragen zu Lizenz- und Urheberrecht sowie der richtigen Nutzung von Creative Commons-Lizenzen behilflich sein können. Im deutschsprachigen Kontext kann zur Rechtsfragen und -Beispielfällen bspw. das Portal [irights.info](https://irights.info) eine hilfreiche Anlaufstelle sein.
 
 - Binde Kommunikationsabteilungen und Forschungs-Assessment-Beauftragte enger mit ein. Organisiere Sitzungen, um diese Stakeholder über Open Science und Open Scholarship zu informieren. Sei dir dabei der Tatsache bewusst, dass es für Mitarbeitende dieser Bereiche bedeuten kann, dass sie ihre eigene Sichtweise zu Wissenschaft, deren Handlungsfeldern sowie ihrer eigenen Rolle in diesem Wissenschaftssystem neu ausrichten werden.
 
@@ -561,7 +568,7 @@ Sowohl Ziele als auch die grundlegende Vision von Open Scholarship sind in Dokum
 
 Dies hat zur Folge, dass es heute zahlreiche konkurrierende, parallele oder sich überschneidende Definitionen dessen gibt, was Open Scholarship sowohl in Bezug auf Forschungsprinzipien als auch auf die Praktiken umfasst - alle mit dem Ziel, eine Bewegung zu beschreiben, die die Förderung des wissenschaftlichen Wachstums unter den Gegebenheiten einer freien und öffentlichen Zugänglichkeit anstrebt.
 
-Hierbei erachten wir es nützlich, Open Scholarship als boundary object [Moore, 2017](https://journals.openedition.org/rfsic/3220) zu betrachten, da es flexibel anpassungsfähig ist, in verschiedenen Communities in seiner Ausprägung unterschiedlich interpretiert wird, jedoch genügend unveränderliche Kerninhhalte mit sich bringt, um eine intrinsische Integrität beizubehalten. Neben dem Ansatz von [Peters und Roberts, 2012](https://www.routledge.com/Virtues-of-Openness-Education-Science-and-Scholarship-in-the-Digital/Peters-Roberts/p/book/9781594516863) halten wir [Fecher und Friesike, 2013](https://doi.org/10.1007/978-3-319-00026-8_2)s fünf Denkschulen aka. "schools of thought" für nützlich, um die vorliegende Strategie anhand der dort genannten Ausprägungen zu rahmen, diese beinhalten einen Fokus auf: **Infrastruktur**, **Datenerfassung**, **Öffentlichkeit**, **demokratische Werte** und **Pragmatismus**. Darüber hinaus schlagen wir hiermit eine Erweiterung um eine sechste Schule mit Fokus auf **Gemeinschaft und Integration** vor, die den Entwicklungen in diesem Kontext innerhalb der letzten fünf Jahre (und darüber hinaus) Rechnung trägt. Erwähnt werden soll hier auch das OCSD (Open and Collaborative Science in Development) Network, das ein [Open Science Manifesto](https://ocsdnet.org/manifesto/open-science-manifesto/) für eine inklusiv-integrativ ausgelegte Open Science mit Blick auf soziales und umweltbewusst-ökologisches Selbstbewusstsein verfasst hat, welches zur Rahmung der hier vorliegenden Strategie von großem Nutzen sein kann.
+Hierbei erachten wir es nützlich, Open Scholarship als "boundary object" ([Moore, 2017](https://journals.openedition.org/rfsic/3220)) zu betrachten, da es flexibel anpassungsfähig ist, in verschiedenen Communities in seiner Ausprägung unterschiedlich interpretiert wird, jedoch genügend unveränderliche Kerninhhalte mit sich bringt, um eine intrinsische Integrität beizubehalten. Neben dem Ansatz von [Peters und Roberts, 2012](https://www.routledge.com/Virtues-of-Openness-Education-Science-and-Scholarship-in-the-Digital/Peters-Roberts/p/book/9781594516863) halten wir die fünf Denkschulen aka. "schools of thought" von [Fecher und Friesike, 2013](https://doi.org/10.1007/978-3-319-00026-8_2) für nützlich, um die vorliegende Strategie anhand der dort genannten Ausprägungen zu rahmen; diese beinhalten einen Fokus auf: **Infrastruktur**, **Datenerfassung**, **Öffentlichkeit**, **demokratische Werte** und **Pragmatismus**. Darüber hinaus schlagen wir hiermit eine Erweiterung um eine sechste Schule mit Fokus auf **Gemeinschaft und Integration** vor, die den Entwicklungen in diesem Kontext innerhalb der letzten fünf Jahre (und darüber hinaus) Rechnung trägt. Erwähnt werden soll hier auch das OCSD (Open and Collaborative Science in Development) Network, das ein [Open Science Manifesto](https://ocsdnet.org/manifesto/open-science-manifesto/) für inklusiv-integrativ ausgelegte Open Science mit Blick auf soziales und umweltbewusst-ökologisches Selbstbewusstsein verfasst hat, welches zur Rahmung der hier vorliegenden Strategie von großem Nutzen sein kann.
 
 Diese vorangegangenen Arbeiten waren und sind weiterhin entscheidend für die Schaffung einer zentralen Identität der weltweiten Open Scholarship-Community, da diese Argumentationslinien zur Befürwortung von Open Scholarship gegenüber der breiteren Gesellschaft sichtbar werden und damit eine Grundlage geschaffen wird, um die weltweite Bewegung voranzubringen.
 
@@ -635,9 +642,9 @@ Vier Hauptelemente sind Voraussetzung für die Verbreitung von Open Scholarship:
 4.  **Anreize:** Motivationsanlässe für Externe, sich mit Open Scholarship-Praktiken auseinanderzusetzen.
 
 
-![Abbildung_5: Open Scholarship Taxonomy](images/image_4.png)
+![Abbildung_5: Open Science Taxonomy](images/image_4.png)
 
-Angelehnt an die [Foster Open Scholarship Taxonomy](https://www.fosteropenscience.eu/taxonomy/term/102) (CC BY 4.0). *Bitte beachten: dies stellt eine nicht erschöpfende Taxonomie aller möglichen Aspekte von Open Science & Scholarship dar.*
+Angelehnt an die [Foster Open Science Taxonomy](https://www.fosteropenscience.eu/taxonomy/term/102) (CC BY 4.0). *Bitte beachte: diese Taxonomie erhebt keinen Anspruch der Abbildung aller möglichen Aspekte von Open Science & Scholarship dar, vielmehr wird hier hauptsächlich auf den forschungsfokussierten Bereich Open Science eingegangen und bspw. Open Education oder Wissenschaftskommunikation im weiteren Sinne ausgeklammert (Notiz T.S.) .*
 
 ## 4.2 Vielzahl an Perspektiven
 
@@ -963,7 +970,7 @@ Dieser Abschnitt der Strategie beschreibt einige der Stärken der sog. Open Scho
 
 -   Open Scholarship-Aktivitäten als Teil einer breiteren Openness-Bewegung profitieren von Synergien aus Kooperationen mit Befürwortern aus anderen Sektoren. So wird beispielsweise Open Scholarship als Schnittstelle zu Open Education gesehen, kann aber auch auf einen Erfahrungsschatz und Policies zurückgreifen, die im Austausch mit der Open Source-Bewegung geformt und gestärkt wurden.
 
-### Vielfältige Beteiligung engagierter Individuen**
+### Vielfältige Beteiligung engagierter Individuen
 
 - Bedeutende Erfolge in Open Scholarship sind oft durch die Arbeit leidenschaftlich engagierter Verfechterinnen und Verfechter möglich, insbesondere in den Bereichen Policy, Interessensvertretung und der Einführung des Themas in neuen Bereichen.
 
@@ -1182,7 +1189,7 @@ Zu den im Open Access-Bereich schon vielfach geäußerten Elementen zählen:
 
 - Fehlendes oder mangelndes Hintergrundwissen bei der Verhandlung dieser Aspekte;
 
-- Mangelndes Bewusstsein und Anerkennung der Tatsache, dass rund [70% der im DOAJ indizierten Journals](https://sustainingknowledgecommons.org/2018/02/06/doaj-apc-information-as-of-jan-31-2018/) *keine* APC erheben;
+- Mangelndes Bewusstsein und Anerkennung der Tatsache, dass rund [70% der im DOAJ indizierten Journals](https://sustainingknowledgecommons.org/2018/02/06/doaj-apc-information-as-of-jan-31-2018/) **keine APC** erheben;
 
 - Keine Einigung über eine breit angelegte Lösung für bestehnde Probleme im Zusammenhang mit Open Access für Bücher;
 
@@ -1193,7 +1200,7 @@ Zu den im Open Access-Bereich schon vielfach geäußerten Elementen zählen:
 -   Allgemeines Fehlen von Rollenmodellen, die offene Praktiken in allen Fachdisziplininen vorleben, um der vorhersschenden kulturellen Trägheit im Wissenschaftsbetrieb etwas entgegensetzen.
 
 
-### Hindernisse für den offenen Austausch von Forschungsdaten:
+### Hindernisse für den offenen Austausch von Forschungsdaten
 
 - Fehlende Erforschung zu persönlichen Determinanten und Bedingungen im Umfeld der Forschenden, die zur (Nicht-) Veröffentlichung von Daten als Open Data führen;
 
@@ -1208,7 +1215,7 @@ Zu den im Open Access-Bereich schon vielfach geäußerten Elementen zählen:
 - Vernachlässigung der expliziten Gewährung von Wiederverwendungsrechten (re-use) an Daten, so dass sie ein schlechtes Wiederverwendungsrecht aus Publikationen heraus erben.
 
 
-### Anreize und Kennzahlen:
+### Anreize und Kennzahlen
 
 - Fehlende oder unpassende Anreize, die durch im traditionellen System gefestige Mentalität und Praxis begründete Ängste verstärkt werden, z.B. dass der Austausch von Forschungsdaten die Wettbewerbsfähigkeit eines Individuums beeinträchtigt (z.B. Mythen wie "ich werde verantwortlich gemacht, wenn jemand meine Daten falsch verwendet", oder "ich muss noch fünf weitere Publikationen aus diesem Datensatz herausholen, daher kann ich ihn noch nicht teilen").
 
@@ -1230,7 +1237,7 @@ Zu den im Open Access-Bereich schon vielfach geäußerten Elementen zählen:
 - Mit Blick auf Preprints und Publishing Workflows kommt es zu einer rapide zunehmenden Kolonialisierung der Landschaft durch kommerzielle Interessen (z.B. Erwerb von [SSRN](https://savageminds.org/2016/05/18/its-the-data-stupid-what-elseviers-purchase-of-ssrn-also-means/) sowie des Workflow-Anbieters [Aries Systems](https://www.elsevier.com/about/press-releases/corporate/elsevier-to-acquire-aries-systems-a-best-in-class-publication-workflow-solutions-provider)) durch Elsevier). Dies führt zu einer breiteren kommerziellen Kontrolle, die unabhängig vom letztendlich gewählten Veröffentlichungsort droht.
 
 
-### Widerstand gegen Veränderungen:
+### Widerstand gegen Veränderungen
 
 - Wissenschaftlerinnen und Wissenschaftler sind im Allgemeinen - und ganz ihrer menschlichen Natur gemäß - resistent gegen Veränderungen und werden daher in Summe oft als ein System der "kulturellen Trägheit" innerhalb des Wissenschaftsbetriebs gesehen.
 
@@ -1240,19 +1247,19 @@ Zu den im Open Access-Bereich schon vielfach geäußerten Elementen zählen:
 
 ### Outlook
 
-Es ist wichtig, hier nochmal herauszustellen, dass alle potentiell beteiligten Personen selbstverständlich weiterhin das tun können, was sie bereits gut getan haben - auch wenn sie Open Scholarship als neues Handlungsfeld annehmen. Mit [Weller, 2014](https://doi.org/10.5334/bam), [Veletsianos und Kimmons, 2016](https://doi.org/10.19173/irrodl.v13i4.1313) und [McKiernan, 2017](https://doi.org/10.1371/journal.pbio.1002614) sehen wir Inklusivität als ein entscheidendes Merkmal der sozialen Bewegung, die Open Scholarship darstellt. Während das, was wir hier beschrieben haben, im Idealfall alle vorgenannten Praktiken umfassen kann, kann ein Engagement in Open Science und Scholarshio als Instanzen in einem Spektrum von Praktiken angesehen werden, in welchem jedes Individuum für sich selbst aushandelt muss, wie es sich dazu positionieren möchte.
+Es ist wichtig, hier abschließend herauszustellen, dass alle potentiell beteiligten Personen selbstverständlich weiterhin das tun können, was sie bereits gut getan haben - auch wenn sie Open Scholarship als neues Handlungsfeld annehmen. Mit [Weller, 2014](https://doi.org/10.5334/bam), [Veletsianos und Kimmons, 2016](https://doi.org/10.19173/irrodl.v13i4.1313) und [McKiernan, 2017](https://doi.org/10.1371/journal.pbio.1002614) sehen wir Inklusivität als ein entscheidendes Merkmal der sozialen Bewegung, die Open Scholarship darstellt. Während das, was wir hier beschrieben haben, im Idealfall alle vorgenannten Praktiken umfassen kann, kann ein Engagement in Open Science und Scholarshio als Instanzen in einem Spektrum von Praktiken angesehen werden, in welchem jedes Individuum für sich selbst aushandelt muss, wie es sich dazu positionieren möchte.
 
 Daher sollten zukünftige Kommunikationsbemühungen darauf konzentrieren, deutlich zu machen, dass Praktiken der Openness keineswegs komplett neue Handlungsweisen darstellen, sondern vielfach "nur" effizientere und damit lohnenswertere Variationen von derzeitigen Praktiken darstellen. Darüber hinaus lohnt es, sich klar zu machen, dass Offenheit in Wissenschaft, Forschung und Lehre eine lange Tradition hat, derer wir uns zu Beginn des 21. Jahrhunderts neu besinnen sollten - damit die u.a. von [Watson, 2015](https://doi.org/10.1186/s13059-015-0669-2) gestellte rhetorische Frage "When will ‘open science’ become simply ‘science’?" bald mit einem "Heute und hier!" beantwortet werden kann.
 
-# 11. Conclusions <a name="Conclusions"></a>
+# 11. Schlusswort <a name="Conclusions"></a>
 
-Wir befinden uns inmitten einer rasanten globalen Weiterentwicklung von Werkzeugen, Dienstleistungen und Konzepten im Bereich Open Scholarship; jedoch gab es wenig strategische Koordination bei der Umsetzung der verschiedenen Aspekte von Open Scholarship. Einfach mehr Zeit, Mühe und Geld in die Aufrechterhaltung des Status Quo zu investieren, mit obskuren und fehlgeleiteten Anreizen und einer verzerrten Abhängigkeits- und Machtdynamik, ist für das globale Wissenschaftssystem eindeutig nicht mehr tragbar.
+Wir befinden uns inmitten einer rasanten globalen Weiterentwicklung von Tools, Services und Konzepten im Bereich Open Scholarship; jedoch gab es bis heute wenig strategische Koordination bei der Umsetzung der verschiedenen Aspekte von Open Scholarship. Einfach mehr Zeit, Mühe und Geld in die Aufrechterhaltung des Status Quo zu investieren, mit obskuren und fehlgeleiteten Anreizen und einer verzerrten Abhängigkeits- und Machtdynamik, ist für das globale Wissenschaftssystem eindeutig nicht mehr tragbar.
 
 Dieses Dokument möchte eine umfassende und strategische Lösung für dieses Problem bieten. Indem es Open Scholarship in seine konstituierenden Elemente zerlegt, ermutigt es die zahlreichen involvierten Communities, als Kollektiv kleine Schritte in Richtung einer offeneren Kultur mit relativ geringem Aufwand zu unternehmen. Ausführlich haben wir die Vor- und Nachteile dieser vorgeschlagenen Schritte diskutiert und die Gründe, potenzielle Bedrohungen sowie die vorhandenen Stärken und unterstützenden Initiativen des Movements um Open Scholarship skizziert. Wir glauben, dass eine koordinierte Umsetzung dieser Strategie notwendig sein wird, um sicherzustellen, dass wir nicht auf Lösungen zurückgreifen, die die weitere Entwicklung offener Forschungspraktiken auf globaler Ebene behindern könnten.
 
 Um zu vermeiden, dass die Forschungsgemeinschaft in den nächsten großen profitorientierten Businessplan eingebunden wird, der nur Lippenbekenntnisse zu den Leitwerten, Prinzipien und Praktiken des Open Scholarship abgibt, muss die Wissenschaft ihre wissenschaftliche Praxis auf offene Grundprinzipien ausrichten - vor allem auf den freien Zugang zu Wissenschaft und Forschung, aber auch auf die Möglichkeit, frei an Forschungsergebnissen in all ihren Formen teilzunehmen und diese wiederzuverwenden. Wir sehen diese Freiheiten als wesentlich für jedwege Art von Zukunft des Open Scholarship.
 
-**Wichtiger Hinweis** Der neueste Projektentwurf befindet sich derzeit in Entwicklung und ist für Beiträge unter [GitHub](https://github.com/Open-Scholarship-Strategy/site) verfügbar. Bitte beachte die Datei [README](https://github.com/Open-Scholarship-Strategy/site/blob/master/README.md) für weitere Details; die Hauptinhaltsdatei zum Bearbeiten ist [hier](https://github.com/Open-Scholarship-Strategy/site/blob/master/index.md) zu finden. Änderungen an dieser Datei werden, sofern durch die Moderation genehmigt, automatisch auf dieser Webseite aktualisiert.
+**Wichtiger Hinweis** Der neueste Projektentwurf befindet sich in Entwicklung und ist für Beiträge unter [GitHub](https://github.com/Open-Scholarship-Strategy/site) verfügbar. Bitte beachte die Datei [README](https://github.com/Open-Scholarship-Strategy/site/blob/master/README.md) für weitere Details; die Hauptinhaltsdatei zum Bearbeiten ist [hier](https://github.com/Open-Scholarship-Strategy/site/blob/master/index.md) zu finden. Änderungen an dieser Datei werden, sofern durch die Moderation genehmigt, automatisch auf dieser Webseite aktualisiert.
 
 
 # 12. Quellenangaben <a name="References"></a>
