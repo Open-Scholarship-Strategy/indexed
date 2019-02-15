@@ -38,7 +38,7 @@ Beachte, dass Versionen dieses Dokuments auch in anderen Sprachen wie [Spanisch]
 * [Chancen](#Opportunities)
 * [Bedrohungen](#Threats)
 
-####Redaktion:####
+#### Redaktion
 
 **Deutsche Übersetzung:** [Tobias Steiner](https://orcid.org/0000-0002-3158-3136)
 
